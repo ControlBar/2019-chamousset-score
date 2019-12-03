@@ -1,0 +1,6909 @@
+validityWorking:
+- time:
+    nominalTime: 1.250000 h
+    ssBestTime: null
+    gsBestTime: null
+    nominalDistance: 50.0 km
+    reachMax:
+      extra: 55.568994 km
+      flown: 55.568994 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 127
+    present: 127
+  distance:
+    sum: 1635.0 km
+    flying: 127
+    area: 31.3853491
+    nominalGoal: 0.3
+    nominalDistance: 50.0 km
+    minimumDistance: 3.000 km
+    reachMax:
+      extra: 55.568994 km
+      flown: 55.568994 km
+  stop: null
+validity:
+- time: 1
+  launch: 1
+  distance: 0.41018417
+  task: 0.41018417
+  stop: null
+allocation:
+- goalRatio: 0
+  weight:
+    effort: 0
+    distance: 0.9
+    leading: 8.711786e-2
+    arrival: 0
+    time: 1.288214e-2
+    reach: 0.9
+  points:
+    effort: 0
+    distance: 369.166
+    leading: 35.7
+    arrival: 0
+    time: 5.3
+    reach: 369.166
+  taskPoints: 410
+score:
+- - - - '30'
+      - Andreas MALECKI
+    - place: '1'
+      total: 401
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 369.166
+        leading: 31.4
+        arrival: 0
+        time: 0
+        reach: 369.166
+      landedMade: 48.195 km
+      reach:
+        extra: 55.569 km
+        flown: 55.569 km
+      velocity:
+        ss: 2019-05-26T11:45:17.556264584752Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 286.000 m
+  - - - '18'
+      - Joachim OBERHAUSER
+    - place: '2'
+      total: 384
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 352.219
+        leading: 31.4
+        arrival: 0
+        time: 0
+        reach: 352.219
+      landedMade: 52.994 km
+      reach:
+        extra: 53.018 km
+        flown: 53.018 km
+      velocity:
+        ss: 2019-05-26T11:45:11.194664050507Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 262.000 m
+  - - - '416'
+      - Isidor FINK
+    - place: '3'
+      total: 382
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 351.7
+        leading: 30.5
+        arrival: 0
+        time: 0
+        reach: 351.7
+      landedMade: 52.941 km
+      reach:
+        extra: 52.940 km
+        flown: 52.940 km
+      velocity:
+        ss: 2019-05-26T11:45:01.384732700815Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '1511'
+      - Sergi CLARET
+    - place: '4'
+      total: 374
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 338.168
+        leading: 35.7
+        arrival: 0
+        time: 0
+        reach: 338.168
+      landedMade: 50.904 km
+      reach:
+        extra: 50.903 km
+        flown: 50.903 km
+      velocity:
+        ss: 2019-05-26T11:45:01.343401246074Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '221'
+      - Dusan DURKOVI
+    - place: '5'
+      total: 370
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 337.085
+        leading: 33
+        arrival: 0
+        time: 0
+        reach: 337.085
+      landedMade: 50.741 km
+      reach:
+        extra: 50.740 km
+        flown: 50.740 km
+      velocity:
+        ss: 2019-05-26T11:45:32.08119595295Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '40'
+      - Ronny GEIJSEN
+    - place: '6'
+      total: 368
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 337.304
+        leading: 30.9
+        arrival: 0
+        time: 0
+        reach: 337.304
+      landedMade: 50.774 km
+      reach:
+        extra: 50.773 km
+        flown: 50.773 km
+      velocity:
+        ss: 2019-05-26T11:45:09.524335126768Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 275.000 m
+  - - - '10'
+      - Ernesto HINESTROZA
+    - place: '7'
+      total: 366
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 334.746
+        leading: 31
+        arrival: 0
+        time: 0
+        reach: 334.746
+      landedMade: 50.389 km
+      reach:
+        extra: 50.388 km
+        flown: 50.388 km
+      velocity:
+        ss: 2019-05-26T11:44:59.537241041478Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '1010'
+      - Jan JARES
+    - place: 8=
+      total: 364
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 343.19
+        leading: 21.1
+        arrival: 0
+        time: 0
+        reach: 343.19
+      landedMade: 51.660 km
+      reach:
+        extra: 51.659 km
+        flown: 51.659 km
+      velocity:
+        ss: 2019-05-26T11:45:19.470357569326Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '124'
+      - Keiko HIRAKI
+    - place: 8=
+      total: 364
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 333.537
+        leading: 30.3
+        arrival: 0
+        time: 0
+        reach: 333.537
+      landedMade: 50.207 km
+      reach:
+        extra: 50.206 km
+        flown: 50.206 km
+      velocity:
+        ss: 2019-05-26T11:45:00.578079543311Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '7117'
+      - Ulrich PRINZ
+    - place: '10'
+      total: 363
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 334.447
+        leading: 28.7
+        arrival: 0
+        time: 0
+        reach: 334.447
+      landedMade: 50.344 km
+      reach:
+        extra: 50.343 km
+        flown: 50.343 km
+      velocity:
+        ss: 2019-05-26T11:45:02.21674118315Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 278.000 m
+  - - - '233'
+      - Samuel AVENNE
+    - place: '11'
+      total: 361
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 331.318
+        leading: 29.7
+        arrival: 0
+        time: 0
+        reach: 331.318
+      landedMade: 49.873 km
+      reach:
+        extra: 49.872 km
+        flown: 49.872 km
+      velocity:
+        ss: 2019-05-26T11:45:12.278587194988Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '47'
+      - Andreas NYFFENEGGER
+    - place: '12'
+      total: 360
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 331.239
+        leading: 28.6
+        arrival: 0
+        time: 0
+        reach: 331.239
+      landedMade: 49.860 km
+      reach:
+        extra: 49.860 km
+        flown: 49.860 km
+      velocity:
+        ss: 2019-05-26T11:45:07.454702228816Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '107'
+      - Laurie GENOVESE
+    - place: '13'
+      total: 358
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 324.755
+        leading: 33.5
+        arrival: 0
+        time: 0
+        reach: 324.755
+      landedMade: 48.394 km
+      reach:
+        extra: 48.884 km
+        flown: 48.884 km
+      velocity:
+        ss: 2019-05-26T11:45:02.534840183789Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '35'
+      - Stephane DROUIN
+    - place: '14'
+      total: 353
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 324.841
+        leading: 27.9
+        arrival: 0
+        time: 0
+        reach: 324.841
+      landedMade: 48.752 km
+      reach:
+        extra: 48.897 km
+        flown: 48.897 km
+      velocity:
+        ss: 2019-05-26T11:45:07.551383567079Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '27'
+      - Stefan BERNHARD
+    - place: '15'
+      total: 352
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 323.233
+        leading: 29.2
+        arrival: 0
+        time: 0
+        reach: 323.233
+      landedMade: 48.656 km
+      reach:
+        extra: 48.655 km
+        flown: 48.655 km
+      velocity:
+        ss: 2019-05-26T11:45:05.924988070896Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '63'
+      - Mitch RILEY
+    - place: '16'
+      total: 350
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 321.453
+        leading: 28.8
+        arrival: 0
+        time: 0
+        reach: 321.453
+      landedMade: 48.386 km
+      reach:
+        extra: 48.387 km
+        flown: 48.387 km
+      velocity:
+        ss: 2019-05-26T11:45:56.916441444046Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '236'
+      - Andrey ELISEEV
+    - place: '17'
+      total: 342
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 317.706
+        leading: 24.5
+        arrival: 0
+        time: 0
+        reach: 317.706
+      landedMade: 47.542 km
+      reach:
+        extra: 47.823 km
+        flown: 47.823 km
+      velocity:
+        ss: 2019-05-26T11:45:09.646120117399Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '1'
+      - Pierre REMY
+    - place: '18'
+      total: 329
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 304.599
+        leading: 24.6
+        arrival: 0
+        time: 0
+        reach: 304.599
+      landedMade: 45.850 km
+      reach:
+        extra: 45.850 km
+        flown: 45.850 km
+      velocity:
+        ss: 2019-05-26T11:45:17.095329152451Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 273.000 m
+  - - - '313'
+      - Michele BOSCHI
+    - place: '19'
+      total: 271
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 244.277
+        leading: 26.4
+        arrival: 0
+        time: 0
+        reach: 244.277
+      landedMade: 36.125 km
+      reach:
+        extra: 36.770 km
+        flown: 36.770 km
+      velocity:
+        ss: 2019-05-26T11:44:59.653127109805Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '32'
+      - Torsten SIEGEL
+    - place: '20'
+      total: 267
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 232.757
+        leading: 34.2
+        arrival: 0
+        time: 0
+        reach: 232.757
+      landedMade: 34.968 km
+      reach:
+        extra: 35.036 km
+        flown: 35.036 km
+      velocity:
+        ss: 2019-05-26T11:45:57.788261423162Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 1355.000 m
+  - - - '273'
+      - Cristiano RICCI
+    - place: '21'
+      total: 242
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 217.664
+        leading: 24.1
+        arrival: 0
+        time: 0
+        reach: 217.664
+      landedMade: 32.645 km
+      reach:
+        extra: 32.764 km
+        flown: 32.764 km
+      velocity:
+        ss: 2019-05-26T11:45:03.294784016148Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '13'
+      - Stefan WYSS
+    - place: '22'
+      total: 190
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 163.819
+        leading: 26.6
+        arrival: 0
+        time: 0
+        reach: 163.819
+      landedMade: 24.064 km
+      reach:
+        extra: 24.659 km
+        flown: 24.659 km
+      velocity:
+        ss: 2019-05-26T11:47:18.25575506742Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 300.000 m
+  - - - '580'
+      - Kostiantyn GONCHARENKO
+    - place: '23'
+      total: 114
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 98.083
+        leading: 15.6
+        arrival: 0
+        time: 0
+        reach: 98.083
+      landedMade: 14.007 km
+      reach:
+        extra: 14.764 km
+        flown: 14.764 km
+      velocity:
+        ss: 2019-05-26T11:45:10.650812847301Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - place: '24'
+      total: 106
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 90.888
+        leading: 14.8
+        arrival: 0
+        time: 0
+        reach: 90.888
+      landedMade: 11.043 km
+      reach:
+        extra: 13.681 km
+        flown: 13.681 km
+      velocity:
+        ss: 2019-05-26T12:06:32.902878619179Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '992'
+      - Mitja JANCIC
+    - place: 25=
+      total: 85
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 74.951
+        leading: 10.4
+        arrival: 0
+        time: 0
+        reach: 74.951
+      landedMade: 11.188 km
+      reach:
+        extra: 11.282 km
+        flown: 11.282 km
+      velocity:
+        ss: 2019-05-26T11:45:11.37903394758Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 249.000 m
+  - - - '256'
+      - Karel KUTA
+    - place: 25=
+      total: 85
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 74.652
+        leading: 10.4
+        arrival: 0
+        time: 0
+        reach: 74.652
+      landedMade: 11.194 km
+      reach:
+        extra: 11.237 km
+        flown: 11.237 km
+      velocity:
+        ss: 2019-05-26T11:45:14.702771600887Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 254.000 m
+  - - - '248'
+      - Nanda WALLISER
+    - place: '27'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 73.349
+        leading: 10
+        arrival: 0
+        time: 0
+        reach: 73.349
+      landedMade: 11.058 km
+      reach:
+        extra: 11.041 km
+        flown: 11.041 km
+      velocity:
+        ss: 2019-05-26T11:45:00.30152578786Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '6'
+      - Charles CAZAUX
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 1.766 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '61'
+      - Deonir SPANCERSKI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: -5.244 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:23:25.787736444243Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '280'
+      - Joanna DI GRIGOLI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 0.989 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '517'
+      - Joze MOLEK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 3.417 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 265.000 m
+  - - - '506'
+      - Flavio FUNIATI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 7.437 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '616'
+      - Leandro PADUA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 6.212 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 246.000 m
+  - - - '332'
+      - Sebastian OSPINA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: -5.300 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:24:52.183544877124Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '215'
+      - Michael SOMMERAUER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 4.089 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '205'
+      - Jose REBELO
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 0.220 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '7087'
+      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 7.042 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1115'
+      - Satsuki HOSHIDA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 0.726 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '104'
+      - Marco LITTAME
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 4.033 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 275.000 m
+  - - - '216'
+      - Grant OSELAND
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 2.475 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 301.000 m
+  - - - '59'
+      - Michal GIERLACH
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.684
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.684
+      landedMade: 4.026 km
+      reach:
+        extra: 9.285 km
+        flown: 9.285 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '315'
+      - Malin LOBB
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 2.646 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '147'
+      - Denis CHOURAQUI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 2.647 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '1000'
+      - Bogdan BIALKA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 5.869 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 249.000 m
+  - - - '377'
+      - Yury MISHANIN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 3.635 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '770'
+      - Johannes BAUMGARTEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.75
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.75
+      landedMade: 3.698 km
+      reach:
+        extra: 9.295 km
+        flown: 9.295 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 291.000 m
+  - - - '105'
+      - Stephane BENOIT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 2.036 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '50'
+      - Yoshiaki HIROKAWA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 4.777 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '421'
+      - Chigwon WON
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: -5.280 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:24:43.60650352871Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 293.000 m
+  - - - '206'
+      - Ivan HAAS
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: -4.702 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 294.000 m
+  - - - '54'
+      - Michal SNEIBERG
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 3.865 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 265.000 m
+  - - - '619'
+      - Michel MACQUET
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 1.012 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '500'
+      - JoÔö╝├¡t NAPRET
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 4.519 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '38'
+      - Theo WARDEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 1.798 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1987'
+      - Krzysztof SCHMIDT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 4.250 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '46'
+      - Simon PELLISSIER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 7.465 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 254.000 m
+  - - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.75
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.75
+      landedMade: 3.840 km
+      reach:
+        extra: 9.295 km
+        flown: 9.295 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '1203'
+      - Arnaud BAUMY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 1.830 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 281.000 m
+  - - - '1268'
+      - Marko NOVAK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 4.083 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '21'
+      - Damien LACAZE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 2.948 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '240'
+      - Shinichi HOSHIDA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 1.793 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '78'
+      - RÔö£┬«mi BOURDELLE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 3.196 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '72'
+      - LoÔö£┬╗s GOUTAGNY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 2.992 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '7'
+      - MÔö£┬«ryl DELFERRIERE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 0.962 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '2111'
+      - Jurij VIDIC
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.71
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.71
+      landedMade: 3.578 km
+      reach:
+        extra: 9.289 km
+        flown: 9.289 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '71'
+      - Martin LONG
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 8.538 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '24'
+      - Stephan MORGENTHALER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 3.401 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '162'
+      - Yassen SAVOV
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 7.886 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '1116'
+      - Rolf DALE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 3.667 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 285.000 m
+  - - - '410'
+      - Mari-anne AANES
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 7.420 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '9'
+      - Yongtae AHN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 4.479 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '618'
+      - Petr KOSTRHUN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 3.475 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 278.000 m
+  - - - '453'
+      - Alexander SCHALBER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 2.617 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '219'
+      - Ferdinand VOGEL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.704
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.704
+      landedMade: 4.551 km
+      reach:
+        extra: 9.288 km
+        flown: 9.288 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '55'
+      - Miguel DIAZ RUIZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 1.792 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1282'
+      - Bojan GABERSEK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.717
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.717
+      landedMade: 3.182 km
+      reach:
+        extra: 9.290 km
+        flown: 9.290 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '29'
+      - Yael MARGELISCH
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.71
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.71
+      landedMade: 3.100 km
+      reach:
+        extra: 9.289 km
+        flown: 9.289 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 284.000 m
+  - - - '203'
+      - Christian HOCHEGGER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 3.264 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '374'
+      - Arnaud SECHER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 3.951 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '460'
+      - Adrian SEITZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 3.415 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '271'
+      - Manuel QUINTANILLA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.65
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.65
+      landedMade: 4.082 km
+      reach:
+        extra: 9.280 km
+        flown: 9.280 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '709'
+      - Simon METTETAL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 6.283 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '211'
+      - Nancy BERGE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.684
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.684
+      landedMade: 1.786 km
+      reach:
+        extra: 9.285 km
+        flown: 9.285 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '711'
+      - Jacques FOURNIER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 1.774 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '512'
+      - Vitalii UMANSKYI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 0.877 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 347.000 m
+  - - - '174'
+      - Baptiste LAMBERT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.518
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.518
+      landedMade: 4.572 km
+      reach:
+        extra: 9.260 km
+        flown: 9.260 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 243.000 m
+  - - - '1405'
+      - Mariusz WISNIOWSKI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 2.988 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 298.000 m
+  - - - '22'
+      - Marco BUSETTA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.611
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.611
+      landedMade: 4.025 km
+      reach:
+        extra: 9.274 km
+        flown: 9.274 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '73'
+      - Tanguy RENAUD-GOUD
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 3.529 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '217'
+      - Manu LALY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.624
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.624
+      landedMade: 4.083 km
+      reach:
+        extra: 9.276 km
+        flown: 9.276 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '92'
+      - Jesus COSTA SANCHEZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 3.206 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 286.000 m
+  - - - '911'
+      - Joerg NUBER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.65
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.65
+      landedMade: 2.563 km
+      reach:
+        extra: 9.280 km
+        flown: 9.280 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '811'
+      - Thomas GURY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 2.585 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '311'
+      - Constance METTETAL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.551
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.551
+      landedMade: 3.033 km
+      reach:
+        extra: 9.265 km
+        flown: 9.265 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 294.000 m
+  - - - '925'
+      - Jack BAILEY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.637
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.637
+      landedMade: 8.548 km
+      reach:
+        extra: 9.278 km
+        flown: 9.278 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '34'
+      - Rafael MORAES BARROS
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.624
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.624
+      landedMade: 1.787 km
+      reach:
+        extra: 9.276 km
+        flown: 9.276 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '249'
+      - Emil CERVENAN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.518
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.518
+      landedMade: 3.937 km
+      reach:
+        extra: 9.260 km
+        flown: 9.260 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '2018'
+      - Cyrille MARCK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 0.976 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '43'
+      - Christian BIASI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 3.504 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '3'
+      - Russell OGDEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.418
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.418
+      landedMade: 5.322 km
+      reach:
+        extra: 9.245 km
+        flown: 9.245 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 279.000 m
+  - - - '809'
+      - Andy TALLIA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.611
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.611
+      landedMade: 3.211 km
+      reach:
+        extra: 9.274 km
+        flown: 9.274 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '330'
+      - Helmut EICHHOLZER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 1.794 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '701'
+      - Christian BARTHELMANN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.551
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.551
+      landedMade: 0.983 km
+      reach:
+        extra: 9.265 km
+        flown: 9.265 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1113'
+      - Zoran LABOVIC
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.471
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.471
+      landedMade: 0.960 km
+      reach:
+        extra: 9.253 km
+        flown: 9.253 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '202'
+      - Emma CASANOVA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.352
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.352
+      landedMade: 0.974 km
+      reach:
+        extra: 9.235 km
+        flown: 9.235 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '278'
+      - Aleksei KOROBKOV
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.292
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.292
+      landedMade: 1.965 km
+      reach:
+        extra: 9.226 km
+        flown: 9.226 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.278
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.278
+      landedMade: 4.502 km
+      reach:
+        extra: 9.224 km
+        flown: 9.224 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '49'
+      - Jonathan MARIN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.272
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.272
+      landedMade: 3.159 km
+      reach:
+        extra: 9.223 km
+        flown: 9.223 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '427'
+      - Jerome DELBECQUE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.212
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.212
+      landedMade: 8.570 km
+      reach:
+        extra: 9.214 km
+        flown: 9.214 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 325.000 m
+  - - - '33'
+      - Tim ROCHAS
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.006
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.006
+      landedMade: 3.274 km
+      reach:
+        extra: 9.183 km
+        flown: 9.183 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '17'
+      - Rafael SALADINI
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.82
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 60.82
+      landedMade: 3.447 km
+      reach:
+        extra: 9.155 km
+        flown: 9.155 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '114'
+      - Elisabeth EGGER
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.621
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.621
+      landedMade: 7.862 km
+      reach:
+        extra: 9.125 km
+        flown: 9.125 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 240.000 m
+  - - - '626'
+      - Honorin HAMARD
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.348
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 60.348
+      landedMade: 4.813 km
+      reach:
+        extra: 9.084 km
+        flown: 9.084 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '12'
+      - StÔö£┬«phane POULAIN
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.315
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.315
+      landedMade: 7.437 km
+      reach:
+        extra: 9.079 km
+        flown: 9.079 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '266'
+      - Gildas BEN
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.176
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.176
+      landedMade: 0.988 km
+      reach:
+        extra: 9.058 km
+        flown: 9.058 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 264.000 m
+  - - - '222'
+      - Federico NEVASTRO
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.169
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.169
+      landedMade: 7.825 km
+      reach:
+        extra: 9.057 km
+        flown: 9.057 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 242.000 m
+  - - - '234'
+      - Nicola DI BERNARDO
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.804
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.804
+      landedMade: 4.522 km
+      reach:
+        extra: 9.002 km
+        flown: 9.002 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 242.000 m
+  - - - '98'
+      - Nicola DONINI
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.797
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.797
+      landedMade: 4.404 km
+      reach:
+        extra: 9.001 km
+        flown: 9.001 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '210'
+      - J.p. Robert VANDENBEGINE
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.804
+        leading: 6.9
+        arrival: 0
+        time: 0
+        reach: 59.804
+      landedMade: 7.861 km
+      reach:
+        extra: 9.002 km
+        flown: 9.002 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 243.000 m
+  - - - '339'
+      - Luc ARMANT
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.657
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.657
+      landedMade: 3.979 km
+      reach:
+        extra: 8.980 km
+        flown: 8.980 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '2'
+      - Julien WIRTZ
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.657
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.657
+      landedMade: 4.543 km
+      reach:
+        extra: 8.980 km
+        flown: 8.980 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '8'
+      - Clement LATOUR
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.511
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.511
+      landedMade: 4.525 km
+      reach:
+        extra: 8.958 km
+        flown: 8.958 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 246.000 m
+  - - - '69'
+      - Martin PETZ
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.471
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.471
+      landedMade: 4.565 km
+      reach:
+        extra: 8.952 km
+        flown: 8.952 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '117'
+      - Xevi BONET DALMAU
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.505
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.505
+      landedMade: 4.304 km
+      reach:
+        extra: 8.957 km
+        flown: 8.957 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '5'
+      - Alexandre JOFRESA
+    - place: 125=
+      total: 60
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.109
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 60.109
+      landedMade: 1.724 km
+      reach:
+        extra: 9.048 km
+        flown: 9.048 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '515'
+      - Tilen CEGLAR
+    - place: 125=
+      total: 60
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.691
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 59.691
+      landedMade: 7.422 km
+      reach:
+        extra: 8.985 km
+        flown: 8.985 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 253.000 m
+  - - - '259'
+      - Owen SHOEMAKER
+    - place: '127'
+      total: 33
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 33.124
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 33.124
+      landedMade: 2.172 km
+      reach:
+        extra: 4.986 km
+        flown: 4.986 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 232.000 m
+scoreDf:
+- - - - '30'
+      - Andreas MALECKI
+    - place: '1'
+      total: 401
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 369.166
+        leading: 31.4
+        arrival: 0
+        time: 0
+        reach: 369.166
+      landedMade: 48.195 km
+      reach:
+        extra: 55.569 km
+        flown: 55.569 km
+      velocity:
+        ss: 2019-05-26T11:45:17.556264584752Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 286.000 m
+  - - - '18'
+      - Joachim OBERHAUSER
+    - place: '2'
+      total: 384
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 352.219
+        leading: 31.4
+        arrival: 0
+        time: 0
+        reach: 352.219
+      landedMade: 52.994 km
+      reach:
+        extra: 53.018 km
+        flown: 53.018 km
+      velocity:
+        ss: 2019-05-26T11:45:11.194664050507Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 262.000 m
+  - - - '416'
+      - Isidor FINK
+    - place: '3'
+      total: 382
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 351.7
+        leading: 30.5
+        arrival: 0
+        time: 0
+        reach: 351.7
+      landedMade: 52.941 km
+      reach:
+        extra: 52.940 km
+        flown: 52.940 km
+      velocity:
+        ss: 2019-05-26T11:45:01.384732700815Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '1511'
+      - Sergi CLARET
+    - place: '4'
+      total: 374
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 338.168
+        leading: 35.7
+        arrival: 0
+        time: 0
+        reach: 338.168
+      landedMade: 50.904 km
+      reach:
+        extra: 50.903 km
+        flown: 50.903 km
+      velocity:
+        ss: 2019-05-26T11:45:01.343401246074Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '221'
+      - Dusan DURKOVI
+    - place: '5'
+      total: 370
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 337.085
+        leading: 33
+        arrival: 0
+        time: 0
+        reach: 337.085
+      landedMade: 50.741 km
+      reach:
+        extra: 50.740 km
+        flown: 50.740 km
+      velocity:
+        ss: 2019-05-26T11:45:32.08119595295Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '40'
+      - Ronny GEIJSEN
+    - place: '6'
+      total: 368
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 337.304
+        leading: 30.9
+        arrival: 0
+        time: 0
+        reach: 337.304
+      landedMade: 50.774 km
+      reach:
+        extra: 50.773 km
+        flown: 50.773 km
+      velocity:
+        ss: 2019-05-26T11:45:09.524335126768Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 275.000 m
+  - - - '10'
+      - Ernesto HINESTROZA
+    - place: '7'
+      total: 366
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 334.746
+        leading: 31
+        arrival: 0
+        time: 0
+        reach: 334.746
+      landedMade: 50.389 km
+      reach:
+        extra: 50.388 km
+        flown: 50.388 km
+      velocity:
+        ss: 2019-05-26T11:44:59.537241041478Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '1010'
+      - Jan JARES
+    - place: 8=
+      total: 364
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 343.19
+        leading: 21.1
+        arrival: 0
+        time: 0
+        reach: 343.19
+      landedMade: 51.660 km
+      reach:
+        extra: 51.659 km
+        flown: 51.659 km
+      velocity:
+        ss: 2019-05-26T11:45:19.470357569326Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '124'
+      - Keiko HIRAKI
+    - place: 8=
+      total: 364
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 333.537
+        leading: 30.3
+        arrival: 0
+        time: 0
+        reach: 333.537
+      landedMade: 50.207 km
+      reach:
+        extra: 50.206 km
+        flown: 50.206 km
+      velocity:
+        ss: 2019-05-26T11:45:00.578079543311Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '7117'
+      - Ulrich PRINZ
+    - place: '10'
+      total: 363
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 334.447
+        leading: 28.7
+        arrival: 0
+        time: 0
+        reach: 334.447
+      landedMade: 50.344 km
+      reach:
+        extra: 50.343 km
+        flown: 50.343 km
+      velocity:
+        ss: 2019-05-26T11:45:02.21674118315Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 278.000 m
+  - - - '233'
+      - Samuel AVENNE
+    - place: '11'
+      total: 361
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 331.318
+        leading: 29.7
+        arrival: 0
+        time: 0
+        reach: 331.318
+      landedMade: 49.873 km
+      reach:
+        extra: 49.872 km
+        flown: 49.872 km
+      velocity:
+        ss: 2019-05-26T11:45:12.278587194988Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '47'
+      - Andreas NYFFENEGGER
+    - place: '12'
+      total: 360
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 331.239
+        leading: 28.6
+        arrival: 0
+        time: 0
+        reach: 331.239
+      landedMade: 49.860 km
+      reach:
+        extra: 49.860 km
+        flown: 49.860 km
+      velocity:
+        ss: 2019-05-26T11:45:07.454702228816Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '107'
+      - Laurie GENOVESE
+    - place: '13'
+      total: 358
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 324.755
+        leading: 33.5
+        arrival: 0
+        time: 0
+        reach: 324.755
+      landedMade: 48.394 km
+      reach:
+        extra: 48.884 km
+        flown: 48.884 km
+      velocity:
+        ss: 2019-05-26T11:45:02.534840183789Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '35'
+      - Stephane DROUIN
+    - place: '14'
+      total: 353
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 324.841
+        leading: 27.9
+        arrival: 0
+        time: 0
+        reach: 324.841
+      landedMade: 48.752 km
+      reach:
+        extra: 48.897 km
+        flown: 48.897 km
+      velocity:
+        ss: 2019-05-26T11:45:07.551383567079Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '27'
+      - Stefan BERNHARD
+    - place: '15'
+      total: 352
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 323.233
+        leading: 29.2
+        arrival: 0
+        time: 0
+        reach: 323.233
+      landedMade: 48.656 km
+      reach:
+        extra: 48.655 km
+        flown: 48.655 km
+      velocity:
+        ss: 2019-05-26T11:45:05.924988070896Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '63'
+      - Mitch RILEY
+    - place: '16'
+      total: 350
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 321.453
+        leading: 28.8
+        arrival: 0
+        time: 0
+        reach: 321.453
+      landedMade: 48.386 km
+      reach:
+        extra: 48.387 km
+        flown: 48.387 km
+      velocity:
+        ss: 2019-05-26T11:45:56.916441444046Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '236'
+      - Andrey ELISEEV
+    - place: '17'
+      total: 342
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 317.706
+        leading: 24.5
+        arrival: 0
+        time: 0
+        reach: 317.706
+      landedMade: 47.542 km
+      reach:
+        extra: 47.823 km
+        flown: 47.823 km
+      velocity:
+        ss: 2019-05-26T11:45:09.646120117399Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '1'
+      - Pierre REMY
+    - place: '18'
+      total: 329
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 304.599
+        leading: 24.6
+        arrival: 0
+        time: 0
+        reach: 304.599
+      landedMade: 45.850 km
+      reach:
+        extra: 45.850 km
+        flown: 45.850 km
+      velocity:
+        ss: 2019-05-26T11:45:17.095329152451Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 273.000 m
+  - - - '313'
+      - Michele BOSCHI
+    - place: '19'
+      total: 271
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 244.277
+        leading: 26.4
+        arrival: 0
+        time: 0
+        reach: 244.277
+      landedMade: 36.125 km
+      reach:
+        extra: 36.770 km
+        flown: 36.770 km
+      velocity:
+        ss: 2019-05-26T11:44:59.653127109805Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '32'
+      - Torsten SIEGEL
+    - place: '20'
+      total: 267
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 232.757
+        leading: 34.2
+        arrival: 0
+        time: 0
+        reach: 232.757
+      landedMade: 34.968 km
+      reach:
+        extra: 35.036 km
+        flown: 35.036 km
+      velocity:
+        ss: 2019-05-26T11:45:57.788261423162Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 1355.000 m
+  - - - '273'
+      - Cristiano RICCI
+    - place: '21'
+      total: 242
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 217.664
+        leading: 24.1
+        arrival: 0
+        time: 0
+        reach: 217.664
+      landedMade: 32.645 km
+      reach:
+        extra: 32.764 km
+        flown: 32.764 km
+      velocity:
+        ss: 2019-05-26T11:45:03.294784016148Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '13'
+      - Stefan WYSS
+    - place: '22'
+      total: 190
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 163.819
+        leading: 26.6
+        arrival: 0
+        time: 0
+        reach: 163.819
+      landedMade: 24.064 km
+      reach:
+        extra: 24.659 km
+        flown: 24.659 km
+      velocity:
+        ss: 2019-05-26T11:47:18.25575506742Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 300.000 m
+  - - - '580'
+      - Kostiantyn GONCHARENKO
+    - place: '23'
+      total: 114
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 98.083
+        leading: 15.6
+        arrival: 0
+        time: 0
+        reach: 98.083
+      landedMade: 14.007 km
+      reach:
+        extra: 14.764 km
+        flown: 14.764 km
+      velocity:
+        ss: 2019-05-26T11:45:10.650812847301Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - place: '24'
+      total: 106
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 90.888
+        leading: 14.8
+        arrival: 0
+        time: 0
+        reach: 90.888
+      landedMade: 11.043 km
+      reach:
+        extra: 13.681 km
+        flown: 13.681 km
+      velocity:
+        ss: 2019-05-26T12:06:32.902878619179Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '992'
+      - Mitja JANCIC
+    - place: 25=
+      total: 85
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 74.951
+        leading: 10.4
+        arrival: 0
+        time: 0
+        reach: 74.951
+      landedMade: 11.188 km
+      reach:
+        extra: 11.282 km
+        flown: 11.282 km
+      velocity:
+        ss: 2019-05-26T11:45:11.37903394758Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 249.000 m
+  - - - '256'
+      - Karel KUTA
+    - place: 25=
+      total: 85
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 74.652
+        leading: 10.4
+        arrival: 0
+        time: 0
+        reach: 74.652
+      landedMade: 11.194 km
+      reach:
+        extra: 11.237 km
+        flown: 11.237 km
+      velocity:
+        ss: 2019-05-26T11:45:14.702771600887Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 254.000 m
+  - - - '248'
+      - Nanda WALLISER
+    - place: '27'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 73.349
+        leading: 10
+        arrival: 0
+        time: 0
+        reach: 73.349
+      landedMade: 11.058 km
+      reach:
+        extra: 11.041 km
+        flown: 11.041 km
+      velocity:
+        ss: 2019-05-26T11:45:00.30152578786Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '6'
+      - Charles CAZAUX
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 1.766 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '61'
+      - Deonir SPANCERSKI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: -5.244 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:23:25.787736444243Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '280'
+      - Joanna DI GRIGOLI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 0.989 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '517'
+      - Joze MOLEK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 3.417 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 265.000 m
+  - - - '506'
+      - Flavio FUNIATI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 7.437 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '616'
+      - Leandro PADUA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 6.212 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 246.000 m
+  - - - '332'
+      - Sebastian OSPINA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: -5.300 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:24:52.183544877124Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '215'
+      - Michael SOMMERAUER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 4.089 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '205'
+      - Jose REBELO
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 0.220 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '7087'
+      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 7.042 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1115'
+      - Satsuki HOSHIDA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 0.726 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '104'
+      - Marco LITTAME
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 4.033 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 275.000 m
+  - - - '216'
+      - Grant OSELAND
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 2.475 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 301.000 m
+  - - - '59'
+      - Michal GIERLACH
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.684
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.684
+      landedMade: 4.026 km
+      reach:
+        extra: 9.285 km
+        flown: 9.285 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '315'
+      - Malin LOBB
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 2.646 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '147'
+      - Denis CHOURAQUI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 2.647 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '1000'
+      - Bogdan BIALKA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.6
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 5.869 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 249.000 m
+  - - - '377'
+      - Yury MISHANIN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.79
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.79
+      landedMade: 3.635 km
+      reach:
+        extra: 9.301 km
+        flown: 9.301 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '770'
+      - Johannes BAUMGARTEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.75
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.75
+      landedMade: 3.698 km
+      reach:
+        extra: 9.295 km
+        flown: 9.295 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 291.000 m
+  - - - '105'
+      - Stephane BENOIT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 2.036 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '50'
+      - Yoshiaki HIROKAWA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 4.777 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '421'
+      - Chigwon WON
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: -5.280 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: 2019-05-26T13:24:43.60650352871Z
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 293.000 m
+  - - - '206'
+      - Ivan HAAS
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: -4.702 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 294.000 m
+  - - - '54'
+      - Michal SNEIBERG
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 3.865 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 265.000 m
+  - - - '619'
+      - Michel MACQUET
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 1.012 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '500'
+      - JoÔö╝├¡t NAPRET
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 4.519 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '38'
+      - Theo WARDEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.77
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.77
+      landedMade: 1.798 km
+      reach:
+        extra: 9.298 km
+        flown: 9.298 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1987'
+      - Krzysztof SCHMIDT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 4.250 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '46'
+      - Simon PELLISSIER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.777
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.777
+      landedMade: 7.465 km
+      reach:
+        extra: 9.299 km
+        flown: 9.299 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 254.000 m
+  - - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.75
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.75
+      landedMade: 3.840 km
+      reach:
+        extra: 9.295 km
+        flown: 9.295 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '1203'
+      - Arnaud BAUMY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 1.830 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 281.000 m
+  - - - '1268'
+      - Marko NOVAK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 4.083 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '21'
+      - Damien LACAZE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 2.948 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 277.000 m
+  - - - '240'
+      - Shinichi HOSHIDA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 1.793 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 270.000 m
+  - - - '78'
+      - RÔö£┬«mi BOURDELLE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 3.196 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '72'
+      - LoÔö£┬╗s GOUTAGNY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 2.992 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '7'
+      - MÔö£┬«ryl DELFERRIERE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 0.962 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '2111'
+      - Jurij VIDIC
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.71
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.71
+      landedMade: 3.578 km
+      reach:
+        extra: 9.289 km
+        flown: 9.289 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '71'
+      - Martin LONG
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 8.538 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '24'
+      - Stephan MORGENTHALER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 3.401 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '162'
+      - Yassen SAVOV
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 7.886 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 276.000 m
+  - - - '1116'
+      - Rolf DALE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 3.667 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 285.000 m
+  - - - '410'
+      - Mari-anne AANES
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.783
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.783
+      landedMade: 7.420 km
+      reach:
+        extra: 9.300 km
+        flown: 9.300 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '9'
+      - Yongtae AHN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 4.479 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '618'
+      - Petr KOSTRHUN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 3.475 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 278.000 m
+  - - - '453'
+      - Alexander SCHALBER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.744
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.744
+      landedMade: 2.617 km
+      reach:
+        extra: 9.294 km
+        flown: 9.294 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '219'
+      - Ferdinand VOGEL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.704
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.704
+      landedMade: 4.551 km
+      reach:
+        extra: 9.288 km
+        flown: 9.288 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '55'
+      - Miguel DIAZ RUIZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 1.792 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1282'
+      - Bojan GABERSEK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.717
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.717
+      landedMade: 3.182 km
+      reach:
+        extra: 9.290 km
+        flown: 9.290 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '29'
+      - Yael MARGELISCH
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.71
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.71
+      landedMade: 3.100 km
+      reach:
+        extra: 9.289 km
+        flown: 9.289 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 284.000 m
+  - - - '203'
+      - Christian HOCHEGGER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 3.264 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '374'
+      - Arnaud SECHER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 3.951 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '460'
+      - Adrian SEITZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 3.415 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '271'
+      - Manuel QUINTANILLA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.65
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.65
+      landedMade: 4.082 km
+      reach:
+        extra: 9.280 km
+        flown: 9.280 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '709'
+      - Simon METTETAL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 6.283 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 290.000 m
+  - - - '211'
+      - Nancy BERGE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.684
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.684
+      landedMade: 1.786 km
+      reach:
+        extra: 9.285 km
+        flown: 9.285 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '711'
+      - Jacques FOURNIER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 1.774 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '512'
+      - Vitalii UMANSKYI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 0.877 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 347.000 m
+  - - - '174'
+      - Baptiste LAMBERT
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.518
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.518
+      landedMade: 4.572 km
+      reach:
+        extra: 9.260 km
+        flown: 9.260 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 243.000 m
+  - - - '1405'
+      - Mariusz WISNIOWSKI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 2.988 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 298.000 m
+  - - - '22'
+      - Marco BUSETTA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.611
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.611
+      landedMade: 4.025 km
+      reach:
+        extra: 9.274 km
+        flown: 9.274 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 274.000 m
+  - - - '73'
+      - Tanguy RENAUD-GOUD
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.69
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.69
+      landedMade: 3.529 km
+      reach:
+        extra: 9.286 km
+        flown: 9.286 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 280.000 m
+  - - - '217'
+      - Manu LALY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.624
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.624
+      landedMade: 4.083 km
+      reach:
+        extra: 9.276 km
+        flown: 9.276 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '92'
+      - Jesus COSTA SANCHEZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.724
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.724
+      landedMade: 3.206 km
+      reach:
+        extra: 9.291 km
+        flown: 9.291 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 286.000 m
+  - - - '911'
+      - Joerg NUBER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.65
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.65
+      landedMade: 2.563 km
+      reach:
+        extra: 9.280 km
+        flown: 9.280 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '811'
+      - Thomas GURY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.657
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.657
+      landedMade: 2.585 km
+      reach:
+        extra: 9.281 km
+        flown: 9.281 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 272.000 m
+  - - - '311'
+      - Constance METTETAL
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.551
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.551
+      landedMade: 3.033 km
+      reach:
+        extra: 9.265 km
+        flown: 9.265 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 294.000 m
+  - - - '925'
+      - Jack BAILEY
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.637
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.637
+      landedMade: 8.548 km
+      reach:
+        extra: 9.278 km
+        flown: 9.278 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '34'
+      - Rafael MORAES BARROS
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.624
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.624
+      landedMade: 1.787 km
+      reach:
+        extra: 9.276 km
+        flown: 9.276 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '249'
+      - Emil CERVENAN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.518
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.518
+      landedMade: 3.937 km
+      reach:
+        extra: 9.260 km
+        flown: 9.260 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '2018'
+      - Cyrille MARCK
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.763
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.763
+      landedMade: 0.976 km
+      reach:
+        extra: 9.297 km
+        flown: 9.297 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 267.000 m
+  - - - '43'
+      - Christian BIASI
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.757
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.757
+      landedMade: 3.504 km
+      reach:
+        extra: 9.296 km
+        flown: 9.296 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '3'
+      - Russell OGDEN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.418
+        leading: 7.5
+        arrival: 0
+        time: 0
+        reach: 61.418
+      landedMade: 5.322 km
+      reach:
+        extra: 9.245 km
+        flown: 9.245 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 279.000 m
+  - - - '809'
+      - Andy TALLIA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.611
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.611
+      landedMade: 3.211 km
+      reach:
+        extra: 9.274 km
+        flown: 9.274 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 289.000 m
+  - - - '330'
+      - Helmut EICHHOLZER
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.73
+        leading: 7.2
+        arrival: 0
+        time: 0
+        reach: 61.73
+      landedMade: 1.794 km
+      reach:
+        extra: 9.292 km
+        flown: 9.292 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 268.000 m
+  - - - '701'
+      - Christian BARTHELMANN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.551
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.551
+      landedMade: 0.983 km
+      reach:
+        extra: 9.265 km
+        flown: 9.265 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 266.000 m
+  - - - '1113'
+      - Zoran LABOVIC
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.471
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 61.471
+      landedMade: 0.960 km
+      reach:
+        extra: 9.253 km
+        flown: 9.253 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '202'
+      - Emma CASANOVA
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.352
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.352
+      landedMade: 0.974 km
+      reach:
+        extra: 9.235 km
+        flown: 9.235 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '278'
+      - Aleksei KOROBKOV
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.292
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.292
+      landedMade: 1.965 km
+      reach:
+        extra: 9.226 km
+        flown: 9.226 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 282.000 m
+  - - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.278
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.278
+      landedMade: 4.502 km
+      reach:
+        extra: 9.224 km
+        flown: 9.224 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '49'
+      - Jonathan MARIN
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.272
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.272
+      landedMade: 3.159 km
+      reach:
+        extra: 9.223 km
+        flown: 9.223 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '427'
+      - Jerome DELBECQUE
+    - place: 28=
+      total: 69
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.212
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.212
+      landedMade: 8.570 km
+      reach:
+        extra: 9.214 km
+        flown: 9.214 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 325.000 m
+  - - - '33'
+      - Tim ROCHAS
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 61.006
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 61.006
+      landedMade: 3.274 km
+      reach:
+        extra: 9.183 km
+        flown: 9.183 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 288.000 m
+  - - - '17'
+      - Rafael SALADINI
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.82
+        leading: 7.4
+        arrival: 0
+        time: 0
+        reach: 60.82
+      landedMade: 3.447 km
+      reach:
+        extra: 9.155 km
+        flown: 9.155 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 292.000 m
+  - - - '114'
+      - Elisabeth EGGER
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.621
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.621
+      landedMade: 7.862 km
+      reach:
+        extra: 9.125 km
+        flown: 9.125 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 240.000 m
+  - - - '626'
+      - Honorin HAMARD
+    - place: 110=
+      total: 68
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.348
+        leading: 7.3
+        arrival: 0
+        time: 0
+        reach: 60.348
+      landedMade: 4.813 km
+      reach:
+        extra: 9.084 km
+        flown: 9.084 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 269.000 m
+  - - - '12'
+      - StÔö£┬«phane POULAIN
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.315
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.315
+      landedMade: 7.437 km
+      reach:
+        extra: 9.079 km
+        flown: 9.079 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '266'
+      - Gildas BEN
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.176
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.176
+      landedMade: 0.988 km
+      reach:
+        extra: 9.058 km
+        flown: 9.058 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 264.000 m
+  - - - '222'
+      - Federico NEVASTRO
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.169
+        leading: 7.1
+        arrival: 0
+        time: 0
+        reach: 60.169
+      landedMade: 7.825 km
+      reach:
+        extra: 9.057 km
+        flown: 9.057 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 242.000 m
+  - - - '234'
+      - Nicola DI BERNARDO
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.804
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.804
+      landedMade: 4.522 km
+      reach:
+        extra: 9.002 km
+        flown: 9.002 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 242.000 m
+  - - - '98'
+      - Nicola DONINI
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.797
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.797
+      landedMade: 4.404 km
+      reach:
+        extra: 9.001 km
+        flown: 9.001 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '210'
+      - J.p. Robert VANDENBEGINE
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.804
+        leading: 6.9
+        arrival: 0
+        time: 0
+        reach: 59.804
+      landedMade: 7.861 km
+      reach:
+        extra: 9.002 km
+        flown: 9.002 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 243.000 m
+  - - - '339'
+      - Luc ARMANT
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.657
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.657
+      landedMade: 3.979 km
+      reach:
+        extra: 8.980 km
+        flown: 8.980 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 252.000 m
+  - - - '2'
+      - Julien WIRTZ
+    - place: 114=
+      total: 67
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.657
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.657
+      landedMade: 4.543 km
+      reach:
+        extra: 8.980 km
+        flown: 8.980 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 250.000 m
+  - - - '8'
+      - Clement LATOUR
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.511
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.511
+      landedMade: 4.525 km
+      reach:
+        extra: 8.958 km
+        flown: 8.958 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 246.000 m
+  - - - '69'
+      - Martin PETZ
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.471
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.471
+      landedMade: 4.565 km
+      reach:
+        extra: 8.952 km
+        flown: 8.952 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 248.000 m
+  - - - '117'
+      - Xevi BONET DALMAU
+    - place: 122=
+      total: 66
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.505
+        leading: 7
+        arrival: 0
+        time: 0
+        reach: 59.505
+      landedMade: 4.304 km
+      reach:
+        extra: 8.957 km
+        flown: 8.957 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 271.000 m
+  - - - '5'
+      - Alexandre JOFRESA
+    - place: 125=
+      total: 60
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 60.109
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 60.109
+      landedMade: 1.724 km
+      reach:
+        extra: 9.048 km
+        flown: 9.048 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 283.000 m
+  - - - '515'
+      - Tilen CEGLAR
+    - place: 125=
+      total: 60
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 59.691
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 59.691
+      landedMade: 7.422 km
+      reach:
+        extra: 8.985 km
+        flown: 8.985 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 253.000 m
+  - - - '259'
+      - Owen SHOEMAKER
+    - place: '127'
+      total: 33
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 33.124
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 33.124
+      landedMade: 2.172 km
+      reach:
+        extra: 4.986 km
+        flown: 4.986 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 232.000 m
+scoreDfNoTrack:
+- []

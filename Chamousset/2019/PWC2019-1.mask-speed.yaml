@@ -1,0 +1,396 @@
+ssBestTime:
+- null
+gsBestTime:
+- null
+taskDistance:
+- 63.785994 km
+- 48.222079 km
+taskSpeedDistance:
+- 62.939623 km
+- 48.024628 km
+ssSpeed:
+- []
+gsSpeed:
+- []
+altStopped:
+- - - - '460'
+      - Adrian SEITZ
+    - 283.000 m
+  - - - '278'
+      - Aleksei KOROBKOV
+    - 282.000 m
+  - - - '453'
+      - Alexander SCHALBER
+    - 280.000 m
+  - - - '5'
+      - Alexandre JOFRESA
+    - 283.000 m
+  - - - '30'
+      - Andreas MALECKI
+    - 286.000 m
+  - - - '47'
+      - Andreas NYFFENEGGER
+    - 290.000 m
+  - - - '236'
+      - Andrey ELISEEV
+    - 267.000 m
+  - - - '809'
+      - Andy TALLIA
+    - 289.000 m
+  - - - '1203'
+      - Arnaud BAUMY
+    - 281.000 m
+  - - - '374'
+      - Arnaud SECHER
+    - 268.000 m
+  - - - '174'
+      - Baptiste LAMBERT
+    - 243.000 m
+  - - - '1000'
+      - Bogdan BIALKA
+    - 249.000 m
+  - - - '1282'
+      - Bojan GABERSEK
+    - 289.000 m
+  - - - '6'
+      - Charles CAZAUX
+    - 280.000 m
+  - - - '421'
+      - Chigwon WON
+    - 293.000 m
+  - - - '701'
+      - Christian BARTHELMANN
+    - 266.000 m
+  - - - '43'
+      - Christian BIASI
+    - 283.000 m
+  - - - '203'
+      - Christian HOCHEGGER
+    - 288.000 m
+  - - - '8'
+      - Clement LATOUR
+    - 246.000 m
+  - - - '311'
+      - Constance METTETAL
+    - 294.000 m
+  - - - '273'
+      - Cristiano RICCI
+    - 270.000 m
+  - - - '2018'
+      - Cyrille MARCK
+    - 267.000 m
+  - - - '21'
+      - Damien LACAZE
+    - 277.000 m
+  - - - '147'
+      - Denis CHOURAQUI
+    - 276.000 m
+  - - - '61'
+      - Deonir SPANCERSKI
+    - 290.000 m
+  - - - '221'
+      - Dusan DURKOVI
+    - 274.000 m
+  - - - '114'
+      - Elisabeth EGGER
+    - 240.000 m
+  - - - '249'
+      - Emil CERVENAN
+    - 266.000 m
+  - - - '202'
+      - Emma CASANOVA
+    - 271.000 m
+  - - - '10'
+      - Ernesto HINESTROZA
+    - 282.000 m
+  - - - '222'
+      - Federico NEVASTRO
+    - 242.000 m
+  - - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    - 248.000 m
+  - - - '219'
+      - Ferdinand VOGEL
+    - 252.000 m
+  - - - '506'
+      - Flavio FUNIATI
+    - 250.000 m
+  - - - '266'
+      - Gildas BEN
+    - 264.000 m
+  - - - '216'
+      - Grant OSELAND
+    - 301.000 m
+  - - - '330'
+      - Helmut EICHHOLZER
+    - 268.000 m
+  - - - '626'
+      - Honorin HAMARD
+    - 269.000 m
+  - - - '416'
+      - Isidor FINK
+    - 277.000 m
+  - - - '206'
+      - Ivan HAAS
+    - 294.000 m
+  - - - '210'
+      - J.p. Robert VANDENBEGINE
+    - 243.000 m
+  - - - '925'
+      - Jack BAILEY
+    - 248.000 m
+  - - - '711'
+      - Jacques FOURNIER
+    - 268.000 m
+  - - - '1010'
+      - Jan JARES
+    - 280.000 m
+  - - - '427'
+      - Jerome DELBECQUE
+    - 325.000 m
+  - - - '92'
+      - Jesus COSTA SANCHEZ
+    - 286.000 m
+  - - - '18'
+      - Joachim OBERHAUSER
+    - 262.000 m
+  - - - '280'
+      - Joanna DI GRIGOLI
+    - 270.000 m
+  - - - '911'
+      - Joerg NUBER
+    - 271.000 m
+  - - - '770'
+      - Johannes BAUMGARTEN
+    - 291.000 m
+  - - - '49'
+      - Jonathan MARIN
+    - 292.000 m
+  - - - '205'
+      - Jose REBELO
+    - 274.000 m
+  - - - '517'
+      - Joze MOLEK
+    - 265.000 m
+  - - - '500'
+      - JoÔö╝├¡t NAPRET
+    - 248.000 m
+  - - - '2'
+      - Julien WIRTZ
+    - 250.000 m
+  - - - '2111'
+      - Jurij VIDIC
+    - 280.000 m
+  - - - '256'
+      - Karel KUTA
+    - 254.000 m
+  - - - '124'
+      - Keiko HIRAKI
+    - 280.000 m
+  - - - '580'
+      - Kostiantyn GONCHARENKO
+    - 252.000 m
+  - - - '1987'
+      - Krzysztof SCHMIDT
+    - 269.000 m
+  - - - '107'
+      - Laurie GENOVESE
+    - 268.000 m
+  - - - '616'
+      - Leandro PADUA
+    - 246.000 m
+  - - - '72'
+      - LoÔö£┬╗s GOUTAGNY
+    - 292.000 m
+  - - - '339'
+      - Luc ARMANT
+    - 252.000 m
+  - - - '315'
+      - Malin LOBB
+    - 272.000 m
+  - - - '217'
+      - Manu LALY
+    - 272.000 m
+  - - - '271'
+      - Manuel QUINTANILLA
+    - 272.000 m
+  - - - '22'
+      - Marco BUSETTA
+    - 274.000 m
+  - - - '104'
+      - Marco LITTAME
+    - 275.000 m
+  - - - '410'
+      - Mari-anne AANES
+    - 252.000 m
+  - - - '1405'
+      - Mariusz WISNIOWSKI
+    - 298.000 m
+  - - - '1268'
+      - Marko NOVAK
+    - 271.000 m
+  - - - '71'
+      - Martin LONG
+    - 250.000 m
+  - - - '69'
+      - Martin PETZ
+    - 248.000 m
+  - - - '215'
+      - Michael SOMMERAUER
+    - 268.000 m
+  - - - '59'
+      - Michal GIERLACH
+    - 276.000 m
+  - - - '54'
+      - Michal SNEIBERG
+    - 265.000 m
+  - - - '619'
+      - Michel MACQUET
+    - 272.000 m
+  - - - '313'
+      - Michele BOSCHI
+    - 277.000 m
+  - - - '55'
+      - Miguel DIAZ RUIZ
+    - 266.000 m
+  - - - '63'
+      - Mitch RILEY
+    - 270.000 m
+  - - - '992'
+      - Mitja JANCIC
+    - 249.000 m
+  - - - '7'
+      - MÔö£┬«ryl DELFERRIERE
+    - 268.000 m
+  - - - '211'
+      - Nancy BERGE
+    - 266.000 m
+  - - - '248'
+      - Nanda WALLISER
+    - 248.000 m
+  - - - '234'
+      - Nicola DI BERNARDO
+    - 242.000 m
+  - - - '98'
+      - Nicola DONINI
+    - 248.000 m
+  - - - '259'
+      - Owen SHOEMAKER
+    - 232.000 m
+  - - - '618'
+      - Petr KOSTRHUN
+    - 278.000 m
+  - - - '1'
+      - Pierre REMY
+    - 273.000 m
+  - - - '34'
+      - Rafael MORAES BARROS
+    - 267.000 m
+  - - - '17'
+      - Rafael SALADINI
+    - 292.000 m
+  - - - '1116'
+      - Rolf DALE
+    - 285.000 m
+  - - - '40'
+      - Ronny GEIJSEN
+    - 275.000 m
+  - - - '3'
+      - Russell OGDEN
+    - 279.000 m
+  - - - '78'
+      - RÔö£┬«mi BOURDELLE
+    - 289.000 m
+  - - - '233'
+      - Samuel AVENNE
+    - 290.000 m
+  - - - '1115'
+      - Satsuki HOSHIDA
+    - 268.000 m
+  - - - '332'
+      - Sebastian OSPINA
+    - 290.000 m
+  - - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - 277.000 m
+  - - - '1511'
+      - Sergi CLARET
+    - 267.000 m
+  - - - '240'
+      - Shinichi HOSHIDA
+    - 270.000 m
+  - - - '709'
+      - Simon METTETAL
+    - 290.000 m
+  - - - '46'
+      - Simon PELLISSIER
+    - 254.000 m
+  - - - '27'
+      - Stefan BERNHARD
+    - 268.000 m
+  - - - '13'
+      - Stefan WYSS
+    - 300.000 m
+  - - - '24'
+      - Stephan MORGENTHALER
+    - 282.000 m
+  - - - '105'
+      - Stephane BENOIT
+    - 288.000 m
+  - - - '35'
+      - Stephane DROUIN
+    - 282.000 m
+  - - - '12'
+      - StÔö£┬«phane POULAIN
+    - 250.000 m
+  - - - '73'
+      - Tanguy RENAUD-GOUD
+    - 280.000 m
+  - - - '38'
+      - Theo WARDEN
+    - 266.000 m
+  - - - '811'
+      - Thomas GURY
+    - 272.000 m
+  - - - '515'
+      - Tilen CEGLAR
+    - 253.000 m
+  - - - '33'
+      - Tim ROCHAS
+    - 288.000 m
+  - - - '7087'
+      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+    - 266.000 m
+  - - - '32'
+      - Torsten SIEGEL
+    - 1355.000 m
+  - - - '7117'
+      - Ulrich PRINZ
+    - 278.000 m
+  - - - '512'
+      - Vitalii UMANSKYI
+    - 347.000 m
+  - - - '117'
+      - Xevi BONET DALMAU
+    - 271.000 m
+  - - - '29'
+      - Yael MARGELISCH
+    - 284.000 m
+  - - - '162'
+      - Yassen SAVOV
+    - 276.000 m
+  - - - '9'
+      - Yongtae AHN
+    - 272.000 m
+  - - - '50'
+      - Yoshiaki HIROKAWA
+    - 272.000 m
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - 269.000 m
+  - - - '377'
+      - Yury MISHANIN
+    - 277.000 m
+  - - - '1113'
+      - Zoran LABOVIC
+    - 271.000 m
