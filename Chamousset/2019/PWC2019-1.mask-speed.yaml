@@ -1,7 +1,7 @@
 ssBestTime:
-- null
+- 1.667082 h
 gsBestTime:
-- null
+- 1.640497 h
 taskDistance:
 - 63.785994 km
 - 48.222079 km
@@ -9,9 +9,31 @@ taskSpeedDistance:
 - 62.939623 km
 - 48.024628 km
 ssSpeed:
-- []
+- - - - '421'
+      - Chigwon WON
+    - time: 1.667082 h
+      frac: 1
+  - - - '61'
+      - Deonir SPANCERSKI
+    - time: 1.685210 h
+      frac: 0.94180205
+  - - - '332'
+      - Sebastian OSPINA
+    - time: 1.827017 h
+      frac: 0.75150894
 gsSpeed:
-- []
+- - - - '61'
+      - Deonir SPANCERSKI
+    - time: 1.640497 h
+      frac: 1
+  - - - '421'
+      - Chigwon WON
+    - time: 1.662113 h
+      frac: 0.93420451
+  - - - '332'
+      - Sebastian OSPINA
+    - time: 1.664495 h
+      frac: 0.92945466
 altStopped:
 - - - - '460'
       - Adrian SEITZ
@@ -55,9 +77,6 @@ altStopped:
   - - - '6'
       - Charles CAZAUX
     - 280.000 m
-  - - - '421'
-      - Chigwon WON
-    - 293.000 m
   - - - '701'
       - Christian BARTHELMANN
     - 266.000 m
@@ -85,11 +104,8 @@ altStopped:
   - - - '147'
       - Denis CHOURAQUI
     - 276.000 m
-  - - - '61'
-      - Deonir SPANCERSKI
-    - 290.000 m
   - - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
     - 274.000 m
   - - - '114'
       - Elisabeth EGGER
@@ -173,7 +189,7 @@ altStopped:
       - Joze MOLEK
     - 265.000 m
   - - - '500'
-      - JoÔö╝├¡t NAPRET
+      - Jošt NAPRET
     - 248.000 m
   - - - '2'
       - Julien WIRTZ
@@ -200,7 +216,7 @@ altStopped:
       - Leandro PADUA
     - 246.000 m
   - - - '72'
-      - LoÔö£┬╗s GOUTAGNY
+      - Loïs GOUTAGNY
     - 292.000 m
   - - - '339'
       - Luc ARMANT
@@ -260,7 +276,7 @@ altStopped:
       - Mitja JANCIC
     - 249.000 m
   - - - '7'
-      - MÔö£┬«ryl DELFERRIERE
+      - Méryl DELFERRIERE
     - 268.000 m
   - - - '211'
       - Nancy BERGE
@@ -299,7 +315,7 @@ altStopped:
       - Russell OGDEN
     - 279.000 m
   - - - '78'
-      - RÔö£┬«mi BOURDELLE
+      - Rémi BOURDELLE
     - 289.000 m
   - - - '233'
       - Samuel AVENNE
@@ -307,9 +323,6 @@ altStopped:
   - - - '1115'
       - Satsuki HOSHIDA
     - 268.000 m
-  - - - '332'
-      - Sebastian OSPINA
-    - 290.000 m
   - - - '611'
       - Seiko FUKUOKA NAVILLE
     - 277.000 m
@@ -341,7 +354,7 @@ altStopped:
       - Stephane DROUIN
     - 282.000 m
   - - - '12'
-      - StÔö£┬«phane POULAIN
+      - Stéphane POULAIN
     - 250.000 m
   - - - '73'
       - Tanguy RENAUD-GOUD
@@ -359,7 +372,7 @@ altStopped:
       - Tim ROCHAS
     - 288.000 m
   - - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+      - Tomáš PODMANÍK
     - 266.000 m
   - - - '32'
       - Torsten SIEGEL

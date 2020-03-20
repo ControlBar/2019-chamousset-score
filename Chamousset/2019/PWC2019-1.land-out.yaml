@@ -1,200 +1,32 @@
 minDistance: 3.000 km
 bestDistance:
-- 55.568994 km
+- 63.785994 km
 chunking:
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 561
-  - 56.1 km
-  sumOf: 3297
+  - 641
+  - 64.1 km
+  sumOf: 3692
 landout:
-- 127
+- 124
 lookahead:
 - 30
 difficulty:
-- - chunk: 0
-    startChunk: 0.0 km
-    endChunk: 0.1 km
-    endAhead: 3.1 km
-    down: 4
-    downs:
-    - -5.300 km
-    - -5.280 km
-    - -5.244 km
-    - -4.702 km
-    downers:
-    - - '332'
-      - Sebastian OSPINA
-    - - '421'
-      - Chigwon WON
-    - - '61'
-      - Deonir SPANCERSKI
-    - - '206'
-      - Ivan HAAS
-    downward: 37
-    rel: 5.61116e-3
-    frac: 5.61116e-3
-  - chunk: 2
-    startChunk: 0.2 km
-    endChunk: 0.3 km
-    endAhead: 3.3 km
-    down: 1
-    downs:
-    - 0.220 km
-    downers:
-    - - '205'
-      - Jose REBELO
-    downward: 38
-    rel: 5.76281e-3
-    frac: 1.668183e-2
-  - chunk: 7
-    startChunk: 0.7 km
-    endChunk: 0.8 km
-    endAhead: 3.8 km
-    down: 1
-    downs:
-    - 0.726 km
-    downers:
-    - - '1115'
-      - Satsuki HOSHIDA
-    downward: 52
-    rel: 7.88596e-3
-    frac: 5.141037e-2
-  - chunk: 8
-    startChunk: 0.8 km
-    endChunk: 0.9 km
-    endAhead: 3.9 km
-    down: 1
-    downs:
-    - 0.877 km
-    downers:
-    - - '512'
-      - Vitalii UMANSKYI
-    downward: 51
-    rel: 7.7343e-3
-    frac: 5.914468e-2
-  - chunk: 9
+- - chunk: 9
     startChunk: 0.9 km
     endChunk: 1.0 km
     endAhead: 4.0 km
-    down: 7
+    down: 1
     downs:
-    - 0.960 km
-    - 0.962 km
-    - 0.974 km
     - 0.976 km
-    - 0.983 km
-    - 0.988 km
-    - 0.989 km
     downers:
-    - - '1113'
-      - Zoran LABOVIC
-    - - '7'
-      - MÔö£┬«ryl DELFERRIERE
-    - - '202'
-      - Emma CASANOVA
     - - '2018'
       - Cyrille MARCK
-    - - '701'
-      - Christian BARTHELMANN
-    - - '266'
-      - Gildas BEN
-    - - '280'
-      - Joanna DI GRIGOLI
-    downward: 52
-    rel: 7.88596e-3
-    frac: 6.703063e-2
-  - chunk: 10
-    startChunk: 1.0 km
-    endChunk: 1.1 km
-    endAhead: 4.1 km
-    down: 1
-    downs:
-    - 1.012 km
-    downers:
-    - - '619'
-      - Michel MACQUET
-    downward: 48
-    rel: 7.27934e-3
-    frac: 7.430998e-2
-  - chunk: 17
-    startChunk: 1.7 km
-    endChunk: 1.8 km
-    endAhead: 4.8 km
-    down: 9
-    downs:
-    - 1.724 km
-    - 1.766 km
-    - 1.774 km
-    - 1.786 km
-    - 1.787 km
-    - 1.792 km
-    - 1.793 km
-    - 1.794 km
-    - 1.798 km
-    downers:
-    - - '5'
-      - Alexandre JOFRESA
-    - - '6'
-      - Charles CAZAUX
-    - - '711'
-      - Jacques FOURNIER
-    - - '211'
-      - Nancy BERGE
-    - - '34'
-      - Rafael MORAES BARROS
-    - - '55'
-      - Miguel DIAZ RUIZ
-    - - '240'
-      - Shinichi HOSHIDA
-    - - '330'
-      - Helmut EICHHOLZER
-    - - '38'
-      - Theo WARDEN
-    downward: 66
-    rel: 1.00091e-2
-    frac: 0.13633606
-  - chunk: 18
-    startChunk: 1.8 km
-    endChunk: 1.9 km
-    endAhead: 4.9 km
-    down: 1
-    downs:
-    - 1.830 km
-    downers:
-    - - '1203'
-      - Arnaud BAUMY
-    downward: 58
-    rel: 8.79588e-3
-    frac: 0.14513194
-  - chunk: 19
-    startChunk: 1.9 km
-    endChunk: 2.0 km
-    endAhead: 5.0 km
-    down: 1
-    downs:
-    - 1.965 km
-    downers:
-    - - '278'
-      - Aleksei KOROBKOV
-    downward: 58
-    rel: 8.79588e-3
-    frac: 0.15392781
-  - chunk: 20
-    startChunk: 2.0 km
-    endChunk: 2.1 km
-    endAhead: 5.1 km
-    down: 1
-    downs:
-    - 2.036 km
-    downers:
-    - - '105'
-      - Stephane BENOIT
-    downward: 57
-    rel: 8.64422e-3
-    frac: 0.16257204
+    downward: 3
+    rel: 4.0628e-4
+    frac: 3.25027e-3
   - chunk: 21
     startChunk: 2.1 km
     endChunk: 2.2 km
@@ -205,485 +37,41 @@ difficulty:
     downers:
     - - '259'
       - Owen SHOEMAKER
-    downward: 56
-    rel: 8.49257e-3
-    frac: 0.1710646
-  - chunk: 24
-    startChunk: 2.4 km
-    endChunk: 2.5 km
-    endAhead: 5.5 km
-    down: 1
-    downs:
-    - 2.475 km
-    downers:
-    - - '216'
-      - Grant OSELAND
-    downward: 56
-    rel: 8.49257e-3
-    frac: 0.19623901
-  - chunk: 25
-    startChunk: 2.5 km
-    endChunk: 2.6 km
-    endAhead: 5.6 km
-    down: 2
-    downs:
-    - 2.563 km
-    - 2.585 km
-    downers:
-    - - '911'
-      - Joerg NUBER
-    - - '811'
-      - Thomas GURY
-    downward: 55
-    rel: 8.34092e-3
-    frac: 0.20457992
-  - chunk: 26
-    startChunk: 2.6 km
-    endChunk: 2.7 km
-    endAhead: 5.7 km
-    down: 3
-    downs:
-    - 2.617 km
-    - 2.646 km
-    - 2.647 km
-    downers:
-    - - '453'
-      - Alexander SCHALBER
-    - - '315'
-      - Malin LOBB
-    - - '147'
-      - Denis CHOURAQUI
-    downward: 53
-    rel: 8.03761e-3
-    frac: 0.21261753
-  - chunk: 29
-    startChunk: 2.9 km
-    endChunk: 3.0 km
-    endAhead: 6.0 km
-    down: 3
-    downs:
-    - 2.948 km
-    - 2.988 km
-    - 2.992 km
-    downers:
-    - - '21'
-      - Damien LACAZE
-    - - '1405'
-      - Mariusz WISNIOWSKI
-    - - '72'
-      - LoÔö£┬╗s GOUTAGNY
-    downward: 51
-    rel: 7.7343e-3
-    frac: 0.23551714
-  - chunk: 30
-    startChunk: 3.0 km
-    endChunk: 3.1 km
-    endAhead: 6.1 km
-    down: 2
-    downs:
-    - 3.033 km
-    - 3.100 km
-    downers:
-    - - '311'
-      - Constance METTETAL
-    - - '29'
-      - Yael MARGELISCH
-    downward: 48
-    rel: 7.27934e-3
-    frac: 0.24279648
-  - chunk: 31
-    startChunk: 3.1 km
-    endChunk: 3.2 km
-    endAhead: 6.2 km
-    down: 3
-    downs:
-    - 3.159 km
-    - 3.182 km
-    - 3.196 km
-    downers:
-    - - '49'
-      - Jonathan MARIN
-    - - '1282'
-      - Bojan GABERSEK
-    - - '78'
-      - RÔö£┬«mi BOURDELLE
-    downward: 46
-    rel: 6.97604e-3
-    frac: 0.24977252
-  - chunk: 32
-    startChunk: 3.2 km
-    endChunk: 3.3 km
-    endAhead: 6.3 km
-    down: 4
-    downs:
-    - 3.206 km
-    - 3.211 km
-    - 3.264 km
-    - 3.274 km
-    downers:
-    - - '92'
-      - Jesus COSTA SANCHEZ
-    - - '809'
-      - Andy TALLIA
-    - - '203'
-      - Christian HOCHEGGER
-    - - '33'
-      - Tim ROCHAS
-    downward: 43
-    rel: 6.52108e-3
-    frac: 0.2562936
-  - chunk: 34
-    startChunk: 3.4 km
-    endChunk: 3.5 km
-    endAhead: 6.5 km
-    down: 5
-    downs:
-    - 3.401 km
-    - 3.415 km
-    - 3.417 km
-    - 3.447 km
-    - 3.475 km
-    downers:
-    - - '24'
-      - Stephan MORGENTHALER
-    - - '460'
-      - Adrian SEITZ
-    - - '517'
-      - Joze MOLEK
-    - - '17'
-      - Rafael SALADINI
-    - - '618'
-      - Petr KOSTRHUN
-    downward: 41
-    rel: 6.21777e-3
-    frac: 0.26872915
+    downward: 2
+    rel: 2.7086e-4
+    frac: 6.50054e-3
   - chunk: 35
     startChunk: 3.5 km
     endChunk: 3.6 km
     endAhead: 6.6 km
-    down: 3
+    down: 1
     downs:
     - 3.504 km
-    - 3.529 km
-    - 3.578 km
     downers:
     - - '43'
       - Christian BIASI
-    - - '73'
-      - Tanguy RENAUD-GOUD
-    - - '2111'
-      - Jurij VIDIC
-    downward: 36
-    rel: 5.45951e-3
-    frac: 0.27418866
-  - chunk: 36
-    startChunk: 3.6 km
-    endChunk: 3.7 km
-    endAhead: 6.7 km
+    downward: 1
+    rel: 1.3543e-4
+    frac: 8.39653e-3
+  - chunk: 107
+    startChunk: 10.7 km
+    endChunk: 10.8 km
+    endAhead: 13.8 km
     down: 3
     downs:
-    - 3.635 km
-    - 3.667 km
-    - 3.698 km
+    - 10.755 km
+    - 10.755 km
+    - 10.787 km
     downers:
-    - - '377'
-      - Yury MISHANIN
-    - - '1116'
-      - Rolf DALE
-    - - '770'
-      - Johannes BAUMGARTEN
-    downward: 33
-    rel: 5.00455e-3
-    frac: 0.27919321
-  - chunk: 38
-    startChunk: 3.8 km
-    endChunk: 3.9 km
-    endAhead: 6.9 km
-    down: 2
-    downs:
-    - 3.840 km
-    - 3.865 km
-    downers:
-    - - '611'
-      - Seiko FUKUOKA NAVILLE
-    - - '54'
-      - Michal SNEIBERG
-    downward: 30
-    rel: 4.54959e-3
-    frac: 0.28829239
-  - chunk: 39
-    startChunk: 3.9 km
-    endChunk: 4.0 km
-    endAhead: 7.0 km
-    down: 3
-    downs:
-    - 3.937 km
-    - 3.951 km
-    - 3.979 km
-    downers:
-    - - '249'
-      - Emil CERVENAN
-    - - '374'
-      - Arnaud SECHER
-    - - '339'
-      - Luc ARMANT
-    downward: 28
-    rel: 4.24628e-3
-    frac: 0.29253867
-  - chunk: 40
-    startChunk: 4.0 km
-    endChunk: 4.1 km
-    endAhead: 7.1 km
-    down: 7
-    downs:
-    - 4.025 km
-    - 4.026 km
-    - 4.033 km
-    - 4.082 km
-    - 4.083 km
-    - 4.083 km
-    - 4.089 km
-    downers:
-    - - '22'
-      - Marco BUSETTA
-    - - '59'
-      - Michal GIERLACH
-    - - '104'
-      - Marco LITTAME
-    - - '271'
-      - Manuel QUINTANILLA
-    - - '1268'
-      - Marko NOVAK
-    - - '217'
-      - Manu LALY
-    - - '215'
-      - Michael SOMMERAUER
-    downward: 25
-    rel: 3.79133e-3
-    frac: 0.29633
-  - chunk: 42
-    startChunk: 4.2 km
-    endChunk: 4.3 km
-    endAhead: 7.3 km
-    down: 1
-    downs:
-    - 4.250 km
-    downers:
-    - - '1987'
-      - Krzysztof SCHMIDT
-    downward: 19
-    rel: 2.88141e-3
-    frac: 0.30209281
-  - chunk: 43
-    startChunk: 4.3 km
-    endChunk: 4.4 km
-    endAhead: 7.4 km
-    down: 1
-    downs:
-    - 4.304 km
-    downers:
-    - - '117'
-      - Xevi BONET DALMAU
-    downward: 18
-    rel: 2.72975e-3
-    frac: 0.30482257
-  - chunk: 44
-    startChunk: 4.4 km
-    endChunk: 4.5 km
-    endAhead: 7.5 km
-    down: 2
-    downs:
-    - 4.404 km
-    - 4.479 km
-    downers:
-    - - '98'
-      - Nicola DONINI
-    - - '9'
-      - Yongtae AHN
-    downward: 17
-    rel: 2.5781e-3
-    frac: 0.30740067
-  - chunk: 45
-    startChunk: 4.5 km
-    endChunk: 4.6 km
-    endAhead: 7.6 km
-    down: 8
-    downs:
-    - 4.502 km
-    - 4.519 km
-    - 4.522 km
-    - 4.525 km
-    - 4.543 km
-    - 4.551 km
-    - 4.565 km
-    - 4.572 km
-    downers:
-    - - '45'
-      - Felix RODRIGUEZ FERNANDEZ
-    - - '500'
-      - JoÔö╝├¡t NAPRET
-    - - '234'
-      - Nicola DI BERNARDO
-    - - '8'
-      - Clement LATOUR
-    - - '2'
-      - Julien WIRTZ
-    - - '219'
-      - Ferdinand VOGEL
-    - - '69'
-      - Martin PETZ
-    - - '174'
-      - Baptiste LAMBERT
-    downward: 20
-    rel: 3.03306e-3
-    frac: 0.31043373
-  - chunk: 47
-    startChunk: 4.7 km
-    endChunk: 4.8 km
-    endAhead: 7.8 km
-    down: 1
-    downs:
-    - 4.777 km
-    downers:
-    - - '50'
-      - Yoshiaki HIROKAWA
-    downward: 12
-    rel: 1.81984e-3
-    frac: 0.3140734
-  - chunk: 48
-    startChunk: 4.8 km
-    endChunk: 4.9 km
-    endAhead: 7.9 km
-    down: 1
-    downs:
-    - 4.813 km
-    downers:
-    - - '626'
-      - Honorin HAMARD
-    downward: 11
-    rel: 1.66818e-3
-    frac: 0.31574158
-  - chunk: 53
-    startChunk: 5.3 km
-    endChunk: 5.4 km
-    endAhead: 8.4 km
-    down: 1
-    downs:
-    - 5.322 km
-    downers:
-    - - '3'
-      - Russell OGDEN
-    downward: 14
-    rel: 2.12314e-3
-    frac: 0.32635729
-  - chunk: 58
-    startChunk: 5.8 km
-    endChunk: 5.9 km
-    endAhead: 8.9 km
-    down: 1
-    downs:
-    - 5.869 km
-    downers:
-    - - '1000'
-      - Bogdan BIALKA
-    downward: 16
-    rel: 2.42645e-3
-    frac: 0.33757962
-  - chunk: 62
-    startChunk: 6.2 km
-    endChunk: 6.3 km
-    endAhead: 9.3 km
-    down: 2
-    downs:
-    - 6.212 km
-    - 6.283 km
-    downers:
-    - - '616'
-      - Leandro PADUA
-    - - '709'
-      - Simon METTETAL
-    downward: 15
-    rel: 2.2748e-3
-    frac: 0.3466788
-  - chunk: 70
-    startChunk: 7.0 km
-    endChunk: 7.1 km
-    endAhead: 10.1 km
-    down: 1
-    downs:
-    - 7.042 km
-    downers:
-    - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
-    downward: 13
-    rel: 1.97149e-3
-    frac: 0.36245071
-  - chunk: 74
-    startChunk: 7.4 km
-    endChunk: 7.5 km
-    endAhead: 10.5 km
-    down: 5
-    downs:
-    - 7.420 km
-    - 7.422 km
-    - 7.437 km
-    - 7.437 km
-    - 7.465 km
-    downers:
-    - - '410'
-      - Mari-anne AANES
-    - - '515'
-      - Tilen CEGLAR
-    - - '12'
-      - StÔö£┬«phane POULAIN
-    - - '506'
-      - Flavio FUNIATI
-    - - '46'
-      - Simon PELLISSIER
-    downward: 12
-    rel: 1.81984e-3
-    frac: 0.36973006
-  - chunk: 78
-    startChunk: 7.8 km
-    endChunk: 7.9 km
-    endAhead: 10.9 km
-    down: 4
-    downs:
-    - 7.825 km
-    - 7.861 km
-    - 7.862 km
-    - 7.886 km
-    downers:
-    - - '222'
-      - Federico NEVASTRO
     - - '210'
       - J.p. Robert VANDENBEGINE
     - - '114'
       - Elisabeth EGGER
-    - - '162'
-      - Yassen SAVOV
-    downward: 7
-    rel: 1.06157e-3
-    frac: 0.37397634
-  - chunk: 85
-    startChunk: 8.5 km
-    endChunk: 8.6 km
-    endAhead: 11.6 km
-    down: 3
-    downs:
-    - 8.538 km
-    - 8.548 km
-    - 8.570 km
-    downers:
-    - - '71'
-      - Martin LONG
-    - - '925'
-      - Jack BAILEY
-    - - '427'
-      - Jerome DELBECQUE
-    downward: 7
-    rel: 1.06157e-3
-    frac: 0.37989081
+    - - '222'
+      - Federico NEVASTRO
+    downward: 15
+    rel: 2.03142e-3
+    frac: 5.86403e-2
   - chunk: 110
     startChunk: 11.0 km
     endChunk: 11.1 km
@@ -697,38 +85,198 @@ difficulty:
       - Yoshiki KUREMOTO
     - - '248'
       - Nanda WALLISER
-    downward: 4
-    rel: 6.0661e-4
-    frac: 0.39505611
+    downward: 12
+    rel: 1.62514e-3
+    frac: 6.351571e-2
   - chunk: 111
     startChunk: 11.1 km
     endChunk: 11.2 km
     endAhead: 14.2 km
-    down: 2
+    down: 3
     downs:
+    - 11.183 km
     - 11.188 km
     - 11.194 km
     downers:
+    - - '46'
+      - Simon PELLISSIER
     - - '992'
       - Mitja JANCIC
     - - '256'
       - Karel KUTA
-    downward: 3
-    rel: 4.5496e-4
-    frac: 0.39551107
+    downward: 17
+    rel: 2.30228e-3
+    frac: 6.581798e-2
+  - chunk: 112
+    startChunk: 11.2 km
+    endChunk: 11.3 km
+    endAhead: 14.3 km
+    down: 4
+    downs:
+    - 11.210 km
+    - 11.210 km
+    - 11.225 km
+    - 11.227 km
+    downers:
+    - - '506'
+      - Flavio FUNIATI
+    - - '12'
+      - Stéphane POULAIN
+    - - '515'
+      - Tilen CEGLAR
+    - - '410'
+      - Mari-anne AANES
+    downward: 15
+    rel: 2.03142e-3
+    frac: 6.78494e-2
+  - chunk: 115
+    startChunk: 11.5 km
+    endChunk: 11.6 km
+    endAhead: 14.6 km
+    down: 1
+    downs:
+    - 11.598 km
+    downers:
+    - - '7087'
+      - Tomáš PODMANÍK
+    downward: 12
+    rel: 1.62514e-3
+    frac: 7.272481e-2
+  - chunk: 120
+    startChunk: 12.0 km
+    endChunk: 12.1 km
+    endAhead: 15.1 km
+    down: 1
+    downs:
+    - 12.039 km
+    downers:
+    - - '709'
+      - Simon METTETAL
+    downward: 11
+    rel: 1.48971e-3
+    frac: 8.017335e-2
+  - chunk: 127
+    startChunk: 12.7 km
+    endChunk: 12.8 km
+    endAhead: 15.8 km
+    down: 1
+    downs:
+    - 12.778 km
+    downers:
+    - - '1000'
+      - Bogdan BIALKA
+    downward: 10
+    rel: 1.35428e-3
+    frac: 8.96533e-2
   - chunk: 140
     startChunk: 14.0 km
     endChunk: 14.1 km
     endAhead: 17.1 km
-    down: 1
+    down: 7
     downs:
     - 14.007 km
+    - 14.040 km
+    - 14.053 km
+    - 14.076 km
+    - 14.090 km
+    - 14.092 km
+    - 14.094 km
     downers:
     - - '580'
       - Kostiantyn GONCHARENKO
+    - - '174'
+      - Baptiste LAMBERT
+    - - '69'
+      - Martin PETZ
+    - - '2'
+      - Julien WIRTZ
+    - - '234'
+      - Nicola DI BERNARDO
+    - - '8'
+      - Clement LATOUR
+    - - '500'
+      - Jošt NAPRET
+    downward: 9
+    rel: 1.21885e-3
+    frac: 0.10549837
+  - chunk: 141
+    startChunk: 14.1 km
+    endChunk: 14.2 km
+    endAhead: 17.2 km
+    down: 1
+    downs:
+    - 14.113 km
+    downers:
+    - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    downward: 2
+    rel: 2.7086e-4
+    frac: 0.10576923
+  - chunk: 142
+    startChunk: 14.2 km
+    endChunk: 14.3 km
+    endAhead: 17.3 km
+    down: 1
+    downs:
+    - 14.226 km
+    downers:
+    - - '98'
+      - Nicola DONINI
     downward: 1
-    rel: 1.5165e-4
-    frac: 0.39990901
+    rel: 1.3543e-4
+    frac: 0.10590466
+  - chunk: 185
+    startChunk: 18.5 km
+    endChunk: 18.6 km
+    endAhead: 21.6 km
+    down: 1
+    downs:
+    - 18.591 km
+    downers:
+    - - '339'
+      - Luc ARMANT
+    downward: 3
+    rel: 4.0628e-4
+    frac: 0.11443662
+  - chunk: 190
+    startChunk: 19.0 km
+    endChunk: 19.1 km
+    endAhead: 22.1 km
+    down: 1
+    downs:
+    - 19.046 km
+    downers:
+    - - '219'
+      - Ferdinand VOGEL
+    downward: 2
+    rel: 2.7086e-4
+    frac: 0.1157909
+  - chunk: 207
+    startChunk: 20.7 km
+    endChunk: 20.8 km
+    endAhead: 23.8 km
+    down: 1
+    downs:
+    - 20.723 km
+    downers:
+    - - '616'
+      - Leandro PADUA
+    downward: 2
+    rel: 2.7086e-4
+    frac: 0.11904117
+  - chunk: 230
+    startChunk: 23.0 km
+    endChunk: 23.1 km
+    endAhead: 26.1 km
+    down: 1
+    downs:
+    - 23.060 km
+    downers:
+    - - '427'
+      - Jerome DELBECQUE
+    downward: 4
+    rel: 5.4171e-4
+    frac: 0.12811484
   - chunk: 240
     startChunk: 24.0 km
     endChunk: 24.1 km
@@ -739,9 +287,25 @@ difficulty:
     downers:
     - - '13'
       - Stefan WYSS
-    downward: 1
-    rel: 1.5165e-4
-    frac: 0.4044586
+    downward: 3
+    rel: 4.0628e-4
+    frac: 0.13217768
+  - chunk: 248
+    startChunk: 24.8 km
+    endChunk: 24.9 km
+    endAhead: 27.9 km
+    down: 2
+    downs:
+    - 24.844 km
+    - 24.855 km
+    downers:
+    - - '71'
+      - Martin LONG
+    - - '925'
+      - Jack BAILEY
+    downward: 2
+    rel: 2.7086e-4
+    frac: 0.13434453
   - chunk: 326
     startChunk: 32.6 km
     endChunk: 32.7 km
@@ -752,9 +316,22 @@ difficulty:
     downers:
     - - '273'
       - Cristiano RICCI
-    downward: 2
-    rel: 3.0331e-4
-    frac: 0.41006976
+    downward: 3
+    rel: 4.0628e-4
+    frac: 0.14165764
+  - chunk: 339
+    startChunk: 33.9 km
+    endChunk: 34.0 km
+    endAhead: 37.0 km
+    down: 1
+    downs:
+    - 33.971 km
+    downers:
+    - - '7'
+      - Méryl DELFERRIERE
+    downward: 3
+    rel: 4.0628e-4
+    frac: 0.14626219
   - chunk: 349
     startChunk: 34.9 km
     endChunk: 35.0 km
@@ -766,8 +343,8 @@ difficulty:
     - - '32'
       - Torsten SIEGEL
     downward: 2
-    rel: 3.0331e-4
-    frac: 0.41628753
+    rel: 2.7086e-4
+    frac: 0.14897075
   - chunk: 361
     startChunk: 36.1 km
     endChunk: 36.2 km
@@ -779,8 +356,21 @@ difficulty:
     - - '313'
       - Michele BOSCHI
     downward: 1
-    rel: 1.5165e-4
-    frac: 0.41810737
+    rel: 1.3543e-4
+    frac: 0.15059588
+  - chunk: 398
+    startChunk: 39.8 km
+    endChunk: 39.9 km
+    endAhead: 42.9 km
+    down: 1
+    downs:
+    - 39.811 km
+    downers:
+    - - '206'
+      - Ivan HAAS
+    downward: 1
+    rel: 1.3543e-4
+    frac: 0.15465872
   - chunk: 458
     startChunk: 45.8 km
     endChunk: 45.9 km
@@ -791,22 +381,89 @@ difficulty:
     downers:
     - - '1'
       - Pierre REMY
-    downward: 7
-    rel: 1.06157e-3
-    frac: 0.42766151
+    downward: 28
+    rel: 3.79198e-3
+    frac: 0.18716143
+  - chunk: 468
+    startChunk: 46.8 km
+    endChunk: 46.9 km
+    endAhead: 49.9 km
+    down: 1
+    downs:
+    - 46.853 km
+    downers:
+    - - '205'
+      - Jose REBELO
+    downward: 38
+    rel: 5.14626e-3
+    frac: 0.22955038
+  - chunk: 473
+    startChunk: 47.3 km
+    endChunk: 47.4 km
+    endAhead: 50.4 km
+    down: 1
+    downs:
+    - 47.344 km
+    downers:
+    - - '1115'
+      - Satsuki HOSHIDA
+    downward: 54
+    rel: 7.31311e-3
+    frac: 0.2625948
+  - chunk: 474
+    startChunk: 47.4 km
+    endChunk: 47.5 km
+    endAhead: 50.5 km
+    down: 1
+    downs:
+    - 47.488 km
+    downers:
+    - - '512'
+      - Vitalii UMANSKYI
+    downward: 58
+    rel: 7.85482e-3
+    frac: 0.27044962
   - chunk: 475
     startChunk: 47.5 km
     endChunk: 47.6 km
     endAhead: 50.6 km
-    down: 1
+    down: 6
     downs:
     - 47.542 km
+    - 47.566 km
+    - 47.580 km
+    - 47.589 km
+    - 47.594 km
+    - 47.595 km
     downers:
     - - '236'
       - Andrey ELISEEV
-    downward: 11
-    rel: 1.66818e-3
-    frac: 0.44631483
+    - - '1113'
+      - Zoran LABOVIC
+    - - '202'
+      - Emma CASANOVA
+    - - '701'
+      - Christian BARTHELMANN
+    - - '266'
+      - Gildas BEN
+    - - '280'
+      - Joanna DI GRIGOLI
+    downward: 57
+    rel: 7.71939e-3
+    frac: 0.27816901
+  - chunk: 476
+    startChunk: 47.6 km
+    endChunk: 47.7 km
+    endAhead: 50.7 km
+    down: 1
+    downs:
+    - 47.642 km
+    downers:
+    - - '619'
+      - Michel MACQUET
+    downward: 53
+    rel: 7.17768e-3
+    frac: 0.2853467
   - chunk: 481
     startChunk: 48.1 km
     endChunk: 48.2 km
@@ -817,125 +474,443 @@ difficulty:
     downers:
     - - '30'
       - Andreas MALECKI
-    downward: 13
-    rel: 1.97149e-3
-    frac: 0.45693054
+    downward: 66
+    rel: 8.93824e-3
+    frac: 0.32773564
   - chunk: 483
     startChunk: 48.3 km
     endChunk: 48.4 km
     endAhead: 51.4 km
-    down: 2
+    down: 10
     downs:
+    - 48.361 km
+    - 48.363 km
+    - 48.372 km
+    - 48.378 km
+    - 48.380 km
+    - 48.381 km
+    - 48.385 km
+    - 48.386 km
     - 48.386 km
     - 48.394 km
     downers:
+    - - '5'
+      - Alexandre JOFRESA
+    - - '711'
+      - Jacques FOURNIER
+    - - '34'
+      - Rafael MORAES BARROS
+    - - '240'
+      - Shinichi HOSHIDA
+    - - '55'
+      - Miguel DIAZ RUIZ
+    - - '211'
+      - Nancy BERGE
+    - - '38'
+      - Theo WARDEN
     - - '63'
       - Mitch RILEY
+    - - '330'
+      - Helmut EICHHOLZER
     - - '107'
       - Laurie GENOVESE
-    downward: 12
-    rel: 1.81984e-3
-    frac: 0.46057022
+    downward: 66
+    rel: 8.93824e-3
+    frac: 0.34561213
+  - chunk: 484
+    startChunk: 48.4 km
+    endChunk: 48.5 km
+    endAhead: 51.5 km
+    down: 2
+    downs:
+    - 48.403 km
+    - 48.478 km
+    downers:
+    - - '6'
+      - Charles CAZAUX
+    - - '1203'
+      - Arnaud BAUMY
+    downward: 56
+    rel: 7.58397e-3
+    frac: 0.3531961
   - chunk: 486
     startChunk: 48.6 km
     endChunk: 48.7 km
     endAhead: 51.7 km
-    down: 1
+    down: 2
     downs:
+    - 48.632 km
     - 48.656 km
     downers:
+    - - '278'
+      - Aleksei KOROBKOV
     - - '27'
       - Stefan BERNHARD
-    downward: 10
-    rel: 1.51653e-3
-    frac: 0.46511981
+    downward: 56
+    rel: 7.58397e-3
+    frac: 0.3682286
   - chunk: 487
     startChunk: 48.7 km
     endChunk: 48.8 km
     endAhead: 51.8 km
-    down: 1
+    down: 2
     downs:
+    - 48.703 km
     - 48.752 km
     downers:
+    - - '105'
+      - Stephane BENOIT
     - - '35'
       - Stephane DROUIN
-    downward: 10
-    rel: 1.51653e-3
-    frac: 0.46663634
+    downward: 55
+    rel: 7.44854e-3
+    frac: 0.37567714
+  - chunk: 491
+    startChunk: 49.1 km
+    endChunk: 49.2 km
+    endAhead: 52.2 km
+    down: 1
+    downs:
+    - 49.150 km
+    downers:
+    - - '216'
+      - Grant OSELAND
+    downward: 54
+    rel: 7.31311e-3
+    frac: 0.40465872
+  - chunk: 492
+    startChunk: 49.2 km
+    endChunk: 49.3 km
+    endAhead: 52.3 km
+    down: 3
+    downs:
+    - 49.221 km
+    - 49.241 km
+    - 49.273 km
+    downers:
+    - - '911'
+      - Joerg NUBER
+    - - '811'
+      - Thomas GURY
+    - - '453'
+      - Alexander SCHALBER
+    downward: 53
+    rel: 7.17768e-3
+    frac: 0.4118364
+  - chunk: 493
+    startChunk: 49.3 km
+    endChunk: 49.4 km
+    endAhead: 52.4 km
+    down: 2
+    downs:
+    - 49.302 km
+    - 49.302 km
+    downers:
+    - - '147'
+      - Denis CHOURAQUI
+    - - '315'
+      - Malin LOBB
+    downward: 50
+    rel: 6.7714e-3
+    frac: 0.4186078
+  - chunk: 496
+    startChunk: 49.6 km
+    endChunk: 49.7 km
+    endAhead: 52.7 km
+    down: 3
+    downs:
+    - 49.606 km
+    - 49.666 km
+    - 49.669 km
+    downers:
+    - - '21'
+      - Damien LACAZE
+    - - '1405'
+      - Mariusz WISNIOWSKI
+    - - '72'
+      - Loïs GOUTAGNY
+    downward: 48
+    rel: 6.50054e-3
+    frac: 0.43810943
+  - chunk: 497
+    startChunk: 49.7 km
+    endChunk: 49.8 km
+    endAhead: 52.8 km
+    down: 2
+    downs:
+    - 49.712 km
+    - 49.771 km
+    downers:
+    - - '311'
+      - Constance METTETAL
+    - - '29'
+      - Yael MARGELISCH
+    downward: 45
+    rel: 6.09426e-3
+    frac: 0.44420368
   - chunk: 498
     startChunk: 49.8 km
     endChunk: 49.9 km
     endAhead: 52.9 km
-    down: 2
+    down: 7
     downs:
+    - 49.832 km
+    - 49.854 km
     - 49.860 km
+    - 49.869 km
     - 49.873 km
+    - 49.879 km
+    - 49.885 km
     downers:
+    - - '49'
+      - Jonathan MARIN
+    - - '1282'
+      - Bojan GABERSEK
     - - '47'
       - Andreas NYFFENEGGER
+    - - '78'
+      - Rémi BOURDELLE
     - - '233'
       - Samuel AVENNE
-    downward: 9
-    rel: 1.36488e-3
-    frac: 0.48164998
+    - - '92'
+      - Jesus COSTA SANCHEZ
+    - - '809'
+      - Andy TALLIA
+    downward: 43
+    rel: 5.8234e-3
+    frac: 0.45002709
+  - chunk: 499
+    startChunk: 49.9 km
+    endChunk: 50.0 km
+    endAhead: 53.0 km
+    down: 2
+    downs:
+    - 49.940 km
+    - 49.950 km
+    downers:
+    - - '203'
+      - Christian HOCHEGGER
+    - - '33'
+      - Tim ROCHAS
+    downward: 36
+    rel: 4.87541e-3
+    frac: 0.45490249
+  - chunk: 500
+    startChunk: 50.0 km
+    endChunk: 50.1 km
+    endAhead: 53.1 km
+    down: 3
+    downs:
+    - 50.025 km
+    - 50.079 km
+    - 50.092 km
+    downers:
+    - - '517'
+      - Joze MOLEK
+    - - '24'
+      - Stephan MORGENTHALER
+    - - '460'
+      - Adrian SEITZ
+    downward: 36
+    rel: 4.87541e-3
+    frac: 0.4597779
+  - chunk: 501
+    startChunk: 50.1 km
+    endChunk: 50.2 km
+    endAhead: 53.2 km
+    down: 2
+    downs:
+    - 50.135 km
+    - 50.159 km
+    downers:
+    - - '17'
+      - Rafael SALADINI
+    - - '618'
+      - Petr KOSTRHUN
+    downward: 33
+    rel: 4.46912e-3
+    frac: 0.46424702
   - chunk: 502
     startChunk: 50.2 km
     endChunk: 50.3 km
     endAhead: 53.3 km
-    down: 1
+    down: 3
     downs:
     - 50.207 km
+    - 50.213 km
+    - 50.262 km
     downers:
     - - '124'
       - Keiko HIRAKI
-    downward: 9
-    rel: 1.36488e-3
-    frac: 0.48680619
+    - - '73'
+      - Tanguy RENAUD-GOUD
+    - - '2111'
+      - Jurij VIDIC
+    downward: 31
+    rel: 4.19827e-3
+    frac: 0.46844529
   - chunk: 503
     startChunk: 50.3 km
     endChunk: 50.4 km
     endAhead: 53.4 km
-    down: 2
+    down: 5
     downs:
+    - 50.318 km
     - 50.344 km
+    - 50.356 km
     - 50.389 km
+    - 50.390 km
     downers:
+    - - '377'
+      - Yury MISHANIN
     - - '7117'
       - Ulrich PRINZ
+    - - '1116'
+      - Rolf DALE
     - - '10'
       - Ernesto HINESTROZA
-    downward: 8
-    rel: 1.21322e-3
-    frac: 0.48801941
+    - - '770'
+      - Johannes BAUMGARTEN
+    downward: 28
+    rel: 3.79198e-3
+    frac: 0.47223727
+  - chunk: 505
+    startChunk: 50.5 km
+    endChunk: 50.6 km
+    endAhead: 53.6 km
+    down: 2
+    downs:
+    - 50.532 km
+    - 50.554 km
+    downers:
+    - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - - '54'
+      - Michal SNEIBERG
+    downward: 23
+    rel: 3.11484e-3
+    frac: 0.47846696
+  - chunk: 506
+    startChunk: 50.6 km
+    endChunk: 50.7 km
+    endAhead: 53.7 km
+    down: 2
+    downs:
+    - 50.628 km
+    - 50.642 km
+    downers:
+    - - '249'
+      - Emil CERVENAN
+    - - '374'
+      - Arnaud SECHER
+    downward: 21
+    rel: 2.84399e-3
+    frac: 0.48131094
   - chunk: 507
     startChunk: 50.7 km
     endChunk: 50.8 km
     endAhead: 53.8 km
-    down: 2
+    down: 9
     downs:
+    - 50.720 km
+    - 50.723 km
+    - 50.724 km
+    - 50.727 km
+    - 50.731 km
     - 50.741 km
+    - 50.770 km
     - 50.774 km
+    - 50.779 km
     downers:
+    - - '22'
+      - Marco BUSETTA
+    - - '271'
+      - Manuel QUINTANILLA
+    - - '59'
+      - Michal GIERLACH
+    - - '104'
+      - Marco LITTAME
+    - - '215'
+      - Michael SOMMERAUER
     - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
+    - - '1268'
+      - Marko NOVAK
     - - '40'
       - Ronny GEIJSEN
-    downward: 6
-    rel: 9.0992e-4
-    frac: 0.49165908
+    - - '217'
+      - Manu LALY
+    downward: 19
+    rel: 2.57313e-3
+    frac: 0.48388407
+  - chunk: 508
+    startChunk: 50.8 km
+    endChunk: 50.9 km
+    endAhead: 53.9 km
+    down: 1
+    downs:
+    - 50.887 km
+    downers:
+    - - '1987'
+      - Krzysztof SCHMIDT
+    downward: 10
+    rel: 1.35428e-3
+    frac: 0.48523835
   - chunk: 509
     startChunk: 50.9 km
     endChunk: 51.0 km
     endAhead: 54.0 km
-    down: 1
+    down: 2
     downs:
     - 50.904 km
+    - 50.990 km
     downers:
     - - '1511'
       - Sergi CLARET
-    downward: 4
-    rel: 6.0661e-4
-    frac: 0.49287231
+    - - '117'
+      - Xevi BONET DALMAU
+    downward: 9
+    rel: 1.21885e-3
+    frac: 0.4864572
+  - chunk: 511
+    startChunk: 51.1 km
+    endChunk: 51.2 km
+    endAhead: 54.2 km
+    down: 1
+    downs:
+    - 51.128 km
+    downers:
+    - - '9'
+      - Yongtae AHN
+    downward: 7
+    rel: 9.48e-4
+    frac: 0.4883532
+  - chunk: 514
+    startChunk: 51.4 km
+    endChunk: 51.5 km
+    endAhead: 54.5 km
+    down: 1
+    downs:
+    - 51.433 km
+    downers:
+    - - '50'
+      - Yoshiaki HIROKAWA
+    downward: 6
+    rel: 8.1257e-4
+    frac: 0.4907909
+  - chunk: 515
+    startChunk: 51.5 km
+    endChunk: 51.6 km
+    endAhead: 54.6 km
+    down: 1
+    downs:
+    - 51.531 km
+    downers:
+    - - '626'
+      - Honorin HAMARD
+    downward: 5
+    rel: 6.7714e-4
+    frac: 0.49146804
   - chunk: 516
     startChunk: 51.6 km
     endChunk: 51.7 km
@@ -946,9 +921,22 @@ difficulty:
     downers:
     - - '1010'
       - Jan JARES
+    downward: 4
+    rel: 5.4171e-4
+    frac: 0.49200975
+  - chunk: 519
+    startChunk: 51.9 km
+    endChunk: 52.0 km
+    endAhead: 55.0 km
+    down: 1
+    downs:
+    - 51.937 km
+    downers:
+    - - '3'
+      - Russell OGDEN
     downward: 3
-    rel: 4.5496e-4
-    frac: 0.49605702
+    rel: 4.0628e-4
+    frac: 0.4932286
   - chunk: 529
     startChunk: 52.9 km
     endChunk: 53.0 km
@@ -962,6 +950,19 @@ difficulty:
       - Isidor FINK
     - - '18'
       - Joachim OBERHAUSER
-    downward: 2
-    rel: 3.0331e-4
+    downward: 3
+    rel: 4.0628e-4
+    frac: 0.49729144
+  - chunk: 549
+    startChunk: 54.9 km
+    endChunk: 55.0 km
+    endAhead: 58.0 km
+    down: 1
+    downs:
+    - 54.904 km
+    downers:
+    - - '162'
+      - Yassen SAVOV
+    downward: 1
+    rel: 1.3543e-4
     frac: 0.5

@@ -1,522 +1,531 @@
 bolster:
-- max: 55.568994 km
-  mean: 15.873774 km
-  stdDev: 14.602974 km
+- max: 63.785994 km
+  mean: 40.510844 km
+  stdDev: 16.534491 km
 reach:
-- max: 55.568994 km
-  mean: 15.873774 km
-  stdDev: 14.602974 km
+- max: 63.785994 km
+  mean: 40.510844 km
+  stdDev: 16.534491 km
 reachRank:
-- - - - '30'
-      - Andreas MALECKI
+- - - - '61'
+      - Deonir SPANCERSKI
     - frac: 1
+      reach: 63.785994 km
+  - - - '421'
+      - Chigwon WON
+    - frac: 1
+      reach: 63.785994 km
+  - - - '332'
+      - Sebastian OSPINA
+    - frac: 1
+      reach: 63.785994 km
+  - - - '205'
+      - Jose REBELO
+    - frac: 0.87367133
+      reach: 55.727994 km
+  - - - '215'
+      - Michael SOMMERAUER
+    - frac: 0.87362429
+      reach: 55.724994 km
+  - - - '6'
+      - Charles CAZAUX
+    - frac: 0.87362429
+      reach: 55.724994 km
+  - - - '3'
+      - Russell OGDEN
+    - frac: 0.87360862
+      reach: 55.723994 km
+  - - - '517'
+      - Joze MOLEK
+    - frac: 0.87359294
+      reach: 55.722994 km
+  - - - '1203'
+      - Arnaud BAUMY
+    - frac: 0.87356158
+      reach: 55.720994 km
+  - - - '271'
+      - Manuel QUINTANILLA
+    - frac: 0.87354591
+      reach: 55.719994 km
+  - - - '24'
+      - Stephan MORGENTHALER
+    - frac: 0.8723701
+      reach: 55.644994 km
+  - - - '5'
+      - Alexandre JOFRESA
+    - frac: 0.87233875
+      reach: 55.642994 km
+  - - - '30'
+      - Andreas MALECKI
+    - frac: 0.87117862
       reach: 55.568994 km
+  - - - '162'
+      - Yassen SAVOV
+    - frac: 0.86075313
+      reach: 54.903994 km
   - - - '18'
       - Joachim OBERHAUSER
-    - frac: 0.9540931
+    - frac: 0.83118551
       reach: 53.017994 km
   - - - '416'
       - Isidor FINK
-    - frac: 0.95268944
+    - frac: 0.82996267
       reach: 52.939994 km
   - - - '1010'
       - Jan JARES
-    - frac: 0.92963702
+    - frac: 0.80987989
       reach: 51.658994 km
+  - - - '626'
+      - Honorin HAMARD
+    - frac: 0.80787318
+      reach: 51.530994 km
+  - - - '50'
+      - Yoshiaki HIROKAWA
+    - frac: 0.8063368
+      reach: 51.432994 km
+  - - - '9'
+      - Yongtae AHN
+    - frac: 0.80158654
+      reach: 51.129994 km
+  - - - '1268'
+      - Marko NOVAK
+    - frac: 0.80026963
+      reach: 51.045994 km
+  - - - '117'
+      - Xevi BONET DALMAU
+    - frac: 0.7993917
+      reach: 50.989994 km
+  - - - '1987'
+      - Krzysztof SCHMIDT
+    - frac: 0.79901544
+      reach: 50.965994 km
   - - - '1511'
       - Sergi CLARET
-    - frac: 0.91603231
+    - frac: 0.79802776
       reach: 50.902994 km
+  - - - '217'
+      - Manu LALY
+    - frac: 0.79606808
+      reach: 50.777994 km
+  - - - '104'
+      - Marco LITTAME
+    - frac: 0.79603673
+      reach: 50.775994 km
   - - - '40'
       - Ronny GEIJSEN
-    - frac: 0.91369288
+    - frac: 0.7959897
       reach: 50.772994 km
   - - - '221'
-      - Dusan DURKOVI
-    - frac: 0.91309902
+      - Dusan DURKOVI?
+    - frac: 0.79547234
       reach: 50.739994 km
+  - - - '59'
+      - Michal GIERLACH
+    - frac: 0.79523718
+      reach: 50.724994 km
+  - - - '22'
+      - Marco BUSETTA
+    - frac: 0.79514312
+      reach: 50.718994 km
+  - - - '374'
+      - Arnaud SECHER
+    - frac: 0.79392028
+      reach: 50.640994 km
+  - - - '249'
+      - Emil CERVENAN
+    - frac: 0.79370079
+      reach: 50.626994 km
+  - - - '54'
+      - Michal SNEIBERG
+    - frac: 0.79254066
+      reach: 50.552994 km
+  - - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - frac: 0.79219576
+      reach: 50.530994 km
+  - - - '770'
+      - Johannes BAUMGARTEN
+    - frac: 0.78995389
+      reach: 50.387994 km
   - - - '10'
       - Ernesto HINESTROZA
-    - frac: 0.90676455
+    - frac: 0.78995389
       reach: 50.387994 km
+  - - - '1116'
+      - Rolf DALE
+    - frac: 0.78942086
+      reach: 50.353994 km
   - - - '7117'
       - Ulrich PRINZ
-    - frac: 0.90595475
+    - frac: 0.7892484
       reach: 50.342994 km
+  - - - '377'
+      - Yury MISHANIN
+    - frac: 0.78882511
+      reach: 50.315994 km
+  - - - '2111'
+      - Jurij VIDIC
+    - frac: 0.78805692
+      reach: 50.266994 km
+  - - - '73'
+      - Tanguy RENAUD-GOUD
+    - frac: 0.78719466
+      reach: 50.211994 km
   - - - '124'
       - Keiko HIRAKI
-    - frac: 0.90348935
+    - frac: 0.7871006
       reach: 50.205994 km
+  - - - '618'
+      - Petr KOSTRHUN
+    - frac: 0.78634808
+      reach: 50.157994 km
+  - - - '17'
+      - Rafael SALADINI
+    - frac: 0.78597182
+      reach: 50.133994 km
+  - - - '460'
+      - Adrian SEITZ
+    - frac: 0.78529769
+      reach: 50.090994 km
+  - - - '33'
+      - Tim ROCHAS
+    - frac: 0.78310285
+      reach: 49.950994 km
+  - - - '203'
+      - Christian HOCHEGGER
+    - frac: 0.78291473
+      reach: 49.938994 km
+  - - - '809'
+      - Andy TALLIA
+    - frac: 0.78205247
+      reach: 49.883994 km
+  - - - '92'
+      - Jesus COSTA SANCHEZ
+    - frac: 0.78200544
+      reach: 49.880994 km
   - - - '233'
       - Samuel AVENNE
-    - frac: 0.8974788
+    - frac: 0.78186434
       reach: 49.871994 km
+  - - - '78'
+      - Rémi BOURDELLE
+    - frac: 0.78180163
+      reach: 49.867994 km
   - - - '47'
       - Andreas NYFFENEGGER
-    - frac: 0.89726285
+    - frac: 0.78167621
       reach: 49.859994 km
+  - - - '1282'
+      - Bojan GABERSEK
+    - frac: 0.78156647
+      reach: 49.852994 km
+  - - - '49'
+      - Jonathan MARIN
+    - frac: 0.78122156
+      reach: 49.830994 km
+  - - - '29'
+      - Yael MARGELISCH
+    - frac: 0.7802966
+      reach: 49.771994 km
+  - - - '311'
+      - Constance METTETAL
+    - frac: 0.77934027
+      reach: 49.710994 km
+  - - - '72'
+      - Loïs GOUTAGNY
+    - frac: 0.77866614
+      reach: 49.667994 km
+  - - - '1405'
+      - Mariusz WISNIOWSKI
+    - frac: 0.77861911
+      reach: 49.664994 km
+  - - - '21'
+      - Damien LACAZE
+    - frac: 0.77770982
+      reach: 49.606994 km
+  - - - '315'
+      - Malin LOBB
+    - frac: 0.77402563
+      reach: 49.371994 km
+  - - - '147'
+      - Denis CHOURAQUI
+    - frac: 0.77292821
+      reach: 49.301994 km
+  - - - '453'
+      - Alexander SCHALBER
+    - frac: 0.77247356
+      reach: 49.272994 km
+  - - - '216'
+      - Grant OSELAND
+    - frac: 0.77205027
+      reach: 49.245994 km
+  - - - '811'
+      - Thomas GURY
+    - frac: 0.77197188
+      reach: 49.240994 km
+  - - - '911'
+      - Joerg NUBER
+    - frac: 0.77168969
+      reach: 49.222994 km
+  - - - '105'
+      - Stephane BENOIT
+    - frac: 0.76871098
+      reach: 49.032994 km
+  - - - '55'
+      - Miguel DIAZ RUIZ
+    - frac: 0.7678644
+      reach: 48.978994 km
   - - - '35'
       - Stephane DROUIN
-    - frac: 0.87993304
+    - frac: 0.76657885
       reach: 48.896994 km
   - - - '107'
       - Laurie GENOVESE
-    - frac: 0.8796991
+    - frac: 0.76637504
       reach: 48.883994 km
+  - - - '38'
+      - Theo WARDEN
+    - frac: 0.76582633
+      reach: 48.848994 km
+  - - - '711'
+      - Jacques FOURNIER
+    - frac: 0.76502679
+      reach: 48.797994 km
+  - - - '278'
+      - Aleksei KOROBKOV
+    - frac: 0.76485433
+      reach: 48.786994 km
   - - - '27'
       - Stefan BERNHARD
-    - frac: 0.8755781
+    - frac: 0.76278491
       reach: 48.654994 km
+  - - - '240'
+      - Shinichi HOSHIDA
+    - frac: 0.75961808
+      reach: 48.452994 km
+  - - - '211'
+      - Nancy BERGE
+    - frac: 0.7591164
+      reach: 48.420994 km
+  - - - '330'
+      - Helmut EICHHOLZER
+    - frac: 0.75859904
+      reach: 48.387994 km
   - - - '63'
       - Mitch RILEY
-    - frac: 0.87075526
+    - frac: 0.75858337
       reach: 48.386994 km
+  - - - '34'
+      - Rafael MORAES BARROS
+    - frac: 0.75853633
+      reach: 48.383994 km
+  - - - '701'
+      - Christian BARTHELMANN
+    - frac: 0.74992943
+      reach: 47.834994 km
   - - - '236'
       - Andrey ELISEEV
-    - frac: 0.86060572
+    - frac: 0.7497413
       reach: 47.822994 km
+  - - - '619'
+      - Michel MACQUET
+    - frac: 0.74690369
+      reach: 47.641994 km
+  - - - '202'
+      - Emma CASANOVA
+    - frac: 0.74676259
+      reach: 47.632994 km
+  - - - '266'
+      - Gildas BEN
+    - frac: 0.74630794
+      reach: 47.603994 km
+  - - - '1113'
+      - Zoran LABOVIC
+    - frac: 0.74626091
+      reach: 47.600994 km
+  - - - '280'
+      - Joanna DI GRIGOLI
+    - frac: 0.74616685
+      reach: 47.594994 km
+  - - - '512'
+      - Vitalii UMANSKYI
+    - frac: 0.74447368
+      reach: 47.486994 km
+  - - - '1115'
+      - Satsuki HOSHIDA
+    - frac: 0.74263943
+      reach: 47.369994 km
   - - - '1'
       - Pierre REMY
-    - frac: 0.82510031
+    - frac: 0.71880974
       reach: 45.849994 km
+  - - - '206'
+      - Ivan HAAS
+    - frac: 0.62413379
+      reach: 39.810994 km
   - - - '313'
       - Michele BOSCHI
-    - frac: 0.66169983
+    - frac: 0.57645874
       reach: 36.769994 km
   - - - '32'
       - Torsten SIEGEL
-    - frac: 0.63049538
+    - frac: 0.54927409
       reach: 35.035994 km
+  - - - '7'
+      - Méryl DELFERRIERE
+    - frac: 0.54513525
+      reach: 34.771994 km
   - - - '273'
       - Cristiano RICCI
-    - frac: 0.58960927
+    - frac: 0.51365499
       reach: 32.763994 km
+  - - - '925'
+      - Jack BAILEY
+    - frac: 0.39583916
+      reach: 25.248994 km
+  - - - '71'
+      - Martin LONG
+    - frac: 0.39544722
+      reach: 25.223994 km
   - - - '13'
       - Stefan WYSS
-    - frac: 0.44375455
+    - frac: 0.38658948
       reach: 24.658994 km
+  - - - '427'
+      - Jerome DELBECQUE
+    - frac: 0.36642831
+      reach: 23.372994 km
+  - - - '616'
+      - Leandro PADUA
+    - frac: 0.33499508
+      reach: 21.367994 km
+  - - - '219'
+      - Ferdinand VOGEL
+    - frac: 0.30255849
+      reach: 19.298994 km
+  - - - '339'
+      - Luc ARMANT
+    - frac: 0.29696165
+      reach: 18.941994 km
+  - - - '500'
+      - Jošt NAPRET
+    - frac: 0.24417577
+      reach: 15.574994 km
+  - - - '98'
+      - Nicola DONINI
+    - frac: 0.23257447
+      reach: 14.834994 km
   - - - '580'
       - Kostiantyn GONCHARENKO
-    - frac: 0.26568762
+    - frac: 0.23146138
       reach: 14.763994 km
+  - - - '234'
+      - Nicola DI BERNARDO
+    - frac: 0.22832589
+      reach: 14.563994 km
+  - - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    - frac: 0.22824751
+      reach: 14.558994 km
+  - - - '2'
+      - Julien WIRTZ
+    - frac: 0.22780854
+      reach: 14.530994 km
+  - - - '8'
+      - Clement LATOUR
+    - frac: 0.22757338
+      reach: 14.515994 km
+  - - - '69'
+      - Martin PETZ
+    - frac: 0.22718144
+      reach: 14.490994 km
+  - - - '174'
+      - Baptiste LAMBERT
+    - frac: 0.22164731
+      reach: 14.137994 km
   - - - '312'
       - Yoshiki KUREMOTO
-    - frac: 0.24619834
+    - frac: 0.21448273
       reach: 13.680994 km
+  - - - '1000'
+      - Bogdan BIALKA
+    - frac: 0.20065524
+      reach: 12.798994 km
+  - - - '709'
+      - Simon METTETAL
+    - frac: 0.19104498
+      reach: 12.185994 km
+  - - - '7087'
+      - Tomáš PODMANÍK
+    - frac: 0.18612227
+      reach: 11.871994 km
+  - - - '410'
+      - Mari-anne AANES
+    - frac: 0.17994537
+      reach: 11.477994 km
+  - - - '46'
+      - Simon PELLISSIER
+    - frac: 0.17751536
+      reach: 11.322994 km
   - - - '992'
       - Mitja JANCIC
-    - frac: 0.20302678
+    - frac: 0.17687259
       reach: 11.281994 km
+  - - - '506'
+      - Flavio FUNIATI
+    - frac: 0.17671582
+      reach: 11.271994 km
+  - - - '515'
+      - Tilen CEGLAR
+    - frac: 0.17646498
+      reach: 11.255994 km
+  - - - '12'
+      - Stéphane POULAIN
+    - frac: 0.17618278
+      reach: 11.237994 km
   - - - '256'
       - Karel KUTA
-    - frac: 0.20221698
+    - frac: 0.17616711
       reach: 11.236994 km
   - - - '248'
       - Nanda WALLISER
-    - frac: 0.19868983
+    - frac: 0.17309433
       reach: 11.040994 km
-  - - - '377'
-      - Yury MISHANIN
-    - frac: 0.1673774
-      reach: 9.300994 km
-  - - - '6'
-      - Charles CAZAUX
-    - frac: 0.1673774
-      reach: 9.300994 km
-  - - - '205'
-      - Jose REBELO
-    - frac: 0.1673774
-      reach: 9.300994 km
-  - - - '506'
-      - Flavio FUNIATI
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '410'
-      - Mari-anne AANES
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '50'
-      - Yoshiaki HIROKAWA
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '54'
-      - Michal SNEIBERG
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '206'
-      - Ivan HAAS
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '421'
-      - Chigwon WON
-    - frac: 0.16735941
-      reach: 9.299994 km
-  - - - '46'
-      - Simon PELLISSIER
-    - frac: 0.16734141
-      reach: 9.298994 km
-  - - - '215'
-      - Michael SOMMERAUER
-    - frac: 0.16734141
-      reach: 9.298994 km
-  - - - '104'
-      - Marco LITTAME
-    - frac: 0.16734141
-      reach: 9.298994 km
-  - - - '1115'
-      - Satsuki HOSHIDA
-    - frac: 0.16734141
-      reach: 9.298994 km
-  - - - '61'
-      - Deonir SPANCERSKI
-    - frac: 0.16734141
-      reach: 9.298994 km
-  - - - '517'
-      - Joze MOLEK
-    - frac: 0.16732342
-      reach: 9.297994 km
-  - - - '315'
-      - Malin LOBB
-    - frac: 0.16732342
-      reach: 9.297994 km
-  - - - '216'
-      - Grant OSELAND
-    - frac: 0.16732342
-      reach: 9.297994 km
-  - - - '38'
-      - Theo WARDEN
-    - frac: 0.16732342
-      reach: 9.297994 km
-  - - - '280'
-      - Joanna DI GRIGOLI
-    - frac: 0.16732342
-      reach: 9.297994 km
-  - - - '1987'
-      - Krzysztof SCHMIDT
-    - frac: 0.16730542
-      reach: 9.296994 km
-  - - - '147'
-      - Denis CHOURAQUI
-    - frac: 0.16730542
-      reach: 9.296994 km
-  - - - '105'
-      - Stephane BENOIT
-    - frac: 0.16730542
-      reach: 9.296994 km
-  - - - '2018'
-      - Cyrille MARCK
-    - frac: 0.16730542
-      reach: 9.296994 km
-  - - - '500'
-      - JoÔö╝├¡t NAPRET
-    - frac: 0.16728743
-      reach: 9.295994 km
-  - - - '43'
-      - Christian BIASI
-    - frac: 0.16728743
-      reach: 9.295994 km
-  - - - '240'
-      - Shinichi HOSHIDA
-    - frac: 0.16728743
-      reach: 9.295994 km
-  - - - '611'
-      - Seiko FUKUOKA NAVILLE
-    - frac: 0.16726943
-      reach: 9.294994 km
-  - - - '770'
-      - Johannes BAUMGARTEN
-    - frac: 0.16726943
-      reach: 9.294994 km
-  - - - '616'
-      - Leandro PADUA
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '1116'
-      - Rolf DALE
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '78'
-      - RÔö£┬«mi BOURDELLE
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '21'
-      - Damien LACAZE
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '453'
-      - Alexander SCHALBER
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '619'
-      - Michel MACQUET
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '7'
-      - MÔö£┬«ryl DELFERRIERE
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '332'
-      - Sebastian OSPINA
-    - frac: 0.16725144
-      reach: 9.293994 km
-  - - - '162'
-      - Yassen SAVOV
-    - frac: 0.16721544
-      reach: 9.291994 km
-  - - - '618'
-      - Petr KOSTRHUN
-    - frac: 0.16721544
-      reach: 9.291994 km
-  - - - '24'
-      - Stephan MORGENTHALER
-    - frac: 0.16721544
-      reach: 9.291994 km
-  - - - '330'
-      - Helmut EICHHOLZER
-    - frac: 0.16721544
-      reach: 9.291994 km
-  - - - '55'
-      - Miguel DIAZ RUIZ
-    - frac: 0.16721544
-      reach: 9.291994 km
-  - - - '71'
-      - Martin LONG
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '9'
-      - Yongtae AHN
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '1268'
-      - Marko NOVAK
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '374'
-      - Arnaud SECHER
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '92'
-      - Jesus COSTA SANCHEZ
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '72'
-      - LoÔö£┬╗s GOUTAGNY
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '1203'
-      - Arnaud BAUMY
-    - frac: 0.16719745
-      reach: 9.290994 km
-  - - - '1282'
-      - Bojan GABERSEK
-    - frac: 0.16717945
-      reach: 9.289994 km
-  - - - '2111'
-      - Jurij VIDIC
-    - frac: 0.16716146
-      reach: 9.288994 km
-  - - - '29'
-      - Yael MARGELISCH
-    - frac: 0.16716146
-      reach: 9.288994 km
-  - - - '219'
-      - Ferdinand VOGEL
-    - frac: 0.16714346
-      reach: 9.287994 km
-  - - - '73'
-      - Tanguy RENAUD-GOUD
-    - frac: 0.16710747
-      reach: 9.285994 km
-  - - - '203'
-      - Christian HOCHEGGER
-    - frac: 0.16710747
-      reach: 9.285994 km
-  - - - '711'
-      - Jacques FOURNIER
-    - frac: 0.16710747
-      reach: 9.285994 km
-  - - - '512'
-      - Vitalii UMANSKYI
-    - frac: 0.16710747
-      reach: 9.285994 km
-  - - - '59'
-      - Michal GIERLACH
-    - frac: 0.16708947
-      reach: 9.284994 km
-  - - - '211'
-      - Nancy BERGE
-    - frac: 0.16708947
-      reach: 9.284994 km
-  - - - '709'
-      - Simon METTETAL
-    - frac: 0.16701749
-      reach: 9.280994 km
-  - - - '1000'
-      - Bogdan BIALKA
-    - frac: 0.16701749
-      reach: 9.280994 km
-  - - - '460'
-      - Adrian SEITZ
-    - frac: 0.16701749
-      reach: 9.280994 km
-  - - - '1405'
-      - Mariusz WISNIOWSKI
-    - frac: 0.16701749
-      reach: 9.280994 km
-  - - - '811'
-      - Thomas GURY
-    - frac: 0.16701749
-      reach: 9.280994 km
-  - - - '271'
-      - Manuel QUINTANILLA
-    - frac: 0.1669995
-      reach: 9.279994 km
-  - - - '911'
-      - Joerg NUBER
-    - frac: 0.1669995
-      reach: 9.279994 km
-  - - - '925'
-      - Jack BAILEY
-    - frac: 0.1669635
-      reach: 9.277994 km
-  - - - '217'
-      - Manu LALY
-    - frac: 0.16692751
-      reach: 9.275994 km
-  - - - '34'
-      - Rafael MORAES BARROS
-    - frac: 0.16692751
-      reach: 9.275994 km
-  - - - '22'
-      - Marco BUSETTA
-    - frac: 0.16689152
-      reach: 9.273994 km
-  - - - '809'
-      - Andy TALLIA
-    - frac: 0.16689152
-      reach: 9.273994 km
-  - - - '311'
-      - Constance METTETAL
-    - frac: 0.16672956
-      reach: 9.264994 km
-  - - - '701'
-      - Christian BARTHELMANN
-    - frac: 0.16672956
-      reach: 9.264994 km
-  - - - '174'
-      - Baptiste LAMBERT
-    - frac: 0.16663958
-      reach: 9.259994 km
-  - - - '249'
-      - Emil CERVENAN
-    - frac: 0.16663958
-      reach: 9.259994 km
-  - - - '1113'
-      - Zoran LABOVIC
-    - frac: 0.16651361
-      reach: 9.252994 km
-  - - - '3'
-      - Russell OGDEN
-    - frac: 0.16636965
-      reach: 9.244994 km
-  - - - '202'
-      - Emma CASANOVA
-    - frac: 0.16618969
-      reach: 9.234994 km
-  - - - '278'
-      - Aleksei KOROBKOV
-    - frac: 0.16602773
-      reach: 9.225994 km
-  - - - '45'
-      - Felix RODRIGUEZ FERNANDEZ
-    - frac: 0.16599174
-      reach: 9.223994 km
-  - - - '49'
-      - Jonathan MARIN
-    - frac: 0.16597374
-      reach: 9.222994 km
-  - - - '427'
-      - Jerome DELBECQUE
-    - frac: 0.16581178
-      reach: 9.213994 km
-  - - - '33'
-      - Tim ROCHAS
-    - frac: 0.16525392
-      reach: 9.182994 km
-  - - - '17'
-      - Rafael SALADINI
-    - frac: 0.16475004
-      reach: 9.154994 km
-  - - - '114'
-      - Elisabeth EGGER
-    - frac: 0.16421017
-      reach: 9.124994 km
-  - - - '626'
-      - Honorin HAMARD
-    - frac: 0.16347235
-      reach: 9.083994 km
-  - - - '12'
-      - StÔö£┬«phane POULAIN
-    - frac: 0.16338237
-      reach: 9.078994 km
-  - - - '266'
-      - Gildas BEN
-    - frac: 0.16300446
-      reach: 9.057994 km
   - - - '222'
       - Federico NEVASTRO
-    - frac: 0.16298647
-      reach: 9.056994 km
-  - - - '5'
-      - Alexandre JOFRESA
-    - frac: 0.16282451
-      reach: 9.047994 km
+    - frac: 0.17006859
+      reach: 10.847994 km
   - - - '210'
       - J.p. Robert VANDENBEGINE
-    - frac: 0.16199671
-      reach: 9.001994 km
-  - - - '234'
-      - Nicola DI BERNARDO
-    - frac: 0.16199671
-      reach: 9.001994 km
-  - - - '98'
-      - Nicola DONINI
-    - frac: 0.16197871
-      reach: 9.000994 km
-  - - - '515'
-      - Tilen CEGLAR
-    - frac: 0.16169078
-      reach: 8.984994 km
-  - - - '2'
-      - Julien WIRTZ
-    - frac: 0.1616008
-      reach: 8.979994 km
-  - - - '339'
-      - Luc ARMANT
-    - frac: 0.1616008
-      reach: 8.979994 km
-  - - - '8'
-      - Clement LATOUR
-    - frac: 0.1612049
-      reach: 8.957994 km
-  - - - '117'
-      - Xevi BONET DALMAU
-    - frac: 0.1611869
-      reach: 8.956994 km
-  - - - '69'
-      - Martin PETZ
-    - frac: 0.16109692
-      reach: 8.951994 km
+    - frac: 0.16981775
+      reach: 10.831994 km
+  - - - '114'
+      - Elisabeth EGGER
+    - frac: 0.16961394
+      reach: 10.818994 km
+  - - - '2018'
+      - Cyrille MARCK
+    - frac: 0.14575291
+      reach: 9.296994 km
+  - - - '43'
+      - Christian BIASI
+    - frac: 0.14573723
+      reach: 9.295994 km
   - - - '259'
       - Owen SHOEMAKER
-    - frac: 8.972619e-2
+    - frac: 7.816754e-2
       reach: 4.985994 km
 nigh:
-- - - - '18'
+- - - - '162'
+      - Yassen SAVOV
+    - togo:
+        distance: 8.882000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 54.903994 km
+  - - - '18'
       - Joachim OBERHAUSER
     - togo:
         distance: 10.768000 km
@@ -534,6 +543,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 52.939994 km
+  - - - '3'
+      - Russell OGDEN
+    - togo:
+        distance: 8.062000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.723994 km
   - - - '1010'
       - Jan JARES
     - togo:
@@ -543,6 +561,42 @@ nigh:
         legsSum: []
         waypoints: []
       made: 51.658994 km
+  - - - '626'
+      - Honorin HAMARD
+    - togo:
+        distance: 12.255000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.530994 km
+  - - - '50'
+      - Yoshiaki HIROKAWA
+    - togo:
+        distance: 12.353000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.432994 km
+  - - - '9'
+      - Yongtae AHN
+    - togo:
+        distance: 12.656000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.129994 km
+  - - - '117'
+      - Xevi BONET DALMAU
+    - togo:
+        distance: 12.796000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.989994 km
   - - - '1511'
       - Sergi CLARET
     - togo:
@@ -552,6 +606,24 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.902994 km
+  - - - '1987'
+      - Krzysztof SCHMIDT
+    - togo:
+        distance: 12.820000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.965994 km
+  - - - '217'
+      - Manu LALY
+    - togo:
+        distance: 13.008000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.777994 km
   - - - '40'
       - Ronny GEIJSEN
     - togo:
@@ -561,8 +633,17 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.772994 km
+  - - - '1268'
+      - Marko NOVAK
+    - togo:
+        distance: 12.740000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.045994 km
   - - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
     - togo:
         distance: 13.046000 km
         flipSum: []
@@ -570,6 +651,96 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.739994 km
+  - - - '215'
+      - Michael SOMMERAUER
+    - togo:
+        distance: 8.061000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.724994 km
+  - - - '104'
+      - Marco LITTAME
+    - togo:
+        distance: 13.010000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.775994 km
+  - - - '59'
+      - Michal GIERLACH
+    - togo:
+        distance: 13.061000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.724994 km
+  - - - '271'
+      - Manuel QUINTANILLA
+    - togo:
+        distance: 8.066000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.719994 km
+  - - - '22'
+      - Marco BUSETTA
+    - togo:
+        distance: 13.067000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.718994 km
+  - - - '374'
+      - Arnaud SECHER
+    - togo:
+        distance: 13.145000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.640994 km
+  - - - '249'
+      - Emil CERVENAN
+    - togo:
+        distance: 13.159000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.626994 km
+  - - - '54'
+      - Michal SNEIBERG
+    - togo:
+        distance: 13.233000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.552994 km
+  - - - '611'
+      - Seiko FUKUOKA NAVILLE
+    - togo:
+        distance: 13.255000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.530994 km
+  - - - '770'
+      - Johannes BAUMGARTEN
+    - togo:
+        distance: 13.398000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.387994 km
   - - - '10'
       - Ernesto HINESTROZA
     - togo:
@@ -579,6 +750,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.387994 km
+  - - - '1116'
+      - Rolf DALE
+    - togo:
+        distance: 13.432000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.353994 km
   - - - '7117'
       - Ulrich PRINZ
     - togo:
@@ -588,6 +768,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.342994 km
+  - - - '377'
+      - Yury MISHANIN
+    - togo:
+        distance: 13.470000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.315994 km
+  - - - '2111'
+      - Jurij VIDIC
+    - togo:
+        distance: 13.519000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.266994 km
+  - - - '73'
+      - Tanguy RENAUD-GOUD
+    - togo:
+        distance: 13.574000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.211994 km
   - - - '124'
       - Keiko HIRAKI
     - togo:
@@ -597,6 +804,87 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.205994 km
+  - - - '618'
+      - Petr KOSTRHUN
+    - togo:
+        distance: 13.628000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.157994 km
+  - - - '17'
+      - Rafael SALADINI
+    - togo:
+        distance: 13.652000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.133994 km
+  - - - '460'
+      - Adrian SEITZ
+    - togo:
+        distance: 13.695000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 50.090994 km
+  - - - '24'
+      - Stephan MORGENTHALER
+    - togo:
+        distance: 8.141000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.644994 km
+  - - - '517'
+      - Joze MOLEK
+    - togo:
+        distance: 8.063000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.722994 km
+  - - - '33'
+      - Tim ROCHAS
+    - togo:
+        distance: 13.835000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.950994 km
+  - - - '203'
+      - Christian HOCHEGGER
+    - togo:
+        distance: 13.847000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.938994 km
+  - - - '809'
+      - Andy TALLIA
+    - togo:
+        distance: 13.902000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.883994 km
+  - - - '92'
+      - Jesus COSTA SANCHEZ
+    - togo:
+        distance: 13.905000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.880994 km
   - - - '233'
       - Samuel AVENNE
     - togo:
@@ -606,6 +894,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 49.871994 km
+  - - - '78'
+      - Rémi BOURDELLE
+    - togo:
+        distance: 13.918000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.867994 km
   - - - '47'
       - Andreas NYFFENEGGER
     - togo:
@@ -615,6 +912,123 @@ nigh:
         legsSum: []
         waypoints: []
       made: 49.859994 km
+  - - - '1282'
+      - Bojan GABERSEK
+    - togo:
+        distance: 13.933000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.852994 km
+  - - - '49'
+      - Jonathan MARIN
+    - togo:
+        distance: 13.955000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.830994 km
+  - - - '29'
+      - Yael MARGELISCH
+    - togo:
+        distance: 14.014000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.771994 km
+  - - - '311'
+      - Constance METTETAL
+    - togo:
+        distance: 14.075000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.710994 km
+  - - - '72'
+      - Loïs GOUTAGNY
+    - togo:
+        distance: 14.118000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.667994 km
+  - - - '1405'
+      - Mariusz WISNIOWSKI
+    - togo:
+        distance: 14.121000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.664994 km
+  - - - '21'
+      - Damien LACAZE
+    - togo:
+        distance: 14.179000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.606994 km
+  - - - '315'
+      - Malin LOBB
+    - togo:
+        distance: 14.414000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.371994 km
+  - - - '147'
+      - Denis CHOURAQUI
+    - togo:
+        distance: 14.484000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.301994 km
+  - - - '453'
+      - Alexander SCHALBER
+    - togo:
+        distance: 14.513000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.272994 km
+  - - - '811'
+      - Thomas GURY
+    - togo:
+        distance: 14.545000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.240994 km
+  - - - '911'
+      - Joerg NUBER
+    - togo:
+        distance: 14.563000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.222994 km
+  - - - '216'
+      - Grant OSELAND
+    - togo:
+        distance: 14.540000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.245994 km
   - - - '35'
       - Stephane DROUIN
     - togo:
@@ -624,6 +1038,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 48.896994 km
+  - - - '105'
+      - Stephane BENOIT
+    - togo:
+        distance: 14.753000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 49.032994 km
   - - - '27'
       - Stefan BERNHARD
     - togo:
@@ -633,6 +1056,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 48.654994 km
+  - - - '278'
+      - Aleksei KOROBKOV
+    - togo:
+        distance: 14.999000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.786994 km
+  - - - '1203'
+      - Arnaud BAUMY
+    - togo:
+        distance: 8.065000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.720994 km
+  - - - '6'
+      - Charles CAZAUX
+    - togo:
+        distance: 8.061000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.724994 km
   - - - '107'
       - Laurie GENOVESE
     - togo:
@@ -642,6 +1092,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 48.883994 km
+  - - - '330'
+      - Helmut EICHHOLZER
+    - togo:
+        distance: 15.398000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.387994 km
   - - - '63'
       - Mitch RILEY
     - togo:
@@ -651,6 +1110,69 @@ nigh:
         legsSum: []
         waypoints: []
       made: 48.386994 km
+  - - - '38'
+      - Theo WARDEN
+    - togo:
+        distance: 14.937000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.848994 km
+  - - - '211'
+      - Nancy BERGE
+    - togo:
+        distance: 15.365000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.420994 km
+  - - - '55'
+      - Miguel DIAZ RUIZ
+    - togo:
+        distance: 14.807000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.978994 km
+  - - - '240'
+      - Shinichi HOSHIDA
+    - togo:
+        distance: 15.333000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.452994 km
+  - - - '34'
+      - Rafael MORAES BARROS
+    - togo:
+        distance: 15.402000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.383994 km
+  - - - '711'
+      - Jacques FOURNIER
+    - togo:
+        distance: 14.988000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 48.797994 km
+  - - - '5'
+      - Alexandre JOFRESA
+    - togo:
+        distance: 8.143000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.642994 km
   - - - '30'
       - Andreas MALECKI
     - togo:
@@ -660,6 +1182,60 @@ nigh:
         legsSum: []
         waypoints: []
       made: 55.568994 km
+  - - - '619'
+      - Michel MACQUET
+    - togo:
+        distance: 16.144000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.641994 km
+  - - - '280'
+      - Joanna DI GRIGOLI
+    - togo:
+        distance: 16.191000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.594994 km
+  - - - '266'
+      - Gildas BEN
+    - togo:
+        distance: 16.182000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.603994 km
+  - - - '701'
+      - Christian BARTHELMANN
+    - togo:
+        distance: 15.951000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.834994 km
+  - - - '202'
+      - Emma CASANOVA
+    - togo:
+        distance: 16.153000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.632994 km
+  - - - '1113'
+      - Zoran LABOVIC
+    - togo:
+        distance: 16.185000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.600994 km
   - - - '236'
       - Andrey ELISEEV
     - togo:
@@ -669,6 +1245,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 47.822994 km
+  - - - '512'
+      - Vitalii UMANSKYI
+    - togo:
+        distance: 16.299000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.486994 km
+  - - - '1115'
+      - Satsuki HOSHIDA
+    - togo:
+        distance: 16.416000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 47.369994 km
+  - - - '205'
+      - Jose REBELO
+    - togo:
+        distance: 8.058000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 55.727994 km
   - - - '1'
       - Pierre REMY
     - togo:
@@ -678,6 +1281,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 45.849994 km
+  - - - '206'
+      - Ivan HAAS
+    - togo:
+        distance: 23.975000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 39.810994 km
   - - - '313'
       - Michele BOSCHI
     - togo:
@@ -696,6 +1308,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 35.035994 km
+  - - - '7'
+      - Méryl DELFERRIERE
+    - togo:
+        distance: 29.014000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 34.771994 km
   - - - '273'
       - Cristiano RICCI
     - togo:
@@ -705,6 +1326,24 @@ nigh:
         legsSum: []
         waypoints: []
       made: 32.763994 km
+  - - - '925'
+      - Jack BAILEY
+    - togo:
+        distance: 38.537000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 25.248994 km
+  - - - '71'
+      - Martin LONG
+    - togo:
+        distance: 38.562000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 25.223994 km
   - - - '13'
       - Stefan WYSS
     - togo:
@@ -714,6 +1353,114 @@ nigh:
         legsSum: []
         waypoints: []
       made: 24.658994 km
+  - - - '427'
+      - Jerome DELBECQUE
+    - togo:
+        distance: 40.413000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 23.372994 km
+  - - - '616'
+      - Leandro PADUA
+    - togo:
+        distance: 42.418000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 21.367994 km
+  - - - '219'
+      - Ferdinand VOGEL
+    - togo:
+        distance: 44.487000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 19.298994 km
+  - - - '339'
+      - Luc ARMANT
+    - togo:
+        distance: 44.844000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 18.941994 km
+  - - - '98'
+      - Nicola DONINI
+    - togo:
+        distance: 48.951000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.834994 km
+  - - - '45'
+      - Felix RODRIGUEZ FERNANDEZ
+    - togo:
+        distance: 49.227000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.558994 km
+  - - - '500'
+      - Jošt NAPRET
+    - togo:
+        distance: 48.211000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 15.574994 km
+  - - - '8'
+      - Clement LATOUR
+    - togo:
+        distance: 49.270000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.515994 km
+  - - - '234'
+      - Nicola DI BERNARDO
+    - togo:
+        distance: 49.222000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.563994 km
+  - - - '2'
+      - Julien WIRTZ
+    - togo:
+        distance: 49.255000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.530994 km
+  - - - '69'
+      - Martin PETZ
+    - togo:
+        distance: 49.295000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.490994 km
+  - - - '174'
+      - Baptiste LAMBERT
+    - togo:
+        distance: 49.648000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.137994 km
   - - - '580'
       - Kostiantyn GONCHARENKO
     - togo:
@@ -723,6 +1470,69 @@ nigh:
         legsSum: []
         waypoints: []
       made: 14.763994 km
+  - - - '1000'
+      - Bogdan BIALKA
+    - togo:
+        distance: 50.987000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 12.798994 km
+  - - - '709'
+      - Simon METTETAL
+    - togo:
+        distance: 51.600000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 12.185994 km
+  - - - '7087'
+      - Tomáš PODMANÍK
+    - togo:
+        distance: 51.914000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.871994 km
+  - - - '410'
+      - Mari-anne AANES
+    - togo:
+        distance: 52.308000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.477994 km
+  - - - '515'
+      - Tilen CEGLAR
+    - togo:
+        distance: 52.530000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.255994 km
+  - - - '506'
+      - Flavio FUNIATI
+    - togo:
+        distance: 52.514000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.271994 km
+  - - - '12'
+      - Stéphane POULAIN
+    - togo:
+        distance: 52.548000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.237994 km
   - - - '256'
       - Karel KUTA
     - togo:
@@ -741,6 +1551,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 11.281994 km
+  - - - '46'
+      - Simon PELLISSIER
+    - togo:
+        distance: 52.463000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 11.322994 km
   - - - '248'
       - Nanda WALLISER
     - togo:
@@ -759,438 +1578,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 13.680994 km
-  - - - '427'
-      - Jerome DELBECQUE
-    - togo:
-        distance: 54.572000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.213994 km
-  - - - '925'
-      - Jack BAILEY
-    - togo:
-        distance: 54.508000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.277994 km
-  - - - '71'
-      - Martin LONG
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '162'
-      - Yassen SAVOV
-    - togo:
-        distance: 54.494000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.291994 km
-  - - - '114'
-      - Elisabeth EGGER
-    - togo:
-        distance: 54.661000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.124994 km
-  - - - '210'
-      - J.p. Robert VANDENBEGINE
-    - togo:
-        distance: 54.784000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.001994 km
   - - - '222'
       - Federico NEVASTRO
     - togo:
-        distance: 54.729000 km
+        distance: 52.938000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.056994 km
-  - - - '46'
-      - Simon PELLISSIER
+      made: 10.847994 km
+  - - - '114'
+      - Elisabeth EGGER
     - togo:
-        distance: 54.487000 km
+        distance: 52.967000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.298994 km
-  - - - '506'
-      - Flavio FUNIATI
+      made: 10.818994 km
+  - - - '210'
+      - J.p. Robert VANDENBEGINE
     - togo:
-        distance: 54.486000 km
+        distance: 52.954000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.299994 km
-  - - - '12'
-      - StÔö£┬«phane POULAIN
-    - togo:
-        distance: 54.707000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.078994 km
-  - - - '515'
-      - Tilen CEGLAR
-    - togo:
-        distance: 54.801000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.984994 km
-  - - - '410'
-      - Mari-anne AANES
-    - togo:
-        distance: 54.486000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.299994 km
-  - - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '709'
-      - Simon METTETAL
-    - togo:
-        distance: 54.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.280994 km
-  - - - '616'
-      - Leandro PADUA
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '1000'
-      - Bogdan BIALKA
-    - togo:
-        distance: 54.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.280994 km
-  - - - '3'
-      - Russell OGDEN
-    - togo:
-        distance: 54.541000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.244994 km
-  - - - '626'
-      - Honorin HAMARD
-    - togo:
-        distance: 54.702000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.083994 km
-  - - - '50'
-      - Yoshiaki HIROKAWA
-    - togo:
-        distance: 54.486000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.299994 km
-  - - - '174'
-      - Baptiste LAMBERT
-    - togo:
-        distance: 54.526000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.259994 km
-  - - - '69'
-      - Martin PETZ
-    - togo:
-        distance: 54.834000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.951994 km
-  - - - '219'
-      - Ferdinand VOGEL
-    - togo:
-        distance: 54.498000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.287994 km
-  - - - '2'
-      - Julien WIRTZ
-    - togo:
-        distance: 54.806000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.979994 km
-  - - - '8'
-      - Clement LATOUR
-    - togo:
-        distance: 54.828000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.957994 km
-  - - - '234'
-      - Nicola DI BERNARDO
-    - togo:
-        distance: 54.784000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.001994 km
-  - - - '500'
-      - JoÔö╝├¡t NAPRET
-    - togo:
-        distance: 54.490000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.295994 km
-  - - - '45'
-      - Felix RODRIGUEZ FERNANDEZ
-    - togo:
-        distance: 54.562000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.223994 km
-  - - - '9'
-      - Yongtae AHN
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '98'
-      - Nicola DONINI
-    - togo:
-        distance: 54.785000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.000994 km
-  - - - '117'
-      - Xevi BONET DALMAU
-    - togo:
-        distance: 54.829000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.956994 km
-  - - - '1987'
-      - Krzysztof SCHMIDT
-    - togo:
-        distance: 54.489000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.296994 km
-  - - - '215'
-      - Michael SOMMERAUER
-    - togo:
-        distance: 54.487000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.298994 km
-  - - - '217'
-      - Manu LALY
-    - togo:
-        distance: 54.510000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.275994 km
-  - - - '1268'
-      - Marko NOVAK
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '271'
-      - Manuel QUINTANILLA
-    - togo:
-        distance: 54.506000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.279994 km
-  - - - '104'
-      - Marco LITTAME
-    - togo:
-        distance: 54.487000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.298994 km
-  - - - '59'
-      - Michal GIERLACH
-    - togo:
-        distance: 54.501000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.284994 km
-  - - - '22'
-      - Marco BUSETTA
-    - togo:
-        distance: 54.512000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.273994 km
-  - - - '339'
-      - Luc ARMANT
-    - togo:
-        distance: 54.806000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 8.979994 km
-  - - - '374'
-      - Arnaud SECHER
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '249'
-      - Emil CERVENAN
-    - togo:
-        distance: 54.526000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.259994 km
-  - - - '54'
-      - Michal SNEIBERG
-    - togo:
-        distance: 54.486000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.299994 km
-  - - - '611'
-      - Seiko FUKUOKA NAVILLE
-    - togo:
-        distance: 54.491000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.294994 km
-  - - - '770'
-      - Johannes BAUMGARTEN
-    - togo:
-        distance: 54.491000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.294994 km
-  - - - '1116'
-      - Rolf DALE
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '377'
-      - Yury MISHANIN
-    - togo:
-        distance: 54.485000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.300994 km
-  - - - '2111'
-      - Jurij VIDIC
-    - togo:
-        distance: 54.497000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.288994 km
-  - - - '73'
-      - Tanguy RENAUD-GOUD
-    - togo:
-        distance: 54.500000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.285994 km
+      made: 10.831994 km
   - - - '43'
       - Christian BIASI
     - togo:
@@ -1200,213 +1614,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 9.295994 km
-  - - - '618'
-      - Petr KOSTRHUN
-    - togo:
-        distance: 54.494000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.291994 km
-  - - - '17'
-      - Rafael SALADINI
-    - togo:
-        distance: 54.631000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.154994 km
-  - - - '517'
-      - Joze MOLEK
-    - togo:
-        distance: 54.488000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.297994 km
-  - - - '460'
-      - Adrian SEITZ
-    - togo:
-        distance: 54.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.280994 km
-  - - - '24'
-      - Stephan MORGENTHALER
-    - togo:
-        distance: 54.494000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.291994 km
-  - - - '33'
-      - Tim ROCHAS
-    - togo:
-        distance: 54.603000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.182994 km
-  - - - '203'
-      - Christian HOCHEGGER
-    - togo:
-        distance: 54.500000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.285994 km
-  - - - '809'
-      - Andy TALLIA
-    - togo:
-        distance: 54.512000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.273994 km
-  - - - '92'
-      - Jesus COSTA SANCHEZ
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '78'
-      - RÔö£┬«mi BOURDELLE
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '1282'
-      - Bojan GABERSEK
-    - togo:
-        distance: 54.496000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.289994 km
-  - - - '49'
-      - Jonathan MARIN
-    - togo:
-        distance: 54.563000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.222994 km
-  - - - '29'
-      - Yael MARGELISCH
-    - togo:
-        distance: 54.497000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.288994 km
-  - - - '311'
-      - Constance METTETAL
-    - togo:
-        distance: 54.521000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.264994 km
-  - - - '72'
-      - LoÔö£┬╗s GOUTAGNY
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '1405'
-      - Mariusz WISNIOWSKI
-    - togo:
-        distance: 54.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.280994 km
-  - - - '21'
-      - Damien LACAZE
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '147'
-      - Denis CHOURAQUI
-    - togo:
-        distance: 54.489000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.296994 km
-  - - - '315'
-      - Malin LOBB
-    - togo:
-        distance: 54.488000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.297994 km
-  - - - '453'
-      - Alexander SCHALBER
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '811'
-      - Thomas GURY
-    - togo:
-        distance: 54.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.280994 km
-  - - - '911'
-      - Joerg NUBER
-    - togo:
-        distance: 54.506000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.279994 km
-  - - - '216'
-      - Grant OSELAND
-    - togo:
-        distance: 54.488000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.297994 km
   - - - '259'
       - Owen SHOEMAKER
     - togo:
@@ -1416,150 +1623,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 4.985994 km
-  - - - '105'
-      - Stephane BENOIT
-    - togo:
-        distance: 54.489000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.296994 km
-  - - - '278'
-      - Aleksei KOROBKOV
-    - togo:
-        distance: 54.560000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.225994 km
-  - - - '1203'
-      - Arnaud BAUMY
-    - togo:
-        distance: 54.495000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.290994 km
-  - - - '38'
-      - Theo WARDEN
-    - togo:
-        distance: 54.488000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.297994 km
-  - - - '330'
-      - Helmut EICHHOLZER
-    - togo:
-        distance: 54.494000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.291994 km
-  - - - '240'
-      - Shinichi HOSHIDA
-    - togo:
-        distance: 54.490000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.295994 km
-  - - - '55'
-      - Miguel DIAZ RUIZ
-    - togo:
-        distance: 54.494000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.291994 km
-  - - - '34'
-      - Rafael MORAES BARROS
-    - togo:
-        distance: 54.510000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.275994 km
-  - - - '211'
-      - Nancy BERGE
-    - togo:
-        distance: 54.501000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.284994 km
-  - - - '711'
-      - Jacques FOURNIER
-    - togo:
-        distance: 54.500000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.285994 km
-  - - - '6'
-      - Charles CAZAUX
-    - togo:
-        distance: 54.485000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.300994 km
-  - - - '5'
-      - Alexandre JOFRESA
-    - togo:
-        distance: 54.738000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.047994 km
-  - - - '619'
-      - Michel MACQUET
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '280'
-      - Joanna DI GRIGOLI
-    - togo:
-        distance: 54.488000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.297994 km
-  - - - '266'
-      - Gildas BEN
-    - togo:
-        distance: 54.728000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.057994 km
-  - - - '701'
-      - Christian BARTHELMANN
-    - togo:
-        distance: 54.521000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.264994 km
   - - - '2018'
       - Cyrille MARCK
     - togo:
@@ -1569,93 +1632,3 @@ nigh:
         legsSum: []
         waypoints: []
       made: 9.296994 km
-  - - - '202'
-      - Emma CASANOVA
-    - togo:
-        distance: 54.551000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.234994 km
-  - - - '7'
-      - MÔö£┬«ryl DELFERRIERE
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km
-  - - - '1113'
-      - Zoran LABOVIC
-    - togo:
-        distance: 54.533000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.252994 km
-  - - - '512'
-      - Vitalii UMANSKYI
-    - togo:
-        distance: 54.500000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.285994 km
-  - - - '1115'
-      - Satsuki HOSHIDA
-    - togo:
-        distance: 54.487000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.298994 km
-  - - - '205'
-      - Jose REBELO
-    - togo:
-        distance: 54.485000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.300994 km
-  - - - '206'
-      - Ivan HAAS
-    - togo:
-        distance: 54.486000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.299994 km
-  - - - '61'
-      - Deonir SPANCERSKI
-    - togo:
-        distance: 54.487000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.298994 km
-  - - - '421'
-      - Chigwon WON
-    - togo:
-        distance: 54.486000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.299994 km
-  - - - '332'
-      - Sebastian OSPINA
-    - togo:
-        distance: 54.492000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 9.293994 km

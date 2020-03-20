@@ -1,6 +1,6 @@
 <Fs version="3.5">
   <FsCompetition id="0" name="PWC 2019.1" location="France" from="2019-05-26" to="2019-06-01" utc_offset="2" discipline="pg">
-    <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_leading_points="1" score_back_time="5"/>
+    <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5"/>
     <FsParticipants>
       <FsParticipant id="6" name="Charles CAZAUX"/>
       <FsParticipant id="24" name="Stephan MORGENTHALER"/>
@@ -46,11 +46,11 @@
       <FsParticipant id="1116" name="Rolf DALE"/>
       <FsParticipant id="1268" name="Marko NOVAK"/>
       <FsParticipant id="1405" name="Mariusz WISNIOWSKI"/>
-      <FsParticipant id="78" name="R├®mi BOURDELLE"/>
+      <FsParticipant id="78" name="Rémi BOURDELLE"/>
       <FsParticipant id="33" name="Tim ROCHAS"/>
       <FsParticipant id="701" name="Christian BARTHELMANN"/>
-      <FsParticipant id="7" name="M├®ryl DELFERRIERE"/>
-      <FsParticipant id="221" name="Dusan DURKOVI"/>
+      <FsParticipant id="7" name="Méryl DELFERRIERE"/>
+      <FsParticipant id="221" name="Dusan DURKOVI?"/>
       <FsParticipant id="809" name="Andy TALLIA"/>
       <FsParticipant id="611" name="Seiko FUKUOKA NAVILLE"/>
       <FsParticipant id="377" name="Yury MISHANIN"/>
@@ -69,7 +69,7 @@
       <FsParticipant id="98" name="Nicola DONINI"/>
       <FsParticipant id="1" name="Pierre REMY"/>
       <FsParticipant id="2018" name="Cyrille MARCK"/>
-      <FsParticipant id="72" name="Lo├»s GOUTAGNY"/>
+      <FsParticipant id="72" name="Loïs GOUTAGNY"/>
       <FsParticipant id="1203" name="Arnaud BAUMY"/>
       <FsParticipant id="460" name="Adrian SEITZ"/>
       <FsParticipant id="61" name="Deonir SPANCERSKI"/>
@@ -100,7 +100,7 @@
       <FsParticipant id="27" name="Stefan BERNHARD"/>
       <FsParticipant id="311" name="Constance METTETAL"/>
       <FsParticipant id="69" name="Martin PETZ"/>
-      <FsParticipant id="12" name="St├®phane POULAIN"/>
+      <FsParticipant id="12" name="Stéphane POULAIN"/>
       <FsParticipant id="162" name="Yassen SAVOV"/>
       <FsParticipant id="21" name="Damien LACAZE"/>
       <FsParticipant id="114" name="Elisabeth EGGER"/>
@@ -120,10 +120,10 @@
       <FsParticipant id="206" name="Ivan HAAS"/>
       <FsParticipant id="202" name="Emma CASANOVA"/>
       <FsParticipant id="713" name="Tabanez FONSECA"/>
-      <FsParticipant id="500" name="Jo┼ít NAPRET"/>
+      <FsParticipant id="500" name="Jošt NAPRET"/>
       <FsParticipant id="410" name="Mari-anne AANES"/>
       <FsParticipant id="259" name="Owen SHOEMAKER"/>
-      <FsParticipant id="7087" name="Tom├í┼í PODMAN├ìK"/>
+      <FsParticipant id="7087" name="Tomáš PODMANÍK"/>
       <FsParticipant id="1115" name="Satsuki HOSHIDA"/>
       <FsParticipant id="256" name="Karel KUTA"/>
       <FsParticipant id="616" name="Leandro PADUA"/>
@@ -133,7 +133,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="T1" tracklog_folder="t_1_1">
-        <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_leading_points="1" score_back_time="5"/>
+        <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5"/>
         <FsTaskDefinition ss="2" es="8" goal="LINE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="D02087" lat="45.55303" lon="6.10471" altitude="870" radius="400" open="2019-05-26T12:00:00+02:00" close="2019-05-26T20:00:00+02:00"/>
           <FsTurnpoint id="B15078" lat="45.48916" lon="6.12317" altitude="784" radius="6000" open="2019-05-26T13:45:00+02:00" close="2019-05-26T20:00:00+02:00"/>
@@ -150,511 +150,511 @@
         <FsParticipants>
           <FsParticipant id="1">
             <FsFlightData distance="42.589" bonus_distance="42.517" started_ss="2019-05-26T13:45:26+02:00" finished_ss="" tracklog_filename="0001.igc" lc="5.25197380074599" iv="571024"/>
-            <FsResult rank="86" points="628" distance="42.589" ss_time="00:00:00" distance_points="627.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="42.589" last_distance="42.585"/>
+            <FsResult rank="86" points="628" distance="42.589" ss_time="00:00:00" distance_points="627.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="42.589" last_distance="42.585"/>
           </FsParticipant>
           <FsParticipant id="2">
             <FsFlightData distance="11.074" bonus_distance="11.736" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0002.igc" lc="10.272701953984" iv="1116906"/>
-            <FsResult rank="106" points="163" distance="11.074" ss_time="00:00:00" distance_points="163.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.074" last_distance="10.659"/>
+            <FsResult rank="106" points="163" distance="11.074" ss_time="00:00:00" distance_points="163.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.074" last_distance="10.659"/>
           </FsParticipant>
           <FsParticipant id="3">
             <FsFlightData distance="56.161" bonus_distance="56.117" started_ss="2019-05-26T13:45:30+02:00" finished_ss="" tracklog_filename="0003.igc" lc="3.14398083105108" iv="341831"/>
-            <FsResult rank="10" points="873" distance="56.161" ss_time="00:00:00" distance_points="827.9" time_points="0" arrival_points="0" leading_points="45.4" started_ss="2019-05-26T13:45:00+02:00" real_distance="56.161" last_distance="56.161"/>
+            <FsResult rank="10" points="873" distance="56.161" ss_time="00:00:00" distance_points="827.9" time_points="0" arrival_points="0" leading_points="45.4" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="56.161" last_distance="56.161"/>
           </FsParticipant>
           <FsParticipant id="5">
             <FsFlightData distance="59.735" bonus_distance="59.691" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0005.igc" lc="2.91419169930301" iv="316847"/>
-            <FsResult rank="4" points="939" distance="59.735" ss_time="00:00:00" distance_points="880.6" time_points="0" arrival_points="0" leading_points="58.3" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.735" last_distance="59.735"/>
+            <FsResult rank="4" points="939" distance="59.735" ss_time="00:00:00" distance_points="880.6" time_points="0" arrival_points="0" leading_points="58.3" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.735" last_distance="59.735"/>
           </FsParticipant>
           <FsParticipant id="6">
             <FsFlightData distance="59.716" bonus_distance="59.765" started_ss="2019-05-26T13:45:31+02:00" finished_ss="" tracklog_filename="0006.igc" lc="2.83461873512268" iv="308196"/>
-            <FsResult rank="3" points="947" distance="59.716" ss_time="00:00:00" distance_points="880.3" time_points="0" arrival_points="0" leading_points="66.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.716" last_distance="59.663"/>
+            <FsResult rank="3" points="947" distance="59.716" ss_time="00:00:00" distance_points="880.3" time_points="0" arrival_points="0" leading_points="66.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.716" last_distance="59.663"/>
           </FsParticipant>
           <FsParticipant id="7">
             <FsFlightData distance="31.342" bonus_distance="32.910" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="0007.igc" lc="6.81147431762073" iv="740582"/>
-            <FsResult rank="92" points="462" distance="31.342" ss_time="00:00:00" distance_points="462" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="31.342" last_distance="30.493"/>
+            <FsResult rank="92" points="462" distance="31.342" ss_time="00:00:00" distance_points="462" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="31.342" last_distance="30.493"/>
           </FsParticipant>
           <FsParticipant id="8">
             <FsFlightData distance="11.066" bonus_distance="11.597" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0008.igc" lc="10.2741425371836" iv="1117062"/>
-            <FsResult rank="106" points="163" distance="11.066" ss_time="00:00:00" distance_points="163.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.066" last_distance="10.674"/>
+            <FsResult rank="106" points="163" distance="11.066" ss_time="00:00:00" distance_points="163.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.066" last_distance="10.674"/>
           </FsParticipant>
           <FsParticipant id="9">
             <FsFlightData distance="47.790" bonus_distance="47.742" started_ss="2019-05-26T13:45:18+02:00" finished_ss="" tracklog_filename="0009.igc" lc="4.27840606113902" iv="465172"/>
-            <FsResult rank="17" points="711" distance="47.79" ss_time="00:00:00" distance_points="704.5" time_points="0" arrival_points="0" leading_points="6.4" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.79" last_distance="47.79"/>
+            <FsResult rank="17" points="711" distance="47.79" ss_time="00:00:00" distance_points="704.5" time_points="0" arrival_points="0" leading_points="6.4" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.79" last_distance="47.79"/>
           </FsParticipant>
           <FsParticipant id="10">
             <FsFlightData distance="47.040" bonus_distance="46.992" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0010.igc" lc="4.43263331100645" iv="481941"/>
-            <FsResult rank="31" points="696" distance="47.04" ss_time="00:00:00" distance_points="693.4" time_points="0" arrival_points="0" leading_points="2.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.04" last_distance="47.036"/>
+            <FsResult rank="31" points="696" distance="47.04" ss_time="00:00:00" distance_points="693.4" time_points="0" arrival_points="0" leading_points="2.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.04" last_distance="47.036"/>
           </FsParticipant>
           <FsParticipant id="12">
             <FsFlightData distance="7.796" bonus_distance="7.695" started_ss="2019-05-26T13:45:05+02:00" finished_ss="" tracklog_filename="0012.igc" lc="10.9316370017622" iv="1188549"/>
-            <FsResult rank="116" points="115" distance="7.796" ss_time="00:00:00" distance_points="114.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.796" last_distance="7.746"/>
+            <FsResult rank="116" points="115" distance="7.796" ss_time="00:00:00" distance_points="114.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.796" last_distance="7.746"/>
           </FsParticipant>
           <FsParticipant id="13">
             <FsFlightData distance="21.206" bonus_distance="22.026" started_ss="2019-05-26T13:47:29+02:00" finished_ss="" tracklog_filename="0013.igc" lc="8.4789099410912" iv="921875"/>
-            <FsResult rank="96" points="313" distance="21.206" ss_time="00:00:00" distance_points="312.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.206" last_distance="20.604"/>
+            <FsResult rank="96" points="313" distance="21.206" ss_time="00:00:00" distance_points="312.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.206" last_distance="20.604"/>
           </FsParticipant>
           <FsParticipant id="17">
             <FsFlightData distance="46.786" bonus_distance="46.797" started_ss="2019-05-26T13:45:38+02:00" finished_ss="" tracklog_filename="0017.igc" lc="4.5591090088696" iv="495692"/>
-            <FsResult rank="40" points="690" distance="46.786" ss_time="00:00:00" distance_points="689.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.786" last_distance="46.78"/>
+            <FsResult rank="40" points="690" distance="46.786" ss_time="00:00:00" distance_points="689.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.786" last_distance="46.78"/>
           </FsParticipant>
           <FsParticipant id="18">
             <FsFlightData distance="49.649" bonus_distance="49.540" started_ss="2019-05-26T13:45:24+02:00" finished_ss="" tracklog_filename="0018.igc" lc="4.08443175318699" iv="444082"/>
-            <FsResult rank="12" points="744" distance="49.649" ss_time="00:00:00" distance_points="731.9" time_points="0" arrival_points="0" leading_points="12" started_ss="2019-05-26T13:45:00+02:00" real_distance="49.649" last_distance="49.625"/>
+            <FsResult rank="12" points="744" distance="49.649" ss_time="00:00:00" distance_points="731.9" time_points="0" arrival_points="0" leading_points="12" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="49.649" last_distance="49.625"/>
           </FsParticipant>
           <FsParticipant id="21">
             <FsFlightData distance="46.269" bonus_distance="46.198" started_ss="2019-05-26T13:45:06+02:00" finished_ss="" tracklog_filename="0021.igc" lc="4.60351089194619" iv="500520"/>
-            <FsResult rank="56" points="682" distance="46.269" ss_time="00:00:00" distance_points="682.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.269" last_distance="46.269"/>
+            <FsResult rank="56" points="682" distance="46.269" ss_time="00:00:00" distance_points="682.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.269" last_distance="46.269"/>
           </FsParticipant>
           <FsParticipant id="22">
             <FsFlightData distance="47.368" bonus_distance="47.288" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0022.igc" lc="4.41180447363433" iv="479676"/>
-            <FsResult rank="25" points="701" distance="47.368" ss_time="00:00:00" distance_points="698.3" time_points="0" arrival_points="0" leading_points="2.7" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.368" last_distance="47.368"/>
+            <FsResult rank="25" points="701" distance="47.368" ss_time="00:00:00" distance_points="698.3" time_points="0" arrival_points="0" leading_points="2.7" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.368" last_distance="47.368"/>
           </FsParticipant>
           <FsParticipant id="24">
             <FsFlightData distance="58.083" bonus_distance="58.063" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0024.igc" lc="2.85999616615737" iv="310955"/>
-            <FsResult rank="6" points="919" distance="58.083" ss_time="00:00:00" distance_points="856.2" time_points="0" arrival_points="0" leading_points="62.9" started_ss="2019-05-26T13:45:00+02:00" real_distance="58.083" last_distance="58.053"/>
+            <FsResult rank="6" points="919" distance="58.083" ss_time="00:00:00" distance_points="856.2" time_points="0" arrival_points="0" leading_points="62.9" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="58.083" last_distance="58.053"/>
           </FsParticipant>
           <FsParticipant id="27">
             <FsFlightData distance="45.313" bonus_distance="45.211" started_ss="2019-05-26T13:45:23+02:00" finished_ss="" tracklog_filename="0027.igc" lc="4.72238613646785" iv="513444"/>
-            <FsResult rank="70" points="668" distance="45.313" ss_time="00:00:00" distance_points="668" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.313" last_distance="45.312"/>
+            <FsResult rank="70" points="668" distance="45.313" ss_time="00:00:00" distance_points="668" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.313" last_distance="45.312"/>
           </FsParticipant>
           <FsParticipant id="29">
             <FsFlightData distance="46.422" bonus_distance="46.405" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0029.igc" lc="4.59004842655459" iv="499056"/>
-            <FsResult rank="52" points="684" distance="46.422" ss_time="00:00:00" distance_points="684.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.422" last_distance="46.422"/>
+            <FsResult rank="52" points="684" distance="46.422" ss_time="00:00:00" distance_points="684.3" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.422" last_distance="46.422"/>
           </FsParticipant>
           <FsParticipant id="30">
             <FsFlightData distance="60.287" bonus_distance="60.247" started_ss="2019-05-26T13:45:29+02:00" finished_ss="" tracklog_filename="0030.igc" lc="2.83016851303832" iv="307712"/>
-            <FsResult rank="1" points="956" distance="60.287" ss_time="00:00:00" distance_points="888.7" time_points="0" arrival_points="0" leading_points="67.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="60.287" last_distance="59.582"/>
+            <FsResult rank="1" points="956" distance="60.287" ss_time="00:00:00" distance_points="888.7" time_points="0" arrival_points="0" leading_points="67.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="60.287" last_distance="59.582"/>
           </FsParticipant>
           <FsParticipant id="32">
             <FsFlightData distance="0.788" bonus_distance="5.279" started_ss="" finished_ss="" tracklog_filename="0032.igc" lc="0" iv="0"/>
-            <FsResult rank="126" points="44" distance="3" ss_time="00:00:00" distance_points="44.2" time_points="0" arrival_points="0" leading_points="0" real_distance="3" last_distance="0.533"/>
+            <FsResult rank="126" points="44" distance="3" ss_time="00:00:00" distance_points="44.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" real_distance="3" last_distance="0.533"/>
           </FsParticipant>
           <FsParticipant id="33">
             <FsFlightData distance="46.607" bonus_distance="46.581" started_ss="2019-05-26T13:45:32+02:00" finished_ss="" tracklog_filename="0033.igc" lc="4.55312833657669" iv="495042"/>
-            <FsResult rank="43" points="687" distance="46.607" ss_time="00:00:00" distance_points="687.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.607" last_distance="46.606"/>
+            <FsResult rank="43" points="687" distance="46.607" ss_time="00:00:00" distance_points="687.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.607" last_distance="46.606"/>
           </FsParticipant>
           <FsParticipant id="34">
             <FsFlightData distance="45.044" bonus_distance="45.143" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0034.igc" lc="4.77272733537431" iv="518918"/>
-            <FsResult rank="73" points="664" distance="45.044" ss_time="00:00:00" distance_points="664" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.044" last_distance="45.037"/>
+            <FsResult rank="73" points="664" distance="45.044" ss_time="00:00:00" distance_points="664" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.044" last_distance="45.037"/>
           </FsParticipant>
           <FsParticipant id="35">
             <FsFlightData distance="45.566" bonus_distance="46.258" started_ss="2019-05-26T13:45:24+02:00" finished_ss="" tracklog_filename="0035.igc" lc="4.72106201365738" iv="513300"/>
-            <FsResult rank="65" points="672" distance="45.566" ss_time="00:00:00" distance_points="671.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.566" last_distance="45.414"/>
+            <FsResult rank="65" points="672" distance="45.566" ss_time="00:00:00" distance_points="671.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.566" last_distance="45.414"/>
           </FsParticipant>
           <FsParticipant id="38">
             <FsFlightData distance="45.505" bonus_distance="45.913" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0038.igc" lc="4.70989720674633" iv="512086"/>
-            <FsResult rank="66" points="671" distance="45.505" ss_time="00:00:00" distance_points="670.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.505" last_distance="45.046"/>
+            <FsResult rank="66" points="671" distance="45.505" ss_time="00:00:00" distance_points="670.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.505" last_distance="45.046"/>
           </FsParticipant>
           <FsParticipant id="40">
             <FsFlightData distance="47.426" bonus_distance="47.354" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="0040.igc" lc="4.38321126392443" iv="476567"/>
-            <FsResult rank="23" points="703" distance="47.426" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="3.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.426" last_distance="47.425"/>
+            <FsResult rank="23" points="703" distance="47.426" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="3.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.426" last_distance="47.425"/>
           </FsParticipant>
           <FsParticipant id="43">
             <FsFlightData distance="6.745" bonus_distance="10.970" started_ss="2019-05-26T14:48:23+02:00" finished_ss="" tracklog_filename="0043.igc" lc="11.3589077842572" iv="1235004"/>
-            <FsResult rank="125" points="99" distance="6.745" ss_time="00:00:00" distance_points="99.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="6.745" last_distance="6.582"/>
+            <FsResult rank="125" points="99" distance="6.745" ss_time="00:00:00" distance_points="99.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="6.745" last_distance="6.582"/>
           </FsParticipant>
           <FsParticipant id="45">
             <FsFlightData distance="11.107" bonus_distance="12.182" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="0045.igc" lc="10.2695824000568" iv="1116567"/>
-            <FsResult rank="104" points="164" distance="11.107" ss_time="00:00:00" distance_points="163.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.107" last_distance="10.652"/>
+            <FsResult rank="104" points="164" distance="11.107" ss_time="00:00:00" distance_points="163.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.107" last_distance="10.652"/>
           </FsParticipant>
           <FsParticipant id="46">
             <FsFlightData distance="7.884" bonus_distance="8.831" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="0046.igc" lc="10.9180929219223" iv="1187076"/>
-            <FsResult rank="114" points="116" distance="7.884" ss_time="00:00:00" distance_points="116.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.884" last_distance="7.719"/>
+            <FsResult rank="114" points="116" distance="7.884" ss_time="00:00:00" distance_points="116.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.884" last_distance="7.719"/>
           </FsParticipant>
           <FsParticipant id="47">
             <FsFlightData distance="46.510" bonus_distance="46.494" started_ss="2019-05-26T13:45:21+02:00" finished_ss="" tracklog_filename="0047.igc" lc="4.58300520470253" iv="498290"/>
-            <FsResult rank="45" points="686" distance="46.51" ss_time="00:00:00" distance_points="685.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.51" last_distance="46.51"/>
+            <FsResult rank="45" points="686" distance="46.51" ss_time="00:00:00" distance_points="685.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.51" last_distance="46.51"/>
           </FsParticipant>
           <FsParticipant id="49">
             <FsFlightData distance="46.484" bonus_distance="46.476" started_ss="2019-05-26T13:45:04+02:00" finished_ss="" tracklog_filename="0049.igc" lc="4.65855190757409" iv="506504"/>
-            <FsResult rank="51" points="685" distance="46.484" ss_time="00:00:00" distance_points="685.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.484" last_distance="46.484"/>
+            <FsResult rank="51" points="685" distance="46.484" ss_time="00:00:00" distance_points="685.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.484" last_distance="46.484"/>
           </FsParticipant>
           <FsParticipant id="50">
             <FsFlightData distance="48.123" bonus_distance="48.035" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0050.igc" lc="4.21652469761577" iv="458444"/>
-            <FsResult rank="14" points="718" distance="48.123" ss_time="00:00:00" distance_points="709.4" time_points="0" arrival_points="0" leading_points="8.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.123" last_distance="48.12"/>
+            <FsResult rank="14" points="718" distance="48.123" ss_time="00:00:00" distance_points="709.4" time_points="0" arrival_points="0" leading_points="8.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.123" last_distance="48.12"/>
           </FsParticipant>
           <FsParticipant id="54">
             <FsFlightData distance="47.272" bonus_distance="47.160" started_ss="2019-05-26T13:45:17+02:00" finished_ss="" tracklog_filename="0054.igc" lc="4.38521467457389" iv="476785"/>
-            <FsResult rank="27" points="700" distance="47.272" ss_time="00:00:00" distance_points="696.9" time_points="0" arrival_points="0" leading_points="3.4" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.272" last_distance="47.272"/>
+            <FsResult rank="27" points="700" distance="47.272" ss_time="00:00:00" distance_points="696.9" time_points="0" arrival_points="0" leading_points="3.4" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.272" last_distance="47.272"/>
           </FsParticipant>
           <FsParticipant id="55">
             <FsFlightData distance="45.630" bonus_distance="45.934" started_ss="2019-05-26T13:45:13+02:00" finished_ss="" tracklog_filename="0055.igc" lc="4.73737945685268" iv="515074"/>
-            <FsResult rank="63" points="673" distance="45.63" ss_time="00:00:00" distance_points="672.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.63" last_distance="45.036"/>
+            <FsResult rank="63" points="673" distance="45.63" ss_time="00:00:00" distance_points="672.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.63" last_distance="45.036"/>
           </FsParticipant>
           <FsParticipant id="59">
             <FsFlightData distance="47.377" bonus_distance="47.303" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="0059.igc" lc="4.42034179306487" iv="480604"/>
-            <FsResult rank="25" points="701" distance="47.377" ss_time="00:00:00" distance_points="698.4" time_points="0" arrival_points="0" leading_points="2.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.377" last_distance="47.377"/>
+            <FsResult rank="25" points="701" distance="47.377" ss_time="00:00:00" distance_points="698.4" time_points="0" arrival_points="0" leading_points="2.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.377" last_distance="47.377"/>
           </FsParticipant>
           <FsParticipant id="61">
             <FsFlightData distance="38.132" bonus_distance="38.370" started_ss="2019-05-26T13:47:04+02:00" finished_ss="" tracklog_filename="0061.igc" lc="5.88067563696071" iv="639380"/>
-            <FsResult rank="87" points="562" distance="38.132" ss_time="00:00:00" distance_points="562.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.132" last_distance="38.08"/>
+            <FsResult rank="87" points="562" distance="38.132" ss_time="00:00:00" distance_points="562.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.132" last_distance="38.08"/>
           </FsParticipant>
           <FsParticipant id="63">
             <FsFlightData distance="45.049" bonus_distance="45.087" started_ss="2019-05-26T13:46:03+02:00" finished_ss="" tracklog_filename="0063.igc" lc="4.79213360789193" iv="521028"/>
-            <FsResult rank="73" points="664" distance="45.049" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.049" last_distance="45.049"/>
+            <FsResult rank="73" points="664" distance="45.049" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.049" last_distance="45.049"/>
           </FsParticipant>
           <FsParticipant id="69">
             <FsFlightData distance="11.035" bonus_distance="11.654" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0069.igc" lc="10.2803979250283" iv="1117743"/>
-            <FsResult rank="106" points="163" distance="11.035" ss_time="00:00:00" distance_points="162.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.035" last_distance="10.669"/>
+            <FsResult rank="106" points="163" distance="11.035" ss_time="00:00:00" distance_points="162.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.035" last_distance="10.669"/>
           </FsParticipant>
           <FsParticipant id="71">
             <FsFlightData distance="21.771" bonus_distance="22.746" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0071.igc" lc="8.38918514539974" iv="912119"/>
-            <FsResult rank="94" points="321" distance="21.771" ss_time="00:00:00" distance_points="320.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.771" last_distance="21.383"/>
+            <FsResult rank="94" points="321" distance="21.771" ss_time="00:00:00" distance_points="320.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.771" last_distance="21.383"/>
           </FsParticipant>
           <FsParticipant id="72">
             <FsFlightData distance="46.317" bonus_distance="46.313" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0072.igc" lc="4.6361384817002" iv="504067"/>
-            <FsResult rank="53" points="683" distance="46.317" ss_time="00:00:00" distance_points="682.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.317" last_distance="46.317"/>
+            <FsResult rank="53" points="683" distance="46.317" ss_time="00:00:00" distance_points="682.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.317" last_distance="46.317"/>
           </FsParticipant>
           <FsParticipant id="73">
             <FsFlightData distance="46.863" bonus_distance="46.815" started_ss="2019-05-26T13:45:05+02:00" finished_ss="" tracklog_filename="0073.igc" lc="4.52760435585471" iv="492267"/>
-            <FsResult rank="39" points="691" distance="46.863" ss_time="00:00:00" distance_points="690.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.863" last_distance="46.78"/>
+            <FsResult rank="39" points="691" distance="46.863" ss_time="00:00:00" distance_points="690.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.863" last_distance="46.78"/>
           </FsParticipant>
           <FsParticipant id="78">
             <FsFlightData distance="46.528" bonus_distance="46.512" started_ss="2019-05-26T13:45:04+02:00" finished_ss="" tracklog_filename="0078.igc" lc="4.58020499933648" iv="497986"/>
-            <FsResult rank="45" points="686" distance="46.528" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.528" last_distance="46.527"/>
+            <FsResult rank="45" points="686" distance="46.528" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.528" last_distance="46.527"/>
           </FsParticipant>
           <FsParticipant id="92">
             <FsFlightData distance="46.531" bonus_distance="46.499" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0092.igc" lc="4.58933040986021" iv="498978"/>
-            <FsResult rank="45" points="686" distance="46.531" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.531" last_distance="46.525"/>
+            <FsResult rank="45" points="686" distance="46.531" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.531" last_distance="46.525"/>
           </FsParticipant>
           <FsParticipant id="98">
             <FsFlightData distance="11.397" bonus_distance="11.756" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0098.igc" lc="10.2112767129944" iv="1110227"/>
-            <FsResult rank="102" points="168" distance="11.397" ss_time="00:00:00" distance_points="168" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.397" last_distance="10.759"/>
+            <FsResult rank="102" points="168" distance="11.397" ss_time="00:00:00" distance_points="168" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.397" last_distance="10.759"/>
           </FsParticipant>
           <FsParticipant id="104">
             <FsFlightData distance="47.426" bonus_distance="47.459" started_ss="2019-05-26T13:45:09+02:00" finished_ss="" tracklog_filename="0104.igc" lc="4.33515768291109" iv="471343"/>
-            <FsResult rank="21" points="704" distance="47.426" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="4.8" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.426" last_distance="47.374"/>
+            <FsResult rank="21" points="704" distance="47.426" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="4.8" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.426" last_distance="47.374"/>
           </FsParticipant>
           <FsParticipant id="105">
             <FsFlightData distance="45.680" bonus_distance="45.912" started_ss="2019-05-26T13:45:17+02:00" finished_ss="" tracklog_filename="0105.igc" lc="4.74148390482662" iv="515521"/>
-            <FsResult rank="63" points="673" distance="45.68" ss_time="00:00:00" distance_points="673.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.68" last_distance="45.35"/>
+            <FsResult rank="63" points="673" distance="45.68" ss_time="00:00:00" distance_points="673.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.68" last_distance="45.35"/>
           </FsParticipant>
           <FsParticipant id="107">
             <FsFlightData distance="45.548" bonus_distance="46.717" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0107.igc" lc="4.62164057382986" iv="502491"/>
-            <FsResult rank="66" points="671" distance="45.548" ss_time="00:00:00" distance_points="671.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.548" last_distance="45.052"/>
+            <FsResult rank="66" points="671" distance="45.548" ss_time="00:00:00" distance_points="671.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.548" last_distance="45.052"/>
           </FsParticipant>
           <FsParticipant id="114">
             <FsFlightData distance="7.369" bonus_distance="7.261" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0114.igc" lc="11.0170575697659" iv="1197836"/>
-            <FsResult rank="122" points="109" distance="7.369" ss_time="00:00:00" distance_points="108.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.369" last_distance="7.291"/>
+            <FsResult rank="122" points="109" distance="7.369" ss_time="00:00:00" distance_points="108.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.369" last_distance="7.291"/>
           </FsParticipant>
           <FsParticipant id="117">
             <FsFlightData distance="47.641" bonus_distance="47.612" started_ss="2019-05-26T13:45:09+02:00" finished_ss="" tracklog_filename="0117.igc" lc="4.4338671255662" iv="482075"/>
-            <FsResult rank="21" points="704" distance="47.641" ss_time="00:00:00" distance_points="702.3" time_points="0" arrival_points="0" leading_points="2.1" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.641" last_distance="47.64"/>
+            <FsResult rank="21" points="704" distance="47.641" ss_time="00:00:00" distance_points="702.3" time_points="0" arrival_points="0" leading_points="2.1" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.641" last_distance="47.64"/>
           </FsParticipant>
           <FsParticipant id="124">
             <FsFlightData distance="46.856" bonus_distance="46.832" started_ss="2019-05-26T13:45:13+02:00" finished_ss="" tracklog_filename="0124.igc" lc="4.46958360932716" iv="485958"/>
-            <FsResult rank="38" points="692" distance="46.856" ss_time="00:00:00" distance_points="690.7" time_points="0" arrival_points="0" leading_points="1.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.856" last_distance="46.856"/>
+            <FsResult rank="38" points="692" distance="46.856" ss_time="00:00:00" distance_points="690.7" time_points="0" arrival_points="0" leading_points="1.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.856" last_distance="46.856"/>
           </FsParticipant>
           <FsParticipant id="147">
             <FsFlightData distance="45.956" bonus_distance="45.976" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="0147.igc" lc="4.69298218377707" iv="510247"/>
-            <FsResult rank="57" points="678" distance="45.956" ss_time="00:00:00" distance_points="677.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.956" last_distance="45.956"/>
+            <FsResult rank="57" points="678" distance="45.956" ss_time="00:00:00" distance_points="677.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.956" last_distance="45.956"/>
           </FsParticipant>
           <FsParticipant id="162">
             <FsFlightData distance="51.526" bonus_distance="51.503" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0162.igc" lc="3.76243221498097" iv="409073"/>
-            <FsResult rank="11" points="782" distance="51.526" ss_time="00:00:00" distance_points="759.6" time_points="0" arrival_points="0" leading_points="21.9" started_ss="2019-05-26T13:45:00+02:00" real_distance="51.526" last_distance="51.526"/>
+            <FsResult rank="11" points="782" distance="51.526" ss_time="00:00:00" distance_points="759.6" time_points="0" arrival_points="0" leading_points="21.9" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="51.526" last_distance="51.526"/>
           </FsParticipant>
           <FsParticipant id="174">
             <FsFlightData distance="10.678" bonus_distance="10.521" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0174.igc" lc="10.3525422579002" iv="1125587"/>
-            <FsResult rank="109" points="157" distance="10.678" ss_time="00:00:00" distance_points="157.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="10.678" last_distance="10.608"/>
+            <FsResult rank="109" points="157" distance="10.678" ss_time="00:00:00" distance_points="157.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="10.678" last_distance="10.608"/>
           </FsParticipant>
           <FsParticipant id="202">
             <FsFlightData distance="44.292" bonus_distance="44.436" started_ss="2019-05-26T13:45:32+02:00" finished_ss="" tracklog_filename="0202.igc" lc="5.00733564257297" iv="544426"/>
-            <FsResult rank="80" points="653" distance="44.292" ss_time="00:00:00" distance_points="652.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.292" last_distance="44.254"/>
+            <FsResult rank="80" points="653" distance="44.292" ss_time="00:00:00" distance_points="652.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.292" last_distance="44.254"/>
           </FsParticipant>
           <FsParticipant id="203">
             <FsFlightData distance="46.591" bonus_distance="46.571" started_ss="2019-05-26T13:45:13+02:00" finished_ss="" tracklog_filename="0203.igc" lc="4.56675280139551" iv="496523"/>
-            <FsResult rank="43" points="687" distance="46.591" ss_time="00:00:00" distance_points="686.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.591" last_distance="46.586"/>
+            <FsResult rank="43" points="687" distance="46.591" ss_time="00:00:00" distance_points="686.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.591" last_distance="46.586"/>
           </FsParticipant>
           <FsParticipant id="205">
             <FsFlightData distance="61.052" bonus_distance="61.075" started_ss="2019-05-26T13:45:05+02:00" finished_ss="" tracklog_filename="0205.igc" lc="2.9676023147912" iv="322654"/>
-            <FsResult rank="2" points="955" distance="61.052" ss_time="00:00:00" distance_points="900" time_points="0" arrival_points="0" leading_points="54.8" started_ss="2019-05-26T13:45:00+02:00" real_distance="61.052" last_distance="61.016"/>
+            <FsResult rank="2" points="955" distance="61.052" ss_time="00:00:00" distance_points="900" time_points="0" arrival_points="0" leading_points="54.8" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="61.052" last_distance="61.016"/>
           </FsParticipant>
           <FsParticipant id="206">
             <FsFlightData distance="36.396" bonus_distance="36.439" started_ss="2019-05-26T13:45:24+02:00" finished_ss="" tracklog_filename="0206.igc" lc="6.36124800488139" iv="691631"/>
-            <FsResult rank="90" points="537" distance="36.396" ss_time="00:00:00" distance_points="536.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="36.396" last_distance="36.393"/>
+            <FsResult rank="90" points="537" distance="36.396" ss_time="00:00:00" distance_points="536.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="36.396" last_distance="36.393"/>
           </FsParticipant>
           <FsParticipant id="210">
             <FsFlightData distance="7.383" bonus_distance="7.295" started_ss="2019-05-26T13:45:26+02:00" finished_ss="" tracklog_filename="0210.igc" lc="11.0130639316792" iv="1197402"/>
-            <FsResult rank="122" points="109" distance="7.383" ss_time="00:00:00" distance_points="108.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.383" last_distance="7.296"/>
+            <FsResult rank="122" points="109" distance="7.383" ss_time="00:00:00" distance_points="108.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.383" last_distance="7.296"/>
           </FsParticipant>
           <FsParticipant id="211">
             <FsFlightData distance="45.076" bonus_distance="45.291" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0211.igc" lc="4.753917583748" iv="516873"/>
-            <FsResult rank="71" points="665" distance="45.076" ss_time="00:00:00" distance_points="664.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.076" last_distance="45.038"/>
+            <FsResult rank="71" points="665" distance="45.076" ss_time="00:00:00" distance_points="664.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.076" last_distance="45.038"/>
           </FsParticipant>
           <FsParticipant id="215">
             <FsFlightData distance="57.440" bonus_distance="57.416" started_ss="2019-05-26T13:45:16+02:00" finished_ss="" tracklog_filename="0215.igc" lc="3.07535000079772" iv="334369"/>
-            <FsResult rank="8" points="896" distance="57.44" ss_time="00:00:00" distance_points="846.8" time_points="0" arrival_points="0" leading_points="48.8" started_ss="2019-05-26T13:45:00+02:00" real_distance="57.44" last_distance="57.368"/>
+            <FsResult rank="8" points="896" distance="57.44" ss_time="00:00:00" distance_points="846.8" time_points="0" arrival_points="0" leading_points="48.8" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="57.44" last_distance="57.368"/>
           </FsParticipant>
           <FsParticipant id="216">
             <FsFlightData distance="45.894" bonus_distance="46.094" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="0216.igc" lc="4.67137682616448" iv="507898"/>
-            <FsResult rank="59" points="677" distance="45.894" ss_time="00:00:00" distance_points="676.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.894" last_distance="45.797"/>
+            <FsResult rank="59" points="677" distance="45.894" ss_time="00:00:00" distance_points="676.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.894" last_distance="45.797"/>
           </FsParticipant>
           <FsParticipant id="217">
             <FsFlightData distance="47.427" bonus_distance="47.347" started_ss="2019-05-26T13:45:16+02:00" finished_ss="" tracklog_filename="0217.igc" lc="4.49230097546146" iv="488428"/>
-            <FsResult rank="27" points="700" distance="47.427" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="0.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.427" last_distance="47.426"/>
+            <FsResult rank="27" points="700" distance="47.427" ss_time="00:00:00" distance_points="699.1" time_points="0" arrival_points="0" leading_points="0.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.427" last_distance="47.426"/>
           </FsParticipant>
           <FsParticipant id="219">
             <FsFlightData distance="15.843" bonus_distance="15.923" started_ss="2019-05-26T13:45:03+02:00" finished_ss="" tracklog_filename="0219.igc" lc="9.36745365384364" iv="1018482"/>
-            <FsResult rank="99" points="234" distance="15.843" ss_time="00:00:00" distance_points="233.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="15.843" last_distance="15.58"/>
+            <FsResult rank="99" points="234" distance="15.843" ss_time="00:00:00" distance_points="233.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="15.843" last_distance="15.58"/>
           </FsParticipant>
           <FsParticipant id="221">
             <FsFlightData distance="47.389" bonus_distance="47.313" started_ss="2019-05-26T13:45:41+02:00" finished_ss="" tracklog_filename="0221.igc" lc="4.36281349861018" iv="474350"/>
-            <FsResult rank="23" points="703" distance="47.389" ss_time="00:00:00" distance_points="698.6" time_points="0" arrival_points="0" leading_points="4.1" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.389" last_distance="47.388"/>
+            <FsResult rank="23" points="703" distance="47.389" ss_time="00:00:00" distance_points="698.6" time_points="0" arrival_points="0" leading_points="4.1" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.389" last_distance="47.388"/>
           </FsParticipant>
           <FsParticipant id="222">
             <FsFlightData distance="7.400" bonus_distance="7.876" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="0222.igc" lc="11.0110110786731" iv="1197179"/>
-            <FsResult rank="122" points="109" distance="7.4" ss_time="00:00:00" distance_points="109.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.4" last_distance="7.329"/>
+            <FsResult rank="122" points="109" distance="7.4" ss_time="00:00:00" distance_points="109.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.4" last_distance="7.329"/>
           </FsParticipant>
           <FsParticipant id="233">
             <FsFlightData distance="46.528" bonus_distance="46.520" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="0233.igc" lc="4.55963715619387" iv="495749"/>
-            <FsResult rank="45" points="686" distance="46.528" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.528" last_distance="46.528"/>
+            <FsResult rank="45" points="686" distance="46.528" ss_time="00:00:00" distance_points="685.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.528" last_distance="46.528"/>
           </FsParticipant>
           <FsParticipant id="234">
             <FsFlightData distance="11.111" bonus_distance="11.543" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0234.igc" lc="10.2676536295151" iv="1116357"/>
-            <FsResult rank="104" points="164" distance="11.111" ss_time="00:00:00" distance_points="163.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.111" last_distance="10.645"/>
+            <FsResult rank="104" points="164" distance="11.111" ss_time="00:00:00" distance_points="163.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.111" last_distance="10.645"/>
           </FsParticipant>
           <FsParticipant id="236">
             <FsFlightData distance="44.471" bonus_distance="44.933" started_ss="2019-05-26T13:45:24+02:00" finished_ss="" tracklog_filename="0236.igc" lc="4.99060978725743" iv="542607"/>
-            <FsResult rank="77" points="656" distance="44.471" ss_time="00:00:00" distance_points="655.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.471" last_distance="44.198"/>
+            <FsResult rank="77" points="656" distance="44.471" ss_time="00:00:00" distance_points="655.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.471" last_distance="44.198"/>
           </FsParticipant>
           <FsParticipant id="240">
             <FsFlightData distance="45.110" bonus_distance="45.635" started_ss="2019-05-26T13:45:18+02:00" finished_ss="" tracklog_filename="0240.igc" lc="4.78370753649803" iv="520112"/>
-            <FsResult rank="71" points="665" distance="45.11" ss_time="00:00:00" distance_points="665" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.11" last_distance="45.034"/>
+            <FsResult rank="71" points="665" distance="45.11" ss_time="00:00:00" distance_points="665" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.11" last_distance="45.034"/>
           </FsParticipant>
           <FsParticipant id="248">
             <FsFlightData distance="7.599" bonus_distance="7.415" started_ss="2019-05-26T13:45:18+02:00" finished_ss="" tracklog_filename="0248.igc" lc="10.9434281706065" iv="1189831"/>
-            <FsResult rank="120" points="112" distance="7.599" ss_time="00:00:00" distance_points="112" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.599" last_distance="7.599"/>
+            <FsResult rank="120" points="112" distance="7.599" ss_time="00:00:00" distance_points="112" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.599" last_distance="7.599"/>
           </FsParticipant>
           <FsParticipant id="249">
             <FsFlightData distance="47.277" bonus_distance="47.165" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0249.igc" lc="4.49371510537765" iv="488582"/>
-            <FsResult rank="30" points="697" distance="47.277" ss_time="00:00:00" distance_points="696.9" time_points="0" arrival_points="0" leading_points="0.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.277" last_distance="47.276"/>
+            <FsResult rank="30" points="697" distance="47.277" ss_time="00:00:00" distance_points="696.9" time_points="0" arrival_points="0" leading_points="0.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.277" last_distance="47.276"/>
           </FsParticipant>
           <FsParticipant id="256">
             <FsFlightData distance="7.796" bonus_distance="7.875" started_ss="2019-05-26T13:45:32+02:00" finished_ss="" tracklog_filename="0256.igc" lc="10.9298937205668" iv="1188359"/>
-            <FsResult rank="116" points="115" distance="7.796" ss_time="00:00:00" distance_points="114.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.796" last_distance="7.73"/>
+            <FsResult rank="116" points="115" distance="7.796" ss_time="00:00:00" distance_points="114.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.796" last_distance="7.73"/>
           </FsParticipant>
           <FsParticipant id="259">
             <FsFlightData distance="0.789" bonus_distance="4.072" started_ss="" finished_ss="" tracklog_filename="0259.igc" lc="0" iv="0"/>
-            <FsResult rank="126" points="44" distance="3" ss_time="00:00:00" distance_points="44.2" time_points="0" arrival_points="0" leading_points="0" real_distance="3" last_distance="0"/>
+            <FsResult rank="126" points="44" distance="3" ss_time="00:00:00" distance_points="44.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" real_distance="3" last_distance="0"/>
           </FsParticipant>
           <FsParticipant id="266">
             <FsFlightData distance="44.257" bonus_distance="44.520" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0266.igc" lc="5.07345413353539" iv="551614"/>
-            <FsResult rank="82" points="652" distance="44.257" ss_time="00:00:00" distance_points="652.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.257" last_distance="44.257"/>
+            <FsResult rank="82" points="652" distance="44.257" ss_time="00:00:00" distance_points="652.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.257" last_distance="44.257"/>
           </FsParticipant>
           <FsParticipant id="271">
             <FsFlightData distance="57.401" bonus_distance="57.395" started_ss="2019-05-26T13:45:05+02:00" finished_ss="" tracklog_filename="0271.igc" lc="3.04731321359183" iv="331321"/>
-            <FsResult rank="8" points="896" distance="57.401" ss_time="00:00:00" distance_points="846.2" time_points="0" arrival_points="0" leading_points="50.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="57.401" last_distance="57.374"/>
+            <FsResult rank="8" points="896" distance="57.401" ss_time="00:00:00" distance_points="846.2" time_points="0" arrival_points="0" leading_points="50.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="57.401" last_distance="57.374"/>
           </FsParticipant>
           <FsParticipant id="273">
             <FsFlightData distance="29.325" bonus_distance="29.340" started_ss="2019-05-26T13:45:18+02:00" finished_ss="" tracklog_filename="0273.igc" lc="7.28983896703964" iv="792592"/>
-            <FsResult rank="93" points="432" distance="29.325" ss_time="00:00:00" distance_points="432.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="29.325" last_distance="29.202"/>
+            <FsResult rank="93" points="432" distance="29.325" ss_time="00:00:00" distance_points="432.3" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="29.325" last_distance="29.202"/>
           </FsParticipant>
           <FsParticipant id="278">
             <FsFlightData distance="45.435" bonus_distance="45.550" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0278.igc" lc="4.83241709652114" iv="525408"/>
-            <FsResult rank="68" points="670" distance="45.435" ss_time="00:00:00" distance_points="669.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.435" last_distance="45.28"/>
+            <FsResult rank="68" points="670" distance="45.435" ss_time="00:00:00" distance_points="669.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.435" last_distance="45.28"/>
           </FsParticipant>
           <FsParticipant id="280">
             <FsFlightData distance="44.269" bonus_distance="44.265" started_ss="2019-05-26T13:45:40+02:00" finished_ss="" tracklog_filename="0280.igc" lc="5.01037236048218" iv="544756"/>
-            <FsResult rank="80" points="653" distance="44.269" ss_time="00:00:00" distance_points="652.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.269" last_distance="44.269"/>
+            <FsResult rank="80" points="653" distance="44.269" ss_time="00:00:00" distance_points="652.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.269" last_distance="44.269"/>
           </FsParticipant>
           <FsParticipant id="311">
             <FsFlightData distance="46.362" bonus_distance="46.364" started_ss="2019-05-26T13:45:27+02:00" finished_ss="" tracklog_filename="0311.igc" lc="4.56212047204628" iv="496019"/>
-            <FsResult rank="53" points="683" distance="46.362" ss_time="00:00:00" distance_points="683.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.362" last_distance="46.357"/>
+            <FsResult rank="53" points="683" distance="46.362" ss_time="00:00:00" distance_points="683.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.362" last_distance="46.357"/>
           </FsParticipant>
           <FsParticipant id="312">
             <FsFlightData distance="45.047" bonus_distance="45.208" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0312.igc" lc="4.79621957798758" iv="521472"/>
-            <FsResult rank="73" points="664" distance="45.047" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.047" last_distance="45.047"/>
+            <FsResult rank="73" points="664" distance="45.047" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.047" last_distance="45.047"/>
           </FsParticipant>
           <FsParticipant id="313">
             <FsFlightData distance="33.348" bonus_distance="34.137" started_ss="2019-05-26T13:45:09+02:00" finished_ss="" tracklog_filename="0313.igc" lc="6.57916231989471" iv="715323"/>
-            <FsResult rank="91" points="492" distance="33.348" ss_time="00:00:00" distance_points="491.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="33.348" last_distance="32.704"/>
+            <FsResult rank="91" points="492" distance="33.348" ss_time="00:00:00" distance_points="491.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="33.348" last_distance="32.704"/>
           </FsParticipant>
           <FsParticipant id="315">
             <FsFlightData distance="46.020" bonus_distance="46.173" started_ss="2019-05-26T13:45:13+02:00" finished_ss="" tracklog_filename="0315.igc" lc="4.66784439072338" iv="507514"/>
-            <FsResult rank="57" points="678" distance="46.02" ss_time="00:00:00" distance_points="678.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.02" last_distance="45.948"/>
+            <FsResult rank="57" points="678" distance="46.02" ss_time="00:00:00" distance_points="678.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.02" last_distance="45.948"/>
           </FsParticipant>
           <FsParticipant id="330">
             <FsFlightData distance="45.050" bonus_distance="45.348" started_ss="2019-05-26T13:45:20+02:00" finished_ss="" tracklog_filename="0330.igc" lc="4.70595247808245" iv="511658"/>
-            <FsResult rank="73" points="664" distance="45.05" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.05" last_distance="45.05"/>
+            <FsResult rank="73" points="664" distance="45.05" ss_time="00:00:00" distance_points="664.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.05" last_distance="45.05"/>
           </FsParticipant>
           <FsParticipant id="332">
             <FsFlightData distance="38.055" bonus_distance="38.220" started_ss="2019-05-26T13:45:35+02:00" finished_ss="" tracklog_filename="0332.igc" lc="5.89965496656234" iv="641444"/>
-            <FsResult rank="88" points="561" distance="38.055" ss_time="00:00:00" distance_points="561" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.055" last_distance="38.026"/>
+            <FsResult rank="88" points="561" distance="38.055" ss_time="00:00:00" distance_points="561" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.055" last_distance="38.026"/>
           </FsParticipant>
           <FsParticipant id="339">
             <FsFlightData distance="15.487" bonus_distance="16.067" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0339.igc" lc="9.41110419452198" iv="1023228"/>
-            <FsResult rank="100" points="228" distance="15.487" ss_time="00:00:00" distance_points="228.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="15.487" last_distance="15.13"/>
+            <FsResult rank="100" points="228" distance="15.487" ss_time="00:00:00" distance_points="228.3" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="15.487" last_distance="15.13"/>
           </FsParticipant>
           <FsParticipant id="374">
             <FsFlightData distance="47.292" bonus_distance="47.188" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="0374.igc" lc="4.43081228389734" iv="481743"/>
-            <FsResult rank="29" points="699" distance="47.292" ss_time="00:00:00" distance_points="697.2" time_points="0" arrival_points="0" leading_points="2.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.292" last_distance="47.292"/>
+            <FsResult rank="29" points="699" distance="47.292" ss_time="00:00:00" distance_points="697.2" time_points="0" arrival_points="0" leading_points="2.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.292" last_distance="47.292"/>
           </FsParticipant>
           <FsParticipant id="377">
             <FsFlightData distance="46.972" bonus_distance="46.904" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0377.igc" lc="4.49326850445802" iv="488533"/>
-            <FsResult rank="33" points="693" distance="46.972" ss_time="00:00:00" distance_points="692.4" time_points="0" arrival_points="0" leading_points="0.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.972" last_distance="46.972"/>
+            <FsResult rank="33" points="693" distance="46.972" ss_time="00:00:00" distance_points="692.4" time_points="0" arrival_points="0" leading_points="0.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.972" last_distance="46.972"/>
           </FsParticipant>
           <FsParticipant id="410">
             <FsFlightData distance="8.033" bonus_distance="8.215" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0410.igc" lc="10.8898561827815" iv="1184006"/>
-            <FsResult rank="113" points="118" distance="8.033" ss_time="00:00:00" distance_points="118.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.033" last_distance="7.763"/>
+            <FsResult rank="113" points="118" distance="8.033" ss_time="00:00:00" distance_points="118.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.033" last_distance="7.763"/>
           </FsParticipant>
           <FsParticipant id="416">
             <FsFlightData distance="49.584" bonus_distance="49.516" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0416.igc" lc="4.10632349990029" iv="446463"/>
-            <FsResult rank="13" points="742" distance="49.584" ss_time="00:00:00" distance_points="730.9" time_points="0" arrival_points="0" leading_points="11.3" started_ss="2019-05-26T13:45:00+02:00" real_distance="49.584" last_distance="49.584"/>
+            <FsResult rank="13" points="742" distance="49.584" ss_time="00:00:00" distance_points="730.9" time_points="0" arrival_points="0" leading_points="11.3" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="49.584" last_distance="49.584"/>
           </FsParticipant>
           <FsParticipant id="421">
             <FsFlightData distance="38.058" bonus_distance="38.167" started_ss="2019-05-26T13:45:16+02:00" finished_ss="" tracklog_filename="0421.igc" lc="5.89180731743307" iv="640590"/>
-            <FsResult rank="88" points="561" distance="38.058" ss_time="00:00:00" distance_points="561" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.058" last_distance="38.046"/>
+            <FsResult rank="88" points="561" distance="38.058" ss_time="00:00:00" distance_points="561" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="38.058" last_distance="38.046"/>
           </FsParticipant>
           <FsParticipant id="427">
             <FsFlightData distance="19.912" bonus_distance="20.787" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="0427.igc" lc="8.72682614212305" iv="948830"/>
-            <FsResult rank="97" points="294" distance="19.912" ss_time="00:00:00" distance_points="293.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="19.912" last_distance="19.603"/>
+            <FsResult rank="97" points="294" distance="19.912" ss_time="00:00:00" distance_points="293.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="19.912" last_distance="19.603"/>
           </FsParticipant>
           <FsParticipant id="453">
             <FsFlightData distance="45.926" bonus_distance="45.937" started_ss="2019-05-26T13:45:22+02:00" finished_ss="" tracklog_filename="0453.igc" lc="4.66016628930983" iv="506679"/>
-            <FsResult rank="59" points="677" distance="45.926" ss_time="00:00:00" distance_points="677" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.926" last_distance="45.924"/>
+            <FsResult rank="59" points="677" distance="45.926" ss_time="00:00:00" distance_points="677" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.926" last_distance="45.924"/>
           </FsParticipant>
           <FsParticipant id="460">
             <FsFlightData distance="46.743" bonus_distance="46.705" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="0460.igc" lc="4.58010945352525" iv="497975"/>
-            <FsResult rank="42" points="689" distance="46.743" ss_time="00:00:00" distance_points="689.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.743" last_distance="46.74"/>
+            <FsResult rank="42" points="689" distance="46.743" ss_time="00:00:00" distance_points="689.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.743" last_distance="46.74"/>
           </FsParticipant>
           <FsParticipant id="500">
             <FsFlightData distance="12.126" bonus_distance="13.382" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0500.igc" lc="10.0842509991262" iv="1096416"/>
-            <FsResult rank="101" points="179" distance="12.126" ss_time="00:00:00" distance_points="178.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="12.126" last_distance="10.648"/>
+            <FsResult rank="101" points="179" distance="12.126" ss_time="00:00:00" distance_points="178.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="12.126" last_distance="10.648"/>
           </FsParticipant>
           <FsParticipant id="506">
             <FsFlightData distance="7.830" bonus_distance="8.006" started_ss="2019-05-26T13:45:06+02:00" finished_ss="" tracklog_filename="0506.igc" lc="10.9173070346016" iv="1186991"/>
-            <FsResult rank="116" points="115" distance="7.83" ss_time="00:00:00" distance_points="115.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.83" last_distance="7.746"/>
+            <FsResult rank="116" points="115" distance="7.83" ss_time="00:00:00" distance_points="115.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.83" last_distance="7.746"/>
           </FsParticipant>
           <FsParticipant id="512">
             <FsFlightData distance="44.143" bonus_distance="44.446" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0512.igc" lc="4.92972206070026" iv="535987"/>
-            <FsResult rank="84" points="651" distance="44.143" ss_time="00:00:00" distance_points="650.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.143" last_distance="44.139"/>
+            <FsResult rank="84" points="651" distance="44.143" ss_time="00:00:00" distance_points="650.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.143" last_distance="44.139"/>
           </FsParticipant>
           <FsParticipant id="515">
             <FsFlightData distance="7.813" bonus_distance="7.725" started_ss="2019-05-26T13:45:05+02:00" finished_ss="" tracklog_filename="0515.igc" lc="10.9306461807552" iv="1188441"/>
-            <FsResult rank="116" points="115" distance="7.813" ss_time="00:00:00" distance_points="115.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.813" last_distance="7.758"/>
+            <FsResult rank="116" points="115" distance="7.813" ss_time="00:00:00" distance_points="115.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.813" last_distance="7.758"/>
           </FsParticipant>
           <FsParticipant id="517">
             <FsFlightData distance="58.068" bonus_distance="58.048" started_ss="2019-05-26T13:45:32+02:00" finished_ss="" tracklog_filename="0517.igc" lc="2.95134880737069" iv="320887"/>
-            <FsResult rank="7" points="912" distance="58.068" ss_time="00:00:00" distance_points="856" time_points="0" arrival_points="0" leading_points="55.8" started_ss="2019-05-26T13:45:00+02:00" real_distance="58.068" last_distance="57.971"/>
+            <FsResult rank="7" points="912" distance="58.068" ss_time="00:00:00" distance_points="856" time_points="0" arrival_points="0" leading_points="55.8" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="58.068" last_distance="57.971"/>
           </FsParticipant>
           <FsParticipant id="580">
             <FsFlightData distance="11.340" bonus_distance="12.612" started_ss="2019-05-26T13:45:20+02:00" finished_ss="" tracklog_filename="0580.igc" lc="10.2475758591432" iv="1114174"/>
-            <FsResult rank="103" points="167" distance="11.34" ss_time="00:00:00" distance_points="167.2" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.34" last_distance="10.543"/>
+            <FsResult rank="103" points="167" distance="11.34" ss_time="00:00:00" distance_points="167.2" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="11.34" last_distance="10.543"/>
           </FsParticipant>
           <FsParticipant id="611">
             <FsFlightData distance="47.182" bonus_distance="47.126" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0611.igc" lc="4.54982729085264" iv="494683"/>
-            <FsResult rank="31" points="696" distance="47.182" ss_time="00:00:00" distance_points="695.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.182" last_distance="47.182"/>
+            <FsResult rank="31" points="696" distance="47.182" ss_time="00:00:00" distance_points="695.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.182" last_distance="47.182"/>
           </FsParticipant>
           <FsParticipant id="616">
             <FsFlightData distance="17.909" bonus_distance="18.828" started_ss="2019-05-26T13:45:29+02:00" finished_ss="" tracklog_filename="0616.igc" lc="9.07816469861287" iv="987029"/>
-            <FsResult rank="98" points="264" distance="17.909" ss_time="00:00:00" distance_points="264" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="17.909" last_distance="17.258"/>
+            <FsResult rank="98" points="264" distance="17.909" ss_time="00:00:00" distance_points="264" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="17.909" last_distance="17.258"/>
           </FsParticipant>
           <FsParticipant id="618">
             <FsFlightData distance="46.811" bonus_distance="46.747" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0618.igc" lc="4.53056095242555" iv="492588"/>
-            <FsResult rank="40" points="690" distance="46.811" ss_time="00:00:00" distance_points="690.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.811" last_distance="46.811"/>
+            <FsResult rank="40" points="690" distance="46.811" ss_time="00:00:00" distance_points="690.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.811" last_distance="46.811"/>
           </FsParticipant>
           <FsParticipant id="619">
             <FsFlightData distance="44.409" bonus_distance="44.325" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0619.igc" lc="4.83243668234652" iv="525410"/>
-            <FsResult rank="79" points="655" distance="44.409" ss_time="00:00:00" distance_points="654.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.409" last_distance="44.409"/>
+            <FsResult rank="79" points="655" distance="44.409" ss_time="00:00:00" distance_points="654.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.409" last_distance="44.409"/>
           </FsParticipant>
           <FsParticipant id="626">
             <FsFlightData distance="48.178" bonus_distance="48.081" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="0626.igc" lc="4.28434971182575" iv="465819"/>
-            <FsResult rank="15" points="716" distance="48.178" ss_time="00:00:00" distance_points="710.2" time_points="0" arrival_points="0" leading_points="6.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.178" last_distance="48.174"/>
+            <FsResult rank="15" points="716" distance="48.178" ss_time="00:00:00" distance_points="710.2" time_points="0" arrival_points="0" leading_points="6.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.178" last_distance="48.174"/>
           </FsParticipant>
           <FsParticipant id="701">
             <FsFlightData distance="44.488" bonus_distance="44.866" started_ss="2019-05-26T13:45:20+02:00" finished_ss="" tracklog_filename="0701.igc" lc="4.92652682562299" iv="535640"/>
-            <FsResult rank="77" points="656" distance="44.488" ss_time="00:00:00" distance_points="655.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.488" last_distance="44.252"/>
+            <FsResult rank="77" points="656" distance="44.488" ss_time="00:00:00" distance_points="655.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.488" last_distance="44.252"/>
           </FsParticipant>
           <FsParticipant id="709">
             <FsFlightData distance="8.723" bonus_distance="9.054" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="0709.igc" lc="10.7421219935672" iv="1167944"/>
-            <FsResult rank="111" points="129" distance="8.723" ss_time="00:00:00" distance_points="128.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.723" last_distance="8.568"/>
+            <FsResult rank="111" points="129" distance="8.723" ss_time="00:00:00" distance_points="128.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.723" last_distance="8.568"/>
           </FsParticipant>
           <FsParticipant id="711">
             <FsFlightData distance="45.441" bonus_distance="46.643" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="0711.igc" lc="4.60850294034798" iv="501062"/>
-            <FsResult rank="68" points="670" distance="45.441" ss_time="00:00:00" distance_points="669.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.441" last_distance="45.024"/>
+            <FsResult rank="68" points="670" distance="45.441" ss_time="00:00:00" distance_points="669.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.441" last_distance="45.024"/>
           </FsParticipant>
           <FsParticipant id="770">
             <FsFlightData distance="47.038" bonus_distance="47.029" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0770.igc" lc="4.51476980412042" iv="490871"/>
-            <FsResult rank="33" points="693" distance="47.038" ss_time="00:00:00" distance_points="693.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.038" last_distance="47.037"/>
+            <FsResult rank="33" points="693" distance="47.038" ss_time="00:00:00" distance_points="693.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.038" last_distance="47.037"/>
           </FsParticipant>
           <FsParticipant id="809">
             <FsFlightData distance="46.541" bonus_distance="46.519" started_ss="2019-05-26T13:45:08+02:00" finished_ss="" tracklog_filename="0809.igc" lc="4.58488259384761" iv="498494"/>
-            <FsResult rank="45" points="686" distance="46.541" ss_time="00:00:00" distance_points="686.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.541" last_distance="46.539"/>
+            <FsResult rank="45" points="686" distance="46.541" ss_time="00:00:00" distance_points="686.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.541" last_distance="46.539"/>
           </FsParticipant>
           <FsParticipant id="811">
             <FsFlightData distance="45.917" bonus_distance="45.864" started_ss="2019-05-26T13:45:38+02:00" finished_ss="" tracklog_filename="0811.igc" lc="4.78543963000417" iv="520300"/>
-            <FsResult rank="59" points="677" distance="45.917" ss_time="00:00:00" distance_points="676.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.917" last_distance="45.915"/>
+            <FsResult rank="59" points="677" distance="45.917" ss_time="00:00:00" distance_points="676.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.917" last_distance="45.915"/>
           </FsParticipant>
           <FsParticipant id="911">
             <FsFlightData distance="45.893" bonus_distance="46.007" started_ss="2019-05-26T13:45:16+02:00" finished_ss="" tracklog_filename="0911.igc" lc="4.75894725279688" iv="517419"/>
-            <FsResult rank="59" points="677" distance="45.893" ss_time="00:00:00" distance_points="676.5" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.893" last_distance="45.893"/>
+            <FsResult rank="59" points="677" distance="45.893" ss_time="00:00:00" distance_points="676.5" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="45.893" last_distance="45.893"/>
           </FsParticipant>
           <FsParticipant id="925">
             <FsFlightData distance="21.795" bonus_distance="22.487" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="0925.igc" lc="8.47528998674312" iv="921481"/>
-            <FsResult rank="94" points="321" distance="21.795" ss_time="00:00:00" distance_points="321.3" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.795" last_distance="21.385"/>
+            <FsResult rank="94" points="321" distance="21.795" ss_time="00:00:00" distance_points="321.3" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="21.795" last_distance="21.385"/>
           </FsParticipant>
           <FsParticipant id="992">
             <FsFlightData distance="7.841" bonus_distance="7.759" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="0992.igc" lc="10.9231980398951" iv="1187631"/>
-            <FsResult rank="114" points="116" distance="7.841" ss_time="00:00:00" distance_points="115.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.841" last_distance="7.728"/>
+            <FsResult rank="114" points="116" distance="7.841" ss_time="00:00:00" distance_points="115.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.841" last_distance="7.728"/>
           </FsParticipant>
           <FsParticipant id="1000">
             <FsFlightData distance="9.358" bonus_distance="9.613" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="1000.igc" lc="10.6178569657813" iv="1154433"/>
-            <FsResult rank="110" points="138" distance="9.358" ss_time="00:00:00" distance_points="138" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="9.358" last_distance="9.317"/>
+            <FsResult rank="110" points="138" distance="9.358" ss_time="00:00:00" distance_points="138" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="9.358" last_distance="9.317"/>
           </FsParticipant>
           <FsParticipant id="1010">
             <FsFlightData distance="48.306" bonus_distance="48.250" started_ss="2019-05-26T13:45:25+02:00" finished_ss="" tracklog_filename="1010.igc" lc="4.58656855949249" iv="498677"/>
-            <FsResult rank="16" points="712" distance="48.306" ss_time="00:00:00" distance_points="712.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.306" last_distance="48.305"/>
+            <FsResult rank="16" points="712" distance="48.306" ss_time="00:00:00" distance_points="712.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="48.306" last_distance="48.305"/>
           </FsParticipant>
           <FsParticipant id="1113">
             <FsFlightData distance="44.259" bonus_distance="44.688" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="1113.igc" lc="4.90258408241185" iv="533036"/>
-            <FsResult rank="82" points="652" distance="44.259" ss_time="00:00:00" distance_points="652.4" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.259" last_distance="44.237"/>
+            <FsResult rank="82" points="652" distance="44.259" ss_time="00:00:00" distance_points="652.4" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.259" last_distance="44.237"/>
           </FsParticipant>
           <FsParticipant id="1115">
             <FsFlightData distance="44.015" bonus_distance="44.862" started_ss="2019-05-26T13:45:19+02:00" finished_ss="" tracklog_filename="1115.igc" lc="4.94225620655969" iv="537350"/>
-            <FsResult rank="85" points="649" distance="44.015" ss_time="00:00:00" distance_points="648.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.015" last_distance="44.001"/>
+            <FsResult rank="85" points="649" distance="44.015" ss_time="00:00:00" distance_points="648.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="44.015" last_distance="44.001"/>
           </FsParticipant>
           <FsParticipant id="1116">
             <FsFlightData distance="47.003" bonus_distance="46.967" started_ss="2019-05-26T13:45:12+02:00" finished_ss="" tracklog_filename="1116.igc" lc="4.52447837955445" iv="491927"/>
-            <FsResult rank="33" points="693" distance="47.003" ss_time="00:00:00" distance_points="692.9" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.003" last_distance="46.995"/>
+            <FsResult rank="33" points="693" distance="47.003" ss_time="00:00:00" distance_points="692.9" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.003" last_distance="46.995"/>
           </FsParticipant>
           <FsParticipant id="1203">
             <FsFlightData distance="59.651" bonus_distance="59.631" started_ss="2019-05-26T13:45:21+02:00" finished_ss="" tracklog_filename="1203.igc" lc="2.90467860485293" iv="315813"/>
-            <FsResult rank="5" points="938" distance="59.651" ss_time="00:00:00" distance_points="879.3" time_points="0" arrival_points="0" leading_points="59" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.651" last_distance="59.616"/>
+            <FsResult rank="5" points="938" distance="59.651" ss_time="00:00:00" distance_points="879.3" time_points="0" arrival_points="0" leading_points="59" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="59.651" last_distance="59.616"/>
           </FsParticipant>
           <FsParticipant id="1268">
             <FsFlightData distance="47.695" bonus_distance="47.752" started_ss="2019-05-26T13:45:06+02:00" finished_ss="" tracklog_filename="1268.igc" lc="4.30880054513462" iv="468477"/>
-            <FsResult rank="18" points="709" distance="47.695" ss_time="00:00:00" distance_points="703.1" time_points="0" arrival_points="0" leading_points="5.6" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.695" last_distance="47.423"/>
+            <FsResult rank="18" points="709" distance="47.695" ss_time="00:00:00" distance_points="703.1" time_points="0" arrival_points="0" leading_points="5.6" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.695" last_distance="47.423"/>
           </FsParticipant>
           <FsParticipant id="1282">
             <FsFlightData distance="46.508" bonus_distance="46.495" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="1282.igc" lc="4.59464339399653" iv="499555"/>
-            <FsResult rank="45" points="686" distance="46.508" ss_time="00:00:00" distance_points="685.6" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.508" last_distance="46.508"/>
+            <FsResult rank="45" points="686" distance="46.508" ss_time="00:00:00" distance_points="685.6" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.508" last_distance="46.508"/>
           </FsParticipant>
           <FsParticipant id="1405">
             <FsFlightData distance="46.318" bonus_distance="46.333" started_ss="2019-05-26T13:45:10+02:00" finished_ss="" tracklog_filename="1405.igc" lc="4.58591875088258" iv="498607"/>
-            <FsResult rank="53" points="683" distance="46.318" ss_time="00:00:00" distance_points="682.8" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.318" last_distance="46.31"/>
+            <FsResult rank="53" points="683" distance="46.318" ss_time="00:00:00" distance_points="682.8" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.318" last_distance="46.31"/>
           </FsParticipant>
           <FsParticipant id="1511">
             <FsFlightData distance="47.562" bonus_distance="47.585" started_ss="2019-05-26T13:45:16+02:00" finished_ss="" tracklog_filename="1511.igc" lc="4.3107292589813" iv="468687"/>
-            <FsResult rank="20" points="707" distance="47.562" ss_time="00:00:00" distance_points="701.1" time_points="0" arrival_points="0" leading_points="5.5" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.562" last_distance="47.559"/>
+            <FsResult rank="20" points="707" distance="47.562" ss_time="00:00:00" distance_points="701.1" time_points="0" arrival_points="0" leading_points="5.5" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.562" last_distance="47.559"/>
           </FsParticipant>
           <FsParticipant id="1987">
             <FsFlightData distance="47.624" bonus_distance="47.654" started_ss="2019-05-26T13:45:11+02:00" finished_ss="" tracklog_filename="1987.igc" lc="4.27971937179197" iv="465315"/>
-            <FsResult rank="18" points="709" distance="47.624" ss_time="00:00:00" distance_points="702.1" time_points="0" arrival_points="0" leading_points="6.4" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.624" last_distance="47.559"/>
+            <FsResult rank="18" points="709" distance="47.624" ss_time="00:00:00" distance_points="702.1" time_points="0" arrival_points="0" leading_points="6.4" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="47.624" last_distance="47.559"/>
           </FsParticipant>
           <FsParticipant id="2018">
             <FsFlightData distance="7.538" bonus_distance="10.899" started_ss="2019-05-26T14:45:02+02:00" finished_ss="" tracklog_filename="2018.igc" lc="11.1998239551725" iv="1217708"/>
-            <FsResult rank="121" points="111" distance="7.538" ss_time="00:00:00" distance_points="111.1" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.538" last_distance="7.115"/>
+            <FsResult rank="121" points="111" distance="7.538" ss_time="00:00:00" distance_points="111.1" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="7.538" last_distance="7.115"/>
           </FsParticipant>
           <FsParticipant id="2111">
             <FsFlightData distance="46.945" bonus_distance="46.885" started_ss="2019-05-26T13:45:15+02:00" finished_ss="" tracklog_filename="2111.igc" lc="4.46902661094234" iv="485898"/>
-            <FsResult rank="33" points="693" distance="46.945" ss_time="00:00:00" distance_points="692" time_points="0" arrival_points="0" leading_points="1.2" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.945" last_distance="46.943"/>
+            <FsResult rank="33" points="693" distance="46.945" ss_time="00:00:00" distance_points="692" time_points="0" arrival_points="0" leading_points="1.2" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.945" last_distance="46.943"/>
           </FsParticipant>
           <FsParticipant id="7087">
             <FsFlightData distance="8.414" bonus_distance="8.534" started_ss="2019-05-26T13:45:07+02:00" finished_ss="" tracklog_filename="7087.igc" lc="10.7984122333534" iv="1174064"/>
-            <FsResult rank="112" points="124" distance="8.414" ss_time="00:00:00" distance_points="124" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.414" last_distance="8.139"/>
+            <FsResult rank="112" points="124" distance="8.414" ss_time="00:00:00" distance_points="124" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="8.414" last_distance="8.139"/>
           </FsParticipant>
           <FsParticipant id="7117">
             <FsFlightData distance="46.993" bonus_distance="46.929" started_ss="2019-05-26T13:45:14+02:00" finished_ss="" tracklog_filename="7117.igc" lc="4.51326384598891" iv="490707"/>
-            <FsResult rank="33" points="693" distance="46.993" ss_time="00:00:00" distance_points="692.7" time_points="0" arrival_points="0" leading_points="0" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.993" last_distance="46.987"/>
+            <FsResult rank="33" points="693" distance="46.993" ss_time="00:00:00" distance_points="692.7" time_points="0" arrival_points="0" leading_points="0" penalty_points_auto="0" penalty_reason_auto="" started_ss="2019-05-26T13:45:00+02:00" real_distance="46.993" last_distance="46.987"/>
           </FsParticipant>
         </FsParticipants>
         <FsTaskScoreParams ss_distance="60.403" task_distance="63.949" launch_to_ess_distance="61.248" no_of_pilots_present="127" no_of_pilots_flying="127" no_of_pilots_lo="127" no_of_pilots_reaching_es="0" best_dist="61.052" best_time="0" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="4342.601" best_real_dist="61.052" goalratio="0" arrival_weight="0" leading_weight="0.0175" time_weight="0.0825" distance_weight="0.9" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
@@ -670,7 +670,7 @@
         </FsTaskScoreParams>
       </FsTask>
       <FsTask Dirty="1" id="2" name="T2" tracklog_folder="t_1_2">
-        <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_leading_points="1" score_back_time="5"/>
+        <FsScoreFormula id="PWC2019" min_dist="3" nom_dist="50" nom_time="1.25" nom_launch="0.96" nom_goal="0.3" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5"/>
         <FsTaskDefinition ss="2" es="5" goal="LINE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="D02087" lat="45.55303" lon="6.10471" altitude="870" radius="400" open="2019-05-27T12:00:00+02:00" close="2019-05-27T20:00:00+02:00"/>
           <FsTurnpoint id="B29091" lat="45.66998" lon="6.30726" altitude="910" radius="20000" open="2019-05-27T13:00:00+02:00" close="2019-05-27T20:00:00+02:00"/>

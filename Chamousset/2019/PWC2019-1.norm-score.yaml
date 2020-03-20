@@ -639,7 +639,7 @@ score:
       leadingArea: 471343.0000 km^2 s
       leadingCoef: 4.33515768
   - - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
     - breakdown:
         distance: 698.6
         leading: 4.1
@@ -1341,7 +1341,7 @@ score:
       leadingArea: 498978.0000 km^2 s
       leadingCoef: 4.58933041
   - - - '78'
-      - R├®mi BOURDELLE
+      - Rémi BOURDELLE
     - breakdown:
         distance: 685.9
         leading: 0
@@ -1503,7 +1503,7 @@ score:
       leadingArea: 496019.0000 km^2 s
       leadingCoef: 4.56212047
   - - - '72'
-      - Lo├»s GOUTAGNY
+      - Loïs GOUTAGNY
     - breakdown:
         distance: 682.8
         leading: 0
@@ -2502,7 +2502,7 @@ score:
       leadingArea: 715323.0000 km^2 s
       leadingCoef: 6.57916232
   - - - '7'
-      - M├®ryl DELFERRIERE
+      - Méryl DELFERRIERE
     - breakdown:
         distance: 462
         leading: 0
@@ -2745,7 +2745,7 @@ score:
       leadingArea: 1023228.0000 km^2 s
       leadingCoef: 9.41110419
   - - - '500'
-      - Jo┼ít NAPRET
+      - Jošt NAPRET
     - breakdown:
         distance: 178.8
         leading: 0
@@ -3042,7 +3042,7 @@ score:
       leadingArea: 1167944.0000 km^2 s
       leadingCoef: 10.74212199
   - - - '7087'
-      - Tom├í┼í PODMAN├ìK
+      - Tomáš PODMANÍK
     - breakdown:
         distance: 124
         leading: 0
@@ -3231,7 +3231,7 @@ score:
       leadingArea: 1188359.0000 km^2 s
       leadingCoef: 10.92989372
   - - - '12'
-      - St├®phane POULAIN
+      - Stéphane POULAIN
     - breakdown:
         distance: 114.9
         leading: 0

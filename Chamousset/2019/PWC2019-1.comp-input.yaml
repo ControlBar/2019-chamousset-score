@@ -22,7 +22,9 @@ nominal:
   free: 3.000 km
   time: 1.250000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: false
+  arrivalTime: false
+  leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
 - taskName: T1
@@ -169,11 +171,15 @@ tasks:
   - 2019-05-26T11:45:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
   penals: []
 - taskName: T2
   zones:
@@ -277,11 +283,15 @@ tasks:
   - 2019-05-27T11:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: false
+    arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
   penals: []
 taskFolders:
 - - t_1_1
@@ -363,7 +373,7 @@ pilots:
       - Deonir SPANCERSKI
     - 0061.igc
   - - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
     - 0221.igc
   - - - '114'
       - Elisabeth EGGER
@@ -447,7 +457,7 @@ pilots:
       - Joze MOLEK
     - 0517.igc
   - - - '500'
-      - JoÔö╝├¡t NAPRET
+      - Jošt NAPRET
     - 0500.igc
   - - - '2'
       - Julien WIRTZ
@@ -474,7 +484,7 @@ pilots:
       - Leandro PADUA
     - 0616.igc
   - - - '72'
-      - LoÔö£┬╗s GOUTAGNY
+      - Loïs GOUTAGNY
     - 0072.igc
   - - - '339'
       - Luc ARMANT
@@ -534,7 +544,7 @@ pilots:
       - Mitja JANCIC
     - 0992.igc
   - - - '7'
-      - MÔö£┬«ryl DELFERRIERE
+      - Méryl DELFERRIERE
     - 0007.igc
   - - - '211'
       - Nancy BERGE
@@ -573,7 +583,7 @@ pilots:
       - Russell OGDEN
     - 0003.igc
   - - - '78'
-      - RÔö£┬«mi BOURDELLE
+      - Rémi BOURDELLE
     - 0078.igc
   - - - '233'
       - Samuel AVENNE
@@ -615,7 +625,7 @@ pilots:
       - Stephane DROUIN
     - 0035.igc
   - - - '12'
-      - StÔö£┬«phane POULAIN
+      - Stéphane POULAIN
     - 0012.igc
   - - - '73'
       - Tanguy RENAUD-GOUD
@@ -633,7 +643,7 @@ pilots:
       - Tim ROCHAS
     - 0033.igc
   - - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+      - Tomáš PODMANÍK
     - 7087.igc
   - - - '32'
       - Torsten SIEGEL
@@ -744,7 +754,7 @@ pilots:
       - Deonir SPANCERSKI
     - 0061.igc
   - - - '221'
-      - Dusan DURKOVI
+      - Dusan DURKOVI?
     - 0221.igc
   - - - '114'
       - Elisabeth EGGER
@@ -828,7 +838,7 @@ pilots:
       - Joze MOLEK
     - 0517.igc
   - - - '500'
-      - JoÔö╝├¡t NAPRET
+      - Jošt NAPRET
     - 0500.igc
   - - - '2'
       - Julien WIRTZ
@@ -855,7 +865,7 @@ pilots:
       - Leandro PADUA
     - 0616.igc
   - - - '72'
-      - LoÔö£┬╗s GOUTAGNY
+      - Loïs GOUTAGNY
     - 0072.igc
   - - - '339'
       - Luc ARMANT
@@ -912,7 +922,7 @@ pilots:
       - Mitja JANCIC
     - 0992.igc
   - - - '7'
-      - MÔö£┬«ryl DELFERRIERE
+      - Méryl DELFERRIERE
     - 0007.igc
   - - - '211'
       - Nancy BERGE
@@ -951,7 +961,7 @@ pilots:
       - Russell OGDEN
     - 0003.igc
   - - - '78'
-      - RÔö£┬«mi BOURDELLE
+      - Rémi BOURDELLE
     - 0078.igc
   - - - '233'
       - Samuel AVENNE
@@ -993,7 +1003,7 @@ pilots:
       - Stephane DROUIN
     - 0035.igc
   - - - '12'
-      - StÔö£┬«phane POULAIN
+      - Stéphane POULAIN
     - 0012.igc
   - - - '73'
       - Tanguy RENAUD-GOUD
@@ -1011,7 +1021,7 @@ pilots:
       - Tim ROCHAS
     - 0033.igc
   - - - '7087'
-      - TomÔö£├¡Ôö╝├¡ PODMANÔö£├¼K
+      - Tomáš PODMANÍK
     - 7087.igc
   - - - '32'
       - Torsten SIEGEL
