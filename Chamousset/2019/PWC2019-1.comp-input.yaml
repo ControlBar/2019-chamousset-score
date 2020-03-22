@@ -10,8 +10,8 @@ comp:
     timeZoneMinutes: 120
   scoreBack: 300.000 s
   give:
-    giveFraction: 1.0e-4
-    giveDistance: 5.0 m
+    giveFraction: 1.0e-3
+    giveDistance: null
   earth:
     sphere:
       radius: 6371000.0 m
@@ -34,36 +34,36 @@ tasks:
       lat: 45.55303
       lng: 6.10471
       radius: 400.0 m
-      giveIn: 395.0 m
-      giveOut: 405.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
       alt: 870.000 m
     - zoneName: B15078
       lat: 45.48916
       lng: 6.12317
       radius: 6000.0 m
-      giveIn: 5995.0 m
-      giveOut: 6005.0 m
+      giveIn: 5994.0 m
+      giveOut: 6006.0 m
       alt: 784.000 m
     - zoneName: B15078
       lat: 45.48916
       lng: 6.12317
       radius: 1000.0 m
-      giveIn: 995.0 m
-      giveOut: 1005.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
       alt: 784.000 m
     - zoneName: B34204
       lat: 45.64448
       lng: 6.11947
       radius: 9000.0 m
-      giveIn: 8995.0 m
-      giveOut: 9005.0 m
+      giveIn: 8991.0 m
+      giveOut: 9009.0 m
       alt: 2040.000 m
     - zoneName: A05034
       lat: 45.45134
       lng: 6.10537
       radius: 4000.0 m
-      giveIn: 3995.0 m
-      giveOut: 4005.0 m
+      giveIn: 3996.0 m
+      giveOut: 4004.0 m
       alt: 347.000 m
     - zoneName: B21248
       lat: 45.56637
@@ -76,22 +76,22 @@ tasks:
       lat: 45.48916
       lng: 6.12317
       radius: 1000.0 m
-      giveIn: 995.0 m
-      giveOut: 1005.0 m
+      giveIn: 999.0 m
+      giveOut: 1001.0 m
       alt: 784.000 m
     - zoneName: D01128
       lat: 45.52966
       lng: 6.25286
       radius: 2000.0 m
-      giveIn: 1995.0 m
-      giveOut: 2005.0 m
+      giveIn: 1998.0 m
+      giveOut: 2002.0 m
       alt: 1284.000 m
     - zoneName: PC
       lat: 45.56143
       lng: 6.22534
       radius: 100.0 m
-      giveIn: 95.0 m
-      giveOut: 105.0 m
+      giveIn: 99.9 m
+      giveOut: 100.1 m
       alt: 294.000 m
     raceKind:
       prolog:
@@ -188,43 +188,43 @@ tasks:
       lat: 45.55303
       lng: 6.10471
       radius: 400.0 m
-      giveIn: 395.0 m
-      giveOut: 405.0 m
+      giveIn: 399.6 m
+      giveOut: 400.4 m
       alt: 870.000 m
     - zoneName: B29091
       lat: 45.66998
       lng: 6.30726
       radius: 20000.0 m
-      giveIn: 19995.0 m
-      giveOut: 20005.0 m
+      giveIn: 19980.0 m
+      giveOut: 20020.0 m
       alt: 910.000 m
     - zoneName: B29091
       lat: 45.66998
       lng: 6.30726
       radius: 8000.0 m
-      giveIn: 7995.0 m
-      giveOut: 8005.0 m
+      giveIn: 7992.0 m
+      giveOut: 8008.0 m
       alt: 910.000 m
     - zoneName: B10121
       lat: 45.40697
       lng: 6.05106
       radius: 7000.0 m
-      giveIn: 6995.0 m
-      giveOut: 7005.0 m
+      giveIn: 6993.0 m
+      giveOut: 7007.0 m
       alt: 1210.000 m
     - zoneName: D01128
       lat: 45.52966
       lng: 6.25286
       radius: 2500.0 m
-      giveIn: 2495.0 m
-      giveOut: 2505.0 m
+      giveIn: 2497.5 m
+      giveOut: 2502.5 m
       alt: 1284.000 m
     - zoneName: PC
       lat: 45.56143
       lng: 6.22534
       radius: 100.0 m
-      giveIn: 95.0 m
-      giveOut: 105.0 m
+      giveIn: 99.9 m
+      giveOut: 100.1 m
       alt: 294.000 m
     raceKind:
       prolog:

@@ -7,7 +7,7 @@ fs-route "$COMP"
 fs-effort "$COMP"
 fs-score "$COMP"
 
-extract-input "$COMP" --give-fraction=0.0001 --give-distance=5 --haversines
+extract-input "$COMP" --give-fraction=0.001 --haversines
 task-length "$COMP"
 cross-zone "$COMP"
 tag-zone "$COMP"
