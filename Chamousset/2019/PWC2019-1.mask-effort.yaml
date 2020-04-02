@@ -53,10 +53,6 @@ land:
       - Ronny GEIJSEN
     - togo: 13.022784 km
       made: 50.763210 km
-  - - - '1268'
-      - Marko NOVAK
-    - togo: 13.026883 km
-      made: 50.759111 km
   - - - '221'
       - Dusan DURKOVI?
     - togo: 13.055997 km
@@ -137,10 +133,6 @@ land:
       - Rafael SALADINI
     - togo: 13.661730 km
       made: 50.124264 km
-  - - - '460'
-      - Adrian SEITZ
-    - togo: 13.704648 km
-      made: 50.081346 km
   - - - '24'
       - Stephan MORGENTHALER
     - togo: 13.717583 km
@@ -189,10 +181,6 @@ land:
       - Yael MARGELISCH
     - togo: 14.025801 km
       made: 49.760193 km
-  - - - '311'
-      - Constance METTETAL
-    - togo: 14.085268 km
-      made: 49.700726 km
   - - - '72'
       - Loïs GOUTAGNY
     - togo: 14.127522 km
@@ -217,10 +205,6 @@ land:
       - Alexander SCHALBER
     - togo: 14.523653 km
       made: 49.262341 km
-  - - - '811'
-      - Thomas GURY
-    - togo: 14.555511 km
-      made: 49.230483 km
   - - - '911'
       - Joerg NUBER
     - togo: 14.575661 km
@@ -269,10 +253,6 @@ land:
       - Theo WARDEN
     - togo: 15.411861 km
       made: 48.374133 km
-  - - - '312'
-      - Yoshiki KUREMOTO
-    - togo: 15.412247 km
-      made: 48.373747 km
   - - - '211'
       - Nancy BERGE
     - togo: 15.416299 km
@@ -337,10 +317,6 @@ land:
       - Satsuki HOSHIDA
     - togo: 16.452599 km
       made: 47.333395 km
-  - - - '205'
-      - Jose REBELO
-    - togo: 16.944132 km
-      made: 46.841862 km
   - - - '1'
       - Pierre REMY
     - togo: 17.946778 km
@@ -485,15 +461,39 @@ land:
       - J.p. Robert VANDENBEGINE
     - togo: 53.036033 km
       made: 10.749961 km
+  - - - '1268'
+      - Marko NOVAK
+    - togo: 59.714647 km
+      made: 4.071347 km
   - - - '43'
       - Christian BIASI
     - togo: 60.293500 km
       made: 3.492494 km
+  - - - '460'
+      - Adrian SEITZ
+    - togo: 60.382645 km
+      made: 3.403349 km
+  - - - '311'
+      - Constance METTETAL
+    - togo: 60.764312 km
+      made: 3.021682 km
+  - - - '811'
+      - Thomas GURY
+    - togo: 61.212663 km
+      made: 2.573331 km
   - - - '259'
       - Owen SHOEMAKER
     - togo: 61.624329 km
       made: 2.161665 km
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - togo: 61.998506 km
+      made: 1.787488 km
   - - - '2018'
       - Cyrille MARCK
     - togo: 62.821863 km
       made: 0.964131 km
+  - - - '205'
+      - Jose REBELO
+    - togo: 63.577534 km
+      made: 0.208460 km

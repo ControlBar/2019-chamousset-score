@@ -1,11 +1,11 @@
 bolster:
 - max: 63.785994 km
-  mean: 40.774970 km
-  stdDev: 16.373532 km
+  mean: 38.818340 km
+  stdDev: 17.499345 km
 reach:
 - max: 63.785994 km
-  mean: 40.774970 km
-  stdDev: 16.373532 km
+  mean: 38.818340 km
+  stdDev: 17.499345 km
 reachRank:
 - - - - '61'
       - Deonir SPANCERSKI
@@ -19,10 +19,6 @@ reachRank:
       - Sebastian OSPINA
     - frac: 1
       reach: 63.785994 km
-  - - - '205'
-      - Jose REBELO
-    - frac: 0.87360862
-      reach: 55.723994 km
   - - - '215'
       - Michael SOMMERAUER
     - frac: 0.87357726
@@ -87,10 +83,6 @@ reachRank:
       - Yongtae AHN
     - frac: 0.80141408
       reach: 51.118994 km
-  - - - '1268'
-      - Marko NOVAK
-    - frac: 0.80009718
-      reach: 51.034994 km
   - - - '117'
       - Xevi BONET DALMAU
     - frac: 0.79921925
@@ -183,10 +175,6 @@ reachRank:
       - Rafael SALADINI
     - frac: 0.78579937
       reach: 50.122994 km
-  - - - '460'
-      - Adrian SEITZ
-    - frac: 0.78512524
-      reach: 50.079994 km
   - - - '33'
       - Tim ROCHAS
     - frac: 0.7829304
@@ -227,10 +215,6 @@ reachRank:
       - Yael MARGELISCH
     - frac: 0.78013982
       reach: 49.761994 km
-  - - - '311'
-      - Constance METTETAL
-    - frac: 0.77916782
-      reach: 49.699994 km
   - - - '72'
       - Loïs GOUTAGNY
     - frac: 0.77849369
@@ -259,10 +243,6 @@ reachRank:
       - Grant OSELAND
     - frac: 0.77187782
       reach: 49.234994 km
-  - - - '811'
-      - Thomas GURY
-    - frac: 0.77179943
-      reach: 49.229994 km
   - - - '911'
       - Joerg NUBER
     - frac: 0.77151724
@@ -319,10 +299,6 @@ reachRank:
       - Rafael MORAES BARROS
     - frac: 0.75837956
       reach: 48.373994 km
-  - - - '312'
-      - Yoshiki KUREMOTO
-    - frac: 0.75836388
-      reach: 48.372994 km
   - - - '701'
       - Christian BARTHELMANN
     - frac: 0.74975698
@@ -511,6 +487,30 @@ reachRank:
       - Christian BIASI
     - frac: 0.14565884
       reach: 9.290994 km
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - frac: 0.14553342
+      reach: 9.282994 km
+  - - - '205'
+      - Jose REBELO
+    - frac: 0.14553342
+      reach: 9.282994 km
+  - - - '460'
+      - Adrian SEITZ
+    - frac: 0.14542368
+      reach: 9.275994 km
+  - - - '811'
+      - Thomas GURY
+    - frac: 0.14542368
+      reach: 9.275994 km
+  - - - '1268'
+      - Marko NOVAK
+    - frac: 0.14537665
+      reach: 9.272994 km
+  - - - '311'
+      - Constance METTETAL
+    - frac: 0.14515716
+      reach: 9.258994 km
   - - - '259'
       - Owen SHOEMAKER
     - frac: 7.799508e-2
@@ -633,15 +633,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.761994 km
-  - - - '1268'
-      - Marko NOVAK
-    - togo:
-        distance: 12.751000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 51.034994 km
   - - - '221'
       - Dusan DURKOVI?
     - togo:
@@ -822,15 +813,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 50.122994 km
-  - - - '460'
-      - Adrian SEITZ
-    - togo:
-        distance: 13.706000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 50.079994 km
   - - - '24'
       - Stephan MORGENTHALER
     - togo:
@@ -939,15 +921,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 49.761994 km
-  - - - '311'
-      - Constance METTETAL
-    - togo:
-        distance: 14.086000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 49.699994 km
   - - - '72'
       - Loïs GOUTAGNY
     - togo:
@@ -1002,15 +975,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 49.261994 km
-  - - - '811'
-      - Thomas GURY
-    - togo:
-        distance: 14.556000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 49.229994 km
   - - - '911'
       - Joerg NUBER
     - togo:
@@ -1119,15 +1083,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 48.838994 km
-  - - - '312'
-      - Yoshiki KUREMOTO
-    - togo:
-        distance: 15.413000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 48.372994 km
   - - - '211'
       - Nancy BERGE
     - togo:
@@ -1272,15 +1227,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 47.358994 km
-  - - - '205'
-      - Jose REBELO
-    - togo:
-        distance: 8.062000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 55.723994 km
   - - - '1'
       - Pierre REMY
     - togo:
@@ -1605,6 +1551,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 10.826994 km
+  - - - '1268'
+      - Marko NOVAK
+    - togo:
+        distance: 54.513000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.272994 km
   - - - '43'
       - Christian BIASI
     - togo:
@@ -1614,6 +1569,33 @@ nigh:
         legsSum: []
         waypoints: []
       made: 9.290994 km
+  - - - '460'
+      - Adrian SEITZ
+    - togo:
+        distance: 54.510000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.275994 km
+  - - - '311'
+      - Constance METTETAL
+    - togo:
+        distance: 54.527000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.258994 km
+  - - - '811'
+      - Thomas GURY
+    - togo:
+        distance: 54.510000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.275994 km
   - - - '259'
       - Owen SHOEMAKER
     - togo:
@@ -1623,6 +1605,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 4.974994 km
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - togo:
+        distance: 54.503000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.282994 km
   - - - '2018'
       - Cyrille MARCK
     - togo:
@@ -1632,3 +1623,12 @@ nigh:
         legsSum: []
         waypoints: []
       made: 9.291994 km
+  - - - '205'
+      - Jose REBELO
+    - togo:
+        distance: 54.503000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 9.282994 km

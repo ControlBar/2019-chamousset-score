@@ -1,5 +1,5 @@
 ssBestTime:
-- 1.667107 h
+- 1.607706 h
 gsBestTime:
 - 1.640585 h
 taskDistance:
@@ -9,18 +9,18 @@ taskSpeedDistance:
 - 62.939623 km
 - 48.024628 km
 ssSpeed:
-- - - - '421'
-      - Chigwon WON
-    - time: 1.667107 h
-      frac: 1
-  - - - '61'
+- - - - '61'
       - Deonir SPANCERSKI
-    - time: 1.685242 h
-      frac: 0.94178655
+    - time: 1.607706 h
+      frac: 1
   - - - '332'
       - Sebastian OSPINA
-    - time: 1.827141 h
-      frac: 0.75140876
+    - time: 1.656141 h
+      frac: 0.88657734
+  - - - '421'
+      - Chigwon WON
+    - time: 1.658470 h
+      frac: 0.88296991
 gsSpeed:
 - - - - '61'
       - Deonir SPANCERSKI
