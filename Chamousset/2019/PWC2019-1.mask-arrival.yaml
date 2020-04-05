@@ -1,18 +1,4 @@
 pilotsAtEss:
-- 3
+- 0
 arrivalRank:
-- - - - '61'
-      - Deonir SPANCERSKI
-    - lag: 0.000000 h
-      rank: '1'
-      frac: 0
-  - - - '421'
-      - Chigwon WON
-    - lag: 0.021619 h
-      rank: '2'
-      frac: 0
-  - - - '332'
-      - Sebastian OSPINA
-    - lag: 0.024058 h
-      rank: '3'
-      frac: 0
+- []

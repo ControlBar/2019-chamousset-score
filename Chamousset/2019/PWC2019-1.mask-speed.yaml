@@ -1,7 +1,7 @@
 ssBestTime:
-- 1.607706 h
+- null
 gsBestTime:
-- 1.640585 h
+- null
 taskDistance:
 - 63.785994 km
 - 48.222079 km
@@ -9,31 +9,9 @@ taskSpeedDistance:
 - 62.939623 km
 - 48.024628 km
 ssSpeed:
-- - - - '61'
-      - Deonir SPANCERSKI
-    - time: 1.607706 h
-      frac: 1
-  - - - '332'
-      - Sebastian OSPINA
-    - time: 1.656141 h
-      frac: 0.88657734
-  - - - '421'
-      - Chigwon WON
-    - time: 1.658470 h
-      frac: 0.88296991
+- []
 gsSpeed:
-- - - - '61'
-      - Deonir SPANCERSKI
-    - time: 1.640585 h
-      frac: 1
-  - - - '421'
-      - Chigwon WON
-    - time: 1.662205 h
-      frac: 0.93419934
-  - - - '332'
-      - Sebastian OSPINA
-    - time: 1.664643 h
-      frac: 0.9293406
+- []
 altStopped:
 - - - - '460'
       - Adrian SEITZ
@@ -77,6 +55,9 @@ altStopped:
   - - - '6'
       - Charles CAZAUX
     - 280.000 m
+  - - - '421'
+      - Chigwon WON
+    - 293.000 m
   - - - '701'
       - Christian BARTHELMANN
     - 266.000 m
@@ -104,6 +85,9 @@ altStopped:
   - - - '147'
       - Denis CHOURAQUI
     - 276.000 m
+  - - - '61'
+      - Deonir SPANCERSKI
+    - 290.000 m
   - - - '221'
       - Dusan DURKOVI?
     - 274.000 m
@@ -323,6 +307,9 @@ altStopped:
   - - - '1115'
       - Satsuki HOSHIDA
     - 268.000 m
+  - - - '332'
+      - Sebastian OSPINA
+    - 290.000 m
   - - - '611'
       - Seiko FUKUOKA NAVILLE
     - 277.000 m
