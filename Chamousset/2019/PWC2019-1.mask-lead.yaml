@@ -23,7 +23,7 @@ raceDistance:
 - 62.939623 km
 - 48.024628 km
 sumDistance:
-- 4548.929238 km
+- 4797.421238 km
 leadAreaToCoef:
 - 0.00000014024236 km^-2 s^-1
 - 0.00000024087930 km^-2 s^-1
@@ -195,6 +195,11 @@ leadRank:
       - Petr KOSTRHUN
     - area: 25565610.4903 km^2 s
       coef: 3.58538162
+      frac: 0
+  - - - '1268'
+      - Marko NOVAK
+    - area: 25581553.7421 km^2 s
+      coef: 3.58761754
       frac: 0
   - - - '211'
       - Nancy BERGE
@@ -371,6 +376,11 @@ leadRank:
     - area: 26086093.5643 km^2 s
       coef: 3.6583754
       frac: 0
+  - - - '311'
+      - Constance METTETAL
+    - area: 26091587.8970 km^2 s
+      coef: 3.65914594
+      frac: 0
   - - - '105'
       - Stephane BENOIT
     - area: 26102758.5461 km^2 s
@@ -391,6 +401,11 @@ leadRank:
     - area: 26175908.3486 km^2 s
       coef: 3.67097124
       frac: 0
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - area: 26207560.2338 km^2 s
+      coef: 3.67541017
+      frac: 0
   - - - '55'
       - Miguel DIAZ RUIZ
     - area: 26240923.9812 km^2 s
@@ -406,6 +421,11 @@ leadRank:
     - area: 26368766.1951 km^2 s
       coef: 3.69801808
       frac: 0
+  - - - '460'
+      - Adrian SEITZ
+    - area: 26371194.2194 km^2 s
+      coef: 3.69835859
+      frac: 0
   - - - '701'
       - Christian BARTHELMANN
     - area: 26457424.6359 km^2 s
@@ -420,6 +440,11 @@ leadRank:
       - Emma CASANOVA
     - area: 26724502.2024 km^2 s
       coef: 3.74790734
+      frac: 0
+  - - - '205'
+      - Jose REBELO
+    - area: 26767543.8026 km^2 s
+      coef: 3.75394359
       frac: 0
   - - - '278'
       - Aleksei KOROBKOV
@@ -440,6 +465,11 @@ leadRank:
       - Pierre REMY
     - area: 27036580.5574 km^2 s
       coef: 3.79167394
+      frac: 0
+  - - - '811'
+      - Thomas GURY
+    - area: 27152810.0069 km^2 s
+      coef: 3.80797423
       frac: 0
   - - - '266'
       - Gildas BEN
@@ -641,6 +671,11 @@ leadRank:
     - area: 2394422.0243 km^2 s
       coef: 0.5767667
       frac: 0.96554551
+  - - - '2'
+      - Julien WIRTZ
+    - area: 2417746.8770 km^2 s
+      coef: 0.58238517
+      frac: 0.94239806
   - - - '416'
       - Isidor FINK
     - area: 2422637.2903 km^2 s
@@ -651,6 +686,11 @@ leadRank:
     - area: 2427491.2335 km^2 s
       coef: 0.58473238
       frac: 0.93407086
+  - - - '24'
+      - Stephan MORGENTHALER
+    - area: 2427515.7669 km^2 s
+      coef: 0.58473829
+      frac: 0.93405057
   - - - '1'
       - Pierre REMY
     - area: 2436636.9503 km^2 s
@@ -681,6 +721,16 @@ leadRank:
     - area: 2454782.9177 km^2 s
       coef: 0.59130638
       frac: 0.91309073
+  - - - '1116'
+      - Rolf DALE
+    - area: 2456173.5766 km^2 s
+      coef: 0.59164137
+      frac: 0.91209192
+  - - - '315'
+      - Malin LOBB
+    - area: 2456722.1482 km^2 s
+      coef: 0.59177351
+      frac: 0.91169948
   - - - '7117'
       - Ulrich PRINZ
     - area: 2459852.2420 km^2 s
@@ -796,6 +846,11 @@ leadRank:
     - area: 2510665.5624 km^2 s
       coef: 0.60476736
       frac: 0.87646302
+  - - - '54'
+      - Michal SNEIBERG
+    - area: 2511098.0518 km^2 s
+      coef: 0.60487153
+      frac: 0.87620187
   - - - '1987'
       - Krzysztof SCHMIDT
     - area: 2511314.7057 km^2 s
@@ -831,11 +886,26 @@ leadRank:
     - area: 2520747.4948 km^2 s
       coef: 0.60719589
       frac: 0.87044482
+  - - - '216'
+      - Grant OSELAND
+    - area: 2524014.6487 km^2 s
+      coef: 0.60798288
+      frac: 0.86852449
   - - - '1511'
       - Sergi CLARET
     - area: 2525038.7904 km^2 s
       coef: 0.60822957
       frac: 0.86792541
+  - - - '374'
+      - Arnaud SECHER
+    - area: 2526062.6345 km^2 s
+      coef: 0.60847619
+      frac: 0.86732787
+  - - - '222'
+      - Federico NEVASTRO
+    - area: 2526124.2999 km^2 s
+      coef: 0.60849105
+      frac: 0.86729192
   - - - '421'
       - Chigwon WON
     - area: 2527692.4156 km^2 s
@@ -936,6 +1006,11 @@ leadRank:
     - area: 2584356.9015 km^2 s
       coef: 0.62251807
       frac: 0.83521516
+  - - - '98'
+      - Nicola DONINI
+    - area: 2584702.5403 km^2 s
+      coef: 0.62260133
+      frac: 0.83503441
   - - - '249'
       - Emil CERVENAN
     - area: 2591942.6798 km^2 s
@@ -966,11 +1041,26 @@ leadRank:
     - area: 2628729.3454 km^2 s
       coef: 0.63320648
       frac: 0.81275319
+  - - - '30'
+      - Andreas MALECKI
+    - area: 2629028.7940 km^2 s
+      coef: 0.63327861
+      frac: 0.81260627
+  - - - '1268'
+      - Marko NOVAK
+    - area: 2629772.8648 km^2 s
+      coef: 0.63345784
+      frac: 0.81224146
   - - - '221'
       - Dusan DURKOVI?
     - area: 2631900.9767 km^2 s
       coef: 0.63397046
       frac: 0.81120003
+  - - - '234'
+      - Nicola DI BERNARDO
+    - area: 2635043.5669 km^2 s
+      coef: 0.63472744
+      frac: 0.80966738
   - - - '1000'
       - Bogdan BIALKA
     - area: 2635277.6486 km^2 s
@@ -1041,6 +1131,11 @@ leadRank:
     - area: 2675294.8973 km^2 s
       coef: 0.64442316
       frac: 0.79054858
+  - - - '124'
+      - Keiko HIRAKI
+    - area: 2687115.6192 km^2 s
+      coef: 0.64727052
+      frac: 0.78509934
   - - - '1113'
       - Zoran LABOVIC
     - area: 2698267.5928 km^2 s
@@ -1166,6 +1261,11 @@ leadRank:
     - area: 3685755.7092 km^2 s
       coef: 0.88782225
       frac: 0.44121478
+  - - - '202'
+      - Emma CASANOVA
+    - area: 3777195.7461 km^2 s
+      coef: 0.90984826
+      frac: 0.41553294
   - - - '427'
       - Jerome DELBECQUE
     - area: 4181584.9235 km^2 s

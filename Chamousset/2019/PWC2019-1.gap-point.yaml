@@ -12,7 +12,7 @@ validityWorking:
     flying: 127
     present: 127
   distance:
-    sum: 4548.9 km
+    sum: 4797.4 km
     flying: 127
     area: 32.6178991
     nominalGoal: 0.3
@@ -310,6 +310,39 @@ score:
       subtotal: 753.697
       landedMade: 48.392 km
       stoppedAlt: 280.000 m
+  - - - '205'
+      - Jose REBELO
+    - place: 9=
+      total: 752.716
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 752.716
+        distance: 752.716
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:47:59.584327607225Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 55.724 km
+        flown: 55.724 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 752.716
+      landedMade: 46.842 km
+      stoppedAlt: 274.000 m
   - - - '1203'
       - Arnaud BAUMY
     - place: 9=
@@ -378,7 +411,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '5'
       - Alexandre JOFRESA
-    - place: '11'
+    - place: '12'
       total: 751.694
       jump: null
       penalties: []
@@ -411,7 +444,7 @@ score:
       stoppedAlt: 283.000 m
   - - - '30'
       - Andreas MALECKI
-    - place: '12'
+    - place: '13'
       total: 750.648
       jump: null
       penalties: []
@@ -425,7 +458,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:17.679821454506Z
+        ss: 2019-05-26T11:45:24.346219046298Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -444,7 +477,7 @@ score:
       stoppedAlt: 286.000 m
   - - - '162'
       - Yassen SAVOV
-    - place: '13'
+    - place: '14'
       total: 742.223
       jump: null
       penalties: []
@@ -477,7 +510,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '18'
       - Joachim OBERHAUSER
-    - place: '14'
+    - place: '15'
       total: 716.442
       jump: null
       penalties: []
@@ -491,7 +524,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:11.331623387845Z
+        ss: 2019-05-26T11:45:19.51170244197Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -510,7 +543,7 @@ score:
       stoppedAlt: 262.000 m
   - - - '416'
       - Isidor FINK
-    - place: '15'
+    - place: '16'
       total: 714.962
       jump: null
       penalties: []
@@ -524,7 +557,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.582685261348Z
+        ss: 2019-05-26T11:45:07.624013604411Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -543,7 +576,7 @@ score:
       stoppedAlt: 277.000 m
   - - - '1010'
       - Jan JARES
-    - place: '16'
+    - place: '17'
       total: 697.658
       jump: null
       penalties: []
@@ -557,7 +590,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:19.727257663392Z
+        ss: 2019-05-26T11:45:22.231702719776Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -576,7 +609,7 @@ score:
       stoppedAlt: 280.000 m
   - - - '626'
       - Honorin HAMARD
-    - place: '17'
+    - place: '18'
       total: 696.683
       jump: null
       penalties: []
@@ -609,7 +642,7 @@ score:
       stoppedAlt: 269.000 m
   - - - '50'
       - Yoshiaki HIROKAWA
-    - place: '18'
+    - place: '19'
       total: 694.828
       jump: null
       penalties: []
@@ -642,7 +675,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '9'
       - Yongtae AHN
-    - place: '19'
+    - place: '20'
       total: 690.791
       jump: null
       penalties: []
@@ -675,7 +708,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '1987'
       - Krzysztof SCHMIDT
-    - place: 20=
+    - place: 21=
       total: 689.394
       jump: null
       penalties: []
@@ -706,9 +739,42 @@ score:
       subtotal: 689.394
       landedMade: 50.876 km
       stoppedAlt: 269.000 m
+  - - - '1268'
+      - Marko NOVAK
+    - place: 21=
+      total: 689.378
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 689.378
+        distance: 689.378
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:30:37.311463338626Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.035 km
+        flown: 51.035 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 689.378
+      landedMade: 50.759 km
+      stoppedAlt: 271.000 m
   - - - '117'
       - Xevi BONET DALMAU
-    - place: 20=
+    - place: 21=
       total: 688.621
       jump: null
       penalties: []
@@ -741,7 +807,7 @@ score:
       stoppedAlt: 271.000 m
   - - - '1511'
       - Sergi CLARET
-    - place: '22'
+    - place: '24'
       total: 688.213
       jump: null
       penalties: []
@@ -755,7 +821,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.492590181858Z
+        ss: 2019-05-26T11:45:12.134568517939Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -774,7 +840,7 @@ score:
       stoppedAlt: 267.000 m
   - - - '104'
       - Marco LITTAME
-    - place: 23=
+    - place: 25=
       total: 686.255
       jump: null
       penalties: []
@@ -807,7 +873,7 @@ score:
       stoppedAlt: 275.000 m
   - - - '40'
       - Ronny GEIJSEN
-    - place: 23=
+    - place: 25=
       total: 685.759
       jump: null
       penalties: []
@@ -821,7 +887,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:09.724033014215Z
+        ss: 2019-05-26T11:45:14.705959079623Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -840,7 +906,7 @@ score:
       stoppedAlt: 275.000 m
   - - - '217'
       - Manu LALY
-    - place: 23=
+    - place: 25=
       total: 685.758
       jump: null
       penalties: []
@@ -873,7 +939,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '221'
       - Dusan DURKOVI?
-    - place: 26=
+    - place: 28=
       total: 685.352
       jump: null
       penalties: []
@@ -887,7 +953,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:32.187166558354Z
+        ss: 2019-05-26T11:45:38.466542311015Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -906,7 +972,7 @@ score:
       stoppedAlt: 274.000 m
   - - - '59'
       - Michal GIERLACH
-    - place: 26=
+    - place: 28=
       total: 685.042
       jump: null
       penalties: []
@@ -939,7 +1005,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '22'
       - Marco BUSETTA
-    - place: 26=
+    - place: 28=
       total: 684.961
       jump: null
       penalties: []
@@ -972,7 +1038,7 @@ score:
       stoppedAlt: 274.000 m
   - - - '374'
       - Arnaud SECHER
-    - place: 29=
+    - place: 31=
       total: 683.907
       jump: null
       penalties: []
@@ -1005,7 +1071,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '249'
       - Emil CERVENAN
-    - place: 29=
+    - place: 31=
       total: 683.731
       jump: null
       penalties: []
@@ -1038,7 +1104,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '54'
       - Michal SNEIBERG
-    - place: '31'
+    - place: '33'
       total: 682.718
       jump: null
       penalties: []
@@ -1071,7 +1137,7 @@ score:
       stoppedAlt: 265.000 m
   - - - '611'
       - Seiko FUKUOKA NAVILLE
-    - place: '32'
+    - place: '34'
       total: 682.421
       jump: null
       penalties: []
@@ -1104,11 +1170,10 @@ score:
       stoppedAlt: 277.000 m
   - - - '10'
       - Ernesto HINESTROZA
-    - place: 33=
+    - place: 35=
       total: 680.489
-      jump: 0.327 s
-      penalties:
-      - penalty-reset: 78972
+      jump: null
+      penalties: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1119,7 +1184,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:44:59.672896560169Z
+        ss: 2019-05-26T11:45:10.730447685397Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -1131,15 +1196,14 @@ score:
         extra: 50.377 km
         flown: 50.377 km
       demeritReset: 0
-      penaltiesJump:
-      - penalty-reset: 78972
+      penaltiesJump: []
       penaltyReason: ''
       subtotal: 680.489
       landedMade: 50.378 km
       stoppedAlt: 282.000 m
   - - - '770'
       - Johannes BAUMGARTEN
-    - place: 33=
+    - place: 35=
       total: 680.489
       jump: null
       penalties: []
@@ -1172,7 +1236,7 @@ score:
       stoppedAlt: 291.000 m
   - - - '1116'
       - Rolf DALE
-    - place: 33=
+    - place: 35=
       total: 680.03
       jump: null
       penalties: []
@@ -1205,7 +1269,7 @@ score:
       stoppedAlt: 285.000 m
   - - - '7117'
       - Ulrich PRINZ
-    - place: 33=
+    - place: 35=
       total: 679.882
       jump: null
       penalties: []
@@ -1219,7 +1283,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:02.374227246824Z
+        ss: 2019-05-26T11:45:10.143821613142Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -1238,7 +1302,7 @@ score:
       stoppedAlt: 278.000 m
   - - - '377'
       - Yury MISHANIN
-    - place: 33=
+    - place: 35=
       total: 679.517
       jump: null
       penalties: []
@@ -1271,7 +1335,7 @@ score:
       stoppedAlt: 277.000 m
   - - - '2111'
       - Jurij VIDIC
-    - place: '38'
+    - place: '40'
       total: 678.855
       jump: null
       penalties: []
@@ -1304,7 +1368,7 @@ score:
       stoppedAlt: 280.000 m
   - - - '73'
       - Tanguy RENAUD-GOUD
-    - place: 39=
+    - place: 41=
       total: 678.112
       jump: null
       penalties: []
@@ -1337,7 +1401,7 @@ score:
       stoppedAlt: 280.000 m
   - - - '124'
       - Keiko HIRAKI
-    - place: 39=
+    - place: 41=
       total: 678.031
       jump: null
       penalties: []
@@ -1351,7 +1415,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.072953722559Z
+        ss: 2019-05-26T11:45:07.639548792128Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -1370,7 +1434,7 @@ score:
       stoppedAlt: 280.000 m
   - - - '618'
       - Petr KOSTRHUN
-    - place: 41=
+    - place: 43=
       total: 677.383
       jump: null
       penalties: []
@@ -1403,7 +1467,7 @@ score:
       stoppedAlt: 278.000 m
   - - - '17'
       - Rafael SALADINI
-    - place: 41=
+    - place: 43=
       total: 677.058
       jump: null
       penalties: []
@@ -1434,9 +1498,42 @@ score:
       subtotal: 677.058
       landedMade: 50.124 km
       stoppedAlt: 292.000 m
+  - - - '460'
+      - Adrian SEITZ
+    - place: '45'
+      total: 676.478
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 676.478
+        distance: 676.478
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:43:53.782958666741Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 50.080 km
+        flown: 50.080 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 676.478
+      landedMade: 50.081 km
+      stoppedAlt: 283.000 m
   - - - '33'
       - Tim ROCHAS
-    - place: '43'
+    - place: '46'
       total: 674.586
       jump: null
       penalties: []
@@ -1469,7 +1566,7 @@ score:
       stoppedAlt: 288.000 m
   - - - '203'
       - Christian HOCHEGGER
-    - place: 44=
+    - place: 47=
       total: 674.424
       jump: null
       penalties: []
@@ -1502,7 +1599,7 @@ score:
       stoppedAlt: 288.000 m
   - - - '809'
       - Andy TALLIA
-    - place: 44=
+    - place: 47=
       total: 673.681
       jump: null
       penalties: []
@@ -1535,7 +1632,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '92'
       - Jesus COSTA SANCHEZ
-    - place: 44=
+    - place: 47=
       total: 673.641
       jump: null
       penalties: []
@@ -1568,7 +1665,7 @@ score:
       stoppedAlt: 286.000 m
   - - - '233'
       - Samuel AVENNE
-    - place: 44=
+    - place: 47=
       total: 673.519
       jump: null
       penalties: []
@@ -1582,7 +1679,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:12.50542747686Z
+        ss: 2019-05-26T11:45:15.01731226439Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -1601,7 +1698,7 @@ score:
       stoppedAlt: 290.000 m
   - - - '78'
       - Rémi BOURDELLE
-    - place: 48=
+    - place: 51=
       total: 673.465
       jump: null
       penalties: []
@@ -1634,7 +1731,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '47'
       - Andreas NYFFENEGGER
-    - place: 48=
+    - place: 51=
       total: 673.357
       jump: null
       penalties: []
@@ -1648,7 +1745,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:07.636673024556Z
+        ss: 2019-05-26T11:45:18.295945752594Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -1667,7 +1764,7 @@ score:
       stoppedAlt: 290.000 m
   - - - '1282'
       - Bojan GABERSEK
-    - place: 48=
+    - place: 51=
       total: 673.263
       jump: null
       penalties: []
@@ -1700,7 +1797,7 @@ score:
       stoppedAlt: 289.000 m
   - - - '49'
       - Jonathan MARIN
-    - place: 48=
+    - place: 51=
       total: 672.966
       jump: 0.777 s
       penalties:
@@ -1735,7 +1832,7 @@ score:
       stoppedAlt: 292.000 m
   - - - '29'
       - Yael MARGELISCH
-    - place: '52'
+    - place: '55'
       total: 672.182
       jump: null
       penalties: []
@@ -1766,9 +1863,42 @@ score:
       subtotal: 672.182
       landedMade: 49.760 km
       stoppedAlt: 284.000 m
+  - - - '311'
+      - Constance METTETAL
+    - place: 56=
+      total: 671.345
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 671.345
+        distance: 671.345
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:39:23.804584374979Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.700 km
+        flown: 49.700 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 671.345
+      landedMade: 49.701 km
+      stoppedAlt: 294.000 m
   - - - '72'
       - Loïs GOUTAGNY
-    - place: 53=
+    - place: 56=
       total: 670.764
       jump: null
       penalties: []
@@ -1801,7 +1931,7 @@ score:
       stoppedAlt: 292.000 m
   - - - '1405'
       - Mariusz WISNIOWSKI
-    - place: 53=
+    - place: 56=
       total: 670.723
       jump: null
       penalties: []
@@ -1834,7 +1964,7 @@ score:
       stoppedAlt: 298.000 m
   - - - '21'
       - Damien LACAZE
-    - place: '55'
+    - place: '59'
       total: 669.94
       jump: null
       penalties: []
@@ -1867,7 +1997,7 @@ score:
       stoppedAlt: 277.000 m
   - - - '315'
       - Malin LOBB
-    - place: '56'
+    - place: '60'
       total: 666.765
       jump: null
       penalties: []
@@ -1900,7 +2030,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '147'
       - Denis CHOURAQUI
-    - place: '57'
+    - place: '61'
       total: 665.82
       jump: null
       penalties: []
@@ -1933,7 +2063,7 @@ score:
       stoppedAlt: 276.000 m
   - - - '453'
       - Alexander SCHALBER
-    - place: 58=
+    - place: 62=
       total: 665.428
       jump: null
       penalties: []
@@ -1966,7 +2096,7 @@ score:
       stoppedAlt: 280.000 m
   - - - '216'
       - Grant OSELAND
-    - place: 58=
+    - place: 62=
       total: 665.063
       jump: null
       penalties: []
@@ -1997,9 +2127,42 @@ score:
       subtotal: 665.063
       landedMade: 49.139 km
       stoppedAlt: 301.000 m
+  - - - '811'
+      - Thomas GURY
+    - place: 62=
+      total: 664.996
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 664.996
+        distance: 664.996
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:47:48.915500188019Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.230 km
+        flown: 49.230 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 664.996
+      landedMade: 49.230 km
+      stoppedAlt: 272.000 m
   - - - '911'
       - Joerg NUBER
-    - place: 58=
+    - place: 62=
       total: 664.753
       jump: null
       penalties: []
@@ -2032,7 +2195,7 @@ score:
       stoppedAlt: 271.000 m
   - - - '105'
       - Stephane BENOIT
-    - place: '61'
+    - place: '66'
       total: 662.186
       jump: null
       penalties: []
@@ -2065,7 +2228,7 @@ score:
       stoppedAlt: 288.000 m
   - - - '55'
       - Miguel DIAZ RUIZ
-    - place: '62'
+    - place: '67'
       total: 661.457
       jump: null
       penalties: []
@@ -2098,7 +2261,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '35'
       - Stephane DROUIN
-    - place: 63=
+    - place: 68=
       total: 660.349
       jump: null
       penalties: []
@@ -2112,7 +2275,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:07.655250841816Z
+        ss: 2019-05-26T11:45:20.987510997085Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2131,7 +2294,7 @@ score:
       stoppedAlt: 282.000 m
   - - - '107'
       - Laurie GENOVESE
-    - place: 63=
+    - place: 68=
       total: 660.187
       jump: null
       penalties: []
@@ -2145,7 +2308,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:02.716879548332Z
+        ss: 2019-05-26T11:45:08.127480257774Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2164,7 +2327,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '38'
       - Theo WARDEN
-    - place: 63=
+    - place: 68=
       total: 659.714
       jump: null
       penalties: []
@@ -2197,7 +2360,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '711'
       - Jacques FOURNIER
-    - place: 66=
+    - place: 71=
       total: 659.012
       jump: null
       penalties: []
@@ -2230,7 +2393,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '278'
       - Aleksei KOROBKOV
-    - place: 66=
+    - place: 71=
       total: 658.863
       jump: null
       penalties: []
@@ -2263,7 +2426,7 @@ score:
       stoppedAlt: 282.000 m
   - - - '27'
       - Stefan BERNHARD
-    - place: '68'
+    - place: '73'
       total: 657.08
       jump: null
       penalties: []
@@ -2277,7 +2440,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:06.103344002024Z
+        ss: 2019-05-26T11:45:19.535168434646Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2296,7 +2459,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '240'
       - Shinichi HOSHIDA
-    - place: 69=
+    - place: 74=
       total: 654.352
       jump: null
       penalties: []
@@ -2329,7 +2492,7 @@ score:
       stoppedAlt: 270.000 m
   - - - '211'
       - Nancy BERGE
-    - place: 69=
+    - place: 74=
       total: 653.919
       jump: null
       penalties: []
@@ -2362,7 +2525,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '330'
       - Helmut EICHHOLZER
-    - place: 71=
+    - place: 76=
       total: 653.474
       jump: null
       penalties: []
@@ -2395,7 +2558,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '63'
       - Mitch RILEY
-    - place: 71=
+    - place: 76=
       total: 653.46
       jump: null
       penalties: []
@@ -2409,7 +2572,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:57.087202772858Z
+        ss: 2019-05-26T11:46:00.596923106743Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2428,7 +2591,7 @@ score:
       stoppedAlt: 270.000 m
   - - - '34'
       - Rafael MORAES BARROS
-    - place: 71=
+    - place: 76=
       total: 653.433
       jump: null
       penalties: []
@@ -2459,9 +2622,42 @@ score:
       subtotal: 653.433
       landedMade: 48.361 km
       stoppedAlt: 267.000 m
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - place: 76=
+      total: 653.42
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 653.42
+        distance: 653.42
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:43:31.052407244417Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 48.373 km
+        flown: 48.373 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 653.42
+      landedMade: 48.374 km
+      stoppedAlt: 269.000 m
   - - - '701'
       - Christian BARTHELMANN
-    - place: 74=
+    - place: 80=
       total: 646.004
       jump: null
       penalties: []
@@ -2494,7 +2690,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '236'
       - Andrey ELISEEV
-    - place: 74=
+    - place: 80=
       total: 645.842
       jump: null
       penalties: []
@@ -2508,7 +2704,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:09.762804345597Z
+        ss: 2019-05-26T11:45:20.383726080882Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2527,7 +2723,7 @@ score:
       stoppedAlt: 267.000 m
   - - - '619'
       - Michel MACQUET
-    - place: 76=
+    - place: 82=
       total: 643.397
       jump: null
       penalties: []
@@ -2560,7 +2756,7 @@ score:
       stoppedAlt: 272.000 m
   - - - '202'
       - Emma CASANOVA
-    - place: 76=
+    - place: 82=
       total: 643.275
       jump: null
       penalties: []
@@ -2593,7 +2789,7 @@ score:
       stoppedAlt: 271.000 m
   - - - '266'
       - Gildas BEN
-    - place: 76=
+    - place: 82=
       total: 642.883
       jump: null
       penalties: []
@@ -2626,7 +2822,7 @@ score:
       stoppedAlt: 264.000 m
   - - - '1113'
       - Zoran LABOVIC
-    - place: 76=
+    - place: 82=
       total: 642.843
       jump: null
       penalties: []
@@ -2659,7 +2855,7 @@ score:
       stoppedAlt: 271.000 m
   - - - '280'
       - Joanna DI GRIGOLI
-    - place: 76=
+    - place: 82=
       total: 642.762
       jump: null
       penalties: []
@@ -2692,7 +2888,7 @@ score:
       stoppedAlt: 270.000 m
   - - - '512'
       - Vitalii UMANSKYI
-    - place: '81'
+    - place: '87'
       total: 641.303
       jump: null
       penalties: []
@@ -2725,7 +2921,7 @@ score:
       stoppedAlt: 347.000 m
   - - - '1115'
       - Satsuki HOSHIDA
-    - place: '82'
+    - place: '88'
       total: 639.722
       jump: null
       penalties: []
@@ -2758,7 +2954,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '1'
       - Pierre REMY
-    - place: '83'
+    - place: '89'
       total: 619.19
       jump: null
       penalties: []
@@ -2772,7 +2968,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:17.212973775222Z
+        ss: 2019-05-26T11:45:22.810905354918Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2791,7 +2987,7 @@ score:
       stoppedAlt: 273.000 m
   - - - '206'
       - Ivan HAAS
-    - place: '84'
+    - place: '90'
       total: 537.616
       jump: null
       penalties: []
@@ -2824,11 +3020,10 @@ score:
       stoppedAlt: 294.000 m
   - - - '313'
       - Michele BOSCHI
-    - place: '85'
+    - place: '91'
       total: 496.538
-      jump: 0.122 s
-      penalties:
-      - penalty-reset: 78972
+      jump: null
+      penalties: []
       breakdown:
         effort: 0
         arrival: 0
@@ -2839,7 +3034,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:44:59.878231464727Z
+        ss: 2019-05-26T11:45:05.477957838944Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2851,15 +3046,14 @@ score:
         extra: 36.759 km
         flown: 36.759 km
       demeritReset: 0
-      penaltiesJump:
-      - penalty-reset: 78972
+      penaltiesJump: []
       penaltyReason: ''
       subtotal: 496.538
       landedMade: 36.114 km
       stoppedAlt: 277.000 m
   - - - '32'
       - Torsten SIEGEL
-    - place: '86'
+    - place: '92'
       total: 473.116
       jump: null
       penalties: []
@@ -2873,7 +3067,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:57.913828130933Z
+        ss: 2019-05-26T11:46:11.965350630064Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2892,7 +3086,7 @@ score:
       stoppedAlt: 1355.000 m
   - - - '7'
       - Méryl DELFERRIERE
-    - place: '87'
+    - place: '93'
       total: 469.549
       jump: null
       penalties: []
@@ -2925,7 +3119,7 @@ score:
       stoppedAlt: 268.000 m
   - - - '273'
       - Cristiano RICCI
-    - place: '88'
+    - place: '94'
       total: 442.425
       jump: null
       penalties: []
@@ -2939,7 +3133,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:03.528400538201Z
+        ss: 2019-05-26T11:45:15.147116346782Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -2958,7 +3152,7 @@ score:
       stoppedAlt: 270.000 m
   - - - '925'
       - Jack BAILEY
-    - place: 89=
+    - place: 95=
       total: 340.913
       jump: null
       penalties: []
@@ -2991,7 +3185,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '71'
       - Martin LONG
-    - place: 89=
+    - place: 95=
       total: 340.576
       jump: null
       penalties: []
@@ -3024,7 +3218,7 @@ score:
       stoppedAlt: 250.000 m
   - - - '13'
       - Stefan WYSS
-    - place: '91'
+    - place: '97'
       total: 332.944
       jump: null
       penalties: []
@@ -3038,7 +3232,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:47:18.462385792464Z
+        ss: 2019-05-26T11:47:24.693237405949Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -3057,7 +3251,7 @@ score:
       stoppedAlt: 300.000 m
   - - - '427'
       - Jerome DELBECQUE
-    - place: '92'
+    - place: '98'
       total: 315.545
       jump: null
       penalties: []
@@ -3090,7 +3284,7 @@ score:
       stoppedAlt: 325.000 m
   - - - '616'
       - Leandro PADUA
-    - place: '93'
+    - place: '99'
       total: 288.475
       jump: null
       penalties: []
@@ -3123,7 +3317,7 @@ score:
       stoppedAlt: 246.000 m
   - - - '219'
       - Ferdinand VOGEL
-    - place: '94'
+    - place: '100'
       total: 260.514
       jump: 0.491 s
       penalties:
@@ -3158,7 +3352,7 @@ score:
       stoppedAlt: 252.000 m
   - - - '339'
       - Luc ARMANT
-    - place: '95'
+    - place: '101'
       total: 255.692
       jump: null
       penalties: []
@@ -3191,7 +3385,7 @@ score:
       stoppedAlt: 252.000 m
   - - - '500'
       - Jošt NAPRET
-    - place: '96'
+    - place: '102'
       total: 210.332
       jump: null
       penalties: []
@@ -3224,7 +3418,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '98'
       - Nicola DONINI
-    - place: '97'
+    - place: '103'
       total: 200.323
       jump: null
       penalties: []
@@ -3257,7 +3451,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '580'
       - Kostiantyn GONCHARENKO
-    - place: '98'
+    - place: '104'
       total: 199.364
       jump: null
       penalties: []
@@ -3271,7 +3465,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:10.767173254002Z
+        ss: 2019-05-26T11:45:16.958411971448Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -3290,7 +3484,7 @@ score:
       stoppedAlt: 252.000 m
   - - - '234'
       - Nicola DI BERNARDO
-    - place: 99=
+    - place: 105=
       total: 196.662
       jump: null
       penalties: []
@@ -3323,7 +3517,7 @@ score:
       stoppedAlt: 242.000 m
   - - - '45'
       - Felix RODRIGUEZ FERNANDEZ
-    - place: 99=
+    - place: 105=
       total: 196.594
       jump: null
       penalties: []
@@ -3356,7 +3550,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '2'
       - Julien WIRTZ
-    - place: 101=
+    - place: 107=
       total: 196.216
       jump: null
       penalties: []
@@ -3389,7 +3583,7 @@ score:
       stoppedAlt: 250.000 m
   - - - '8'
       - Clement LATOUR
-    - place: 101=
+    - place: 107=
       total: 196.014
       jump: null
       penalties: []
@@ -3422,7 +3616,7 @@ score:
       stoppedAlt: 246.000 m
   - - - '69'
       - Martin PETZ
-    - place: 101=
+    - place: 107=
       total: 195.676
       jump: null
       penalties: []
@@ -3455,7 +3649,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '174'
       - Baptiste LAMBERT
-    - place: '104'
+    - place: '110'
       total: 190.908
       jump: null
       penalties: []
@@ -3488,7 +3682,7 @@ score:
       stoppedAlt: 243.000 m
   - - - '1000'
       - Bogdan BIALKA
-    - place: '105'
+    - place: '111'
       total: 172.834
       jump: null
       penalties: []
@@ -3521,7 +3715,7 @@ score:
       stoppedAlt: 249.000 m
   - - - '709'
       - Simon METTETAL
-    - place: '106'
+    - place: '112'
       total: 164.54
       jump: null
       penalties: []
@@ -3554,7 +3748,7 @@ score:
       stoppedAlt: 290.000 m
   - - - '7087'
       - Tomáš PODMANÍK
-    - place: '107'
+    - place: '113'
       total: 160.299
       jump: null
       penalties: []
@@ -3587,7 +3781,7 @@ score:
       stoppedAlt: 266.000 m
   - - - '410'
       - Mari-anne AANES
-    - place: '108'
+    - place: '114'
       total: 154.977
       jump: null
       penalties: []
@@ -3620,7 +3814,7 @@ score:
       stoppedAlt: 252.000 m
   - - - '46'
       - Simon PELLISSIER
-    - place: '109'
+    - place: '115'
       total: 152.896
       jump: null
       penalties: []
@@ -3653,7 +3847,7 @@ score:
       stoppedAlt: 254.000 m
   - - - '992'
       - Mitja JANCIC
-    - place: 110=
+    - place: 116=
       total: 152.342
       jump: null
       penalties: []
@@ -3667,7 +3861,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:11.501790236217Z
+        ss: 2019-05-26T11:45:16.05265396024Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -3686,7 +3880,7 @@ score:
       stoppedAlt: 249.000 m
   - - - '506'
       - Flavio FUNIATI
-    - place: 110=
+    - place: 116=
       total: 152.194
       jump: null
       penalties: []
@@ -3719,7 +3913,7 @@ score:
       stoppedAlt: 250.000 m
   - - - '515'
       - Tilen CEGLAR
-    - place: 110=
+    - place: 116=
       total: 151.978
       jump: null
       penalties: []
@@ -3752,7 +3946,7 @@ score:
       stoppedAlt: 253.000 m
   - - - '12'
       - Stéphane POULAIN
-    - place: 110=
+    - place: 116=
       total: 151.735
       jump: null
       penalties: []
@@ -3785,7 +3979,7 @@ score:
       stoppedAlt: 250.000 m
   - - - '256'
       - Karel KUTA
-    - place: 110=
+    - place: 116=
       total: 151.721
       jump: null
       penalties: []
@@ -3799,7 +3993,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:14.828575490535Z
+        ss: 2019-05-26T11:45:28.468523013415Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -3818,7 +4012,7 @@ score:
       stoppedAlt: 254.000 m
   - - - '248'
       - Nanda WALLISER
-    - place: '115'
+    - place: '121'
       total: 149.087
       jump: null
       penalties: []
@@ -3832,7 +4026,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:00.436779785823Z
+        ss: 2019-05-26T11:45:14.097513992827Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -3851,7 +4045,7 @@ score:
       stoppedAlt: 248.000 m
   - - - '222'
       - Federico NEVASTRO
-    - place: 116=
+    - place: 122=
       total: 146.467
       jump: null
       penalties: []
@@ -3884,7 +4078,7 @@ score:
       stoppedAlt: 242.000 m
   - - - '210'
       - J.p. Robert VANDENBEGINE
-    - place: 116=
+    - place: 122=
       total: 146.25
       jump: null
       penalties: []
@@ -3917,7 +4111,7 @@ score:
       stoppedAlt: 243.000 m
   - - - '114'
       - Elisabeth EGGER
-    - place: 116=
+    - place: 122=
       total: 146.075
       jump: null
       penalties: []
@@ -3950,7 +4144,7 @@ score:
       stoppedAlt: 240.000 m
   - - - '2018'
       - Cyrille MARCK
-    - place: 119=
+    - place: 125=
       total: 125.516
       jump: null
       penalties: []
@@ -3983,7 +4177,7 @@ score:
       stoppedAlt: 267.000 m
   - - - '43'
       - Christian BIASI
-    - place: 119=
+    - place: 125=
       total: 125.502
       jump: null
       penalties: []
@@ -4014,204 +4208,6 @@ score:
       subtotal: 125.502
       landedMade: 3.492 km
       stoppedAlt: 283.000 m
-  - - - '205'
-      - Jose REBELO
-    - place: 121=
-      total: 125.394
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.394
-        distance: 125.394
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:07:32.867936216142Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.283 km
-        flown: 9.283 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.394
-      landedMade: 0.208 km
-      stoppedAlt: 274.000 m
-  - - - '312'
-      - Yoshiki KUREMOTO
-    - place: 121=
-      total: 125.394
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.394
-        distance: 125.394
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:06:32.982784281919Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.283 km
-        flown: 9.283 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.394
-      landedMade: 1.787 km
-      stoppedAlt: 269.000 m
-  - - - '460'
-      - Adrian SEITZ
-    - place: 121=
-      total: 125.3
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.3
-        distance: 125.3
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:08:52.617192894673Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.276 km
-        flown: 9.276 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.3
-      landedMade: 3.403 km
-      stoppedAlt: 283.000 m
-  - - - '811'
-      - Thomas GURY
-    - place: 121=
-      total: 125.3
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.3
-        distance: 125.3
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:08:58.358307297339Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.276 km
-        flown: 9.276 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.3
-      landedMade: 2.573 km
-      stoppedAlt: 272.000 m
-  - - - '1268'
-      - Marko NOVAK
-    - place: 121=
-      total: 125.259
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.259
-        distance: 125.259
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:06:53.331763114917Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.273 km
-        flown: 9.273 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.259
-      landedMade: 4.071 km
-      stoppedAlt: 271.000 m
-  - - - '311'
-      - Constance METTETAL
-    - place: 121=
-      total: 125.07
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.07
-        distance: 125.07
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:15:07.163133968082Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.259 km
-        flown: 9.259 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.07
-      landedMade: 3.022 km
-      stoppedAlt: 294.000 m
   - - - '259'
       - Owen SHOEMAKER
     - place: '127'
@@ -4512,6 +4508,39 @@ scoreDf:
       subtotal: 753.697
       landedMade: 48.392 km
       stoppedAlt: 280.000 m
+  - - - '205'
+      - Jose REBELO
+    - place: 9=
+      total: 752.716
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 752.716
+        distance: 752.716
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:47:59.584327607225Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 55.724 km
+        flown: 55.724 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 752.716
+      landedMade: 46.842 km
+      stoppedAlt: 274.000 m
   - - - '1203'
       - Arnaud BAUMY
     - place: 9=
@@ -4580,7 +4609,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '5'
       - Alexandre JOFRESA
-    - place: '11'
+    - place: '12'
       total: 751.694
       jump: null
       penalties: []
@@ -4613,7 +4642,7 @@ scoreDf:
       stoppedAlt: 283.000 m
   - - - '30'
       - Andreas MALECKI
-    - place: '12'
+    - place: '13'
       total: 750.648
       jump: null
       penalties: []
@@ -4627,7 +4656,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:17.679821454506Z
+        ss: 2019-05-26T11:45:24.346219046298Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -4646,7 +4675,7 @@ scoreDf:
       stoppedAlt: 286.000 m
   - - - '162'
       - Yassen SAVOV
-    - place: '13'
+    - place: '14'
       total: 742.223
       jump: null
       penalties: []
@@ -4679,7 +4708,7 @@ scoreDf:
       stoppedAlt: 276.000 m
   - - - '18'
       - Joachim OBERHAUSER
-    - place: '14'
+    - place: '15'
       total: 716.442
       jump: null
       penalties: []
@@ -4693,7 +4722,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:11.331623387845Z
+        ss: 2019-05-26T11:45:19.51170244197Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -4712,7 +4741,7 @@ scoreDf:
       stoppedAlt: 262.000 m
   - - - '416'
       - Isidor FINK
-    - place: '15'
+    - place: '16'
       total: 714.962
       jump: null
       penalties: []
@@ -4726,7 +4755,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.582685261348Z
+        ss: 2019-05-26T11:45:07.624013604411Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -4745,7 +4774,7 @@ scoreDf:
       stoppedAlt: 277.000 m
   - - - '1010'
       - Jan JARES
-    - place: '16'
+    - place: '17'
       total: 697.658
       jump: null
       penalties: []
@@ -4759,7 +4788,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:19.727257663392Z
+        ss: 2019-05-26T11:45:22.231702719776Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -4778,7 +4807,7 @@ scoreDf:
       stoppedAlt: 280.000 m
   - - - '626'
       - Honorin HAMARD
-    - place: '17'
+    - place: '18'
       total: 696.683
       jump: null
       penalties: []
@@ -4811,7 +4840,7 @@ scoreDf:
       stoppedAlt: 269.000 m
   - - - '50'
       - Yoshiaki HIROKAWA
-    - place: '18'
+    - place: '19'
       total: 694.828
       jump: null
       penalties: []
@@ -4844,7 +4873,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '9'
       - Yongtae AHN
-    - place: '19'
+    - place: '20'
       total: 690.791
       jump: null
       penalties: []
@@ -4877,7 +4906,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '1987'
       - Krzysztof SCHMIDT
-    - place: 20=
+    - place: 21=
       total: 689.394
       jump: null
       penalties: []
@@ -4908,9 +4937,42 @@ scoreDf:
       subtotal: 689.394
       landedMade: 50.876 km
       stoppedAlt: 269.000 m
+  - - - '1268'
+      - Marko NOVAK
+    - place: 21=
+      total: 689.378
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 689.378
+        distance: 689.378
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:30:37.311463338626Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 51.035 km
+        flown: 51.035 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 689.378
+      landedMade: 50.759 km
+      stoppedAlt: 271.000 m
   - - - '117'
       - Xevi BONET DALMAU
-    - place: 20=
+    - place: 21=
       total: 688.621
       jump: null
       penalties: []
@@ -4943,7 +5005,7 @@ scoreDf:
       stoppedAlt: 271.000 m
   - - - '1511'
       - Sergi CLARET
-    - place: '22'
+    - place: '24'
       total: 688.213
       jump: null
       penalties: []
@@ -4957,7 +5019,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.492590181858Z
+        ss: 2019-05-26T11:45:12.134568517939Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -4976,7 +5038,7 @@ scoreDf:
       stoppedAlt: 267.000 m
   - - - '104'
       - Marco LITTAME
-    - place: 23=
+    - place: 25=
       total: 686.255
       jump: null
       penalties: []
@@ -5009,7 +5071,7 @@ scoreDf:
       stoppedAlt: 275.000 m
   - - - '40'
       - Ronny GEIJSEN
-    - place: 23=
+    - place: 25=
       total: 685.759
       jump: null
       penalties: []
@@ -5023,7 +5085,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:09.724033014215Z
+        ss: 2019-05-26T11:45:14.705959079623Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5042,7 +5104,7 @@ scoreDf:
       stoppedAlt: 275.000 m
   - - - '217'
       - Manu LALY
-    - place: 23=
+    - place: 25=
       total: 685.758
       jump: null
       penalties: []
@@ -5075,7 +5137,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '221'
       - Dusan DURKOVI?
-    - place: 26=
+    - place: 28=
       total: 685.352
       jump: null
       penalties: []
@@ -5089,7 +5151,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:32.187166558354Z
+        ss: 2019-05-26T11:45:38.466542311015Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5108,7 +5170,7 @@ scoreDf:
       stoppedAlt: 274.000 m
   - - - '59'
       - Michal GIERLACH
-    - place: 26=
+    - place: 28=
       total: 685.042
       jump: null
       penalties: []
@@ -5141,7 +5203,7 @@ scoreDf:
       stoppedAlt: 276.000 m
   - - - '22'
       - Marco BUSETTA
-    - place: 26=
+    - place: 28=
       total: 684.961
       jump: null
       penalties: []
@@ -5174,7 +5236,7 @@ scoreDf:
       stoppedAlt: 274.000 m
   - - - '374'
       - Arnaud SECHER
-    - place: 29=
+    - place: 31=
       total: 683.907
       jump: null
       penalties: []
@@ -5207,7 +5269,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '249'
       - Emil CERVENAN
-    - place: 29=
+    - place: 31=
       total: 683.731
       jump: null
       penalties: []
@@ -5240,7 +5302,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '54'
       - Michal SNEIBERG
-    - place: '31'
+    - place: '33'
       total: 682.718
       jump: null
       penalties: []
@@ -5273,7 +5335,7 @@ scoreDf:
       stoppedAlt: 265.000 m
   - - - '611'
       - Seiko FUKUOKA NAVILLE
-    - place: '32'
+    - place: '34'
       total: 682.421
       jump: null
       penalties: []
@@ -5306,11 +5368,10 @@ scoreDf:
       stoppedAlt: 277.000 m
   - - - '10'
       - Ernesto HINESTROZA
-    - place: 33=
+    - place: 35=
       total: 680.489
-      jump: 0.327 s
-      penalties:
-      - penalty-reset: 78972
+      jump: null
+      penalties: []
       breakdown:
         effort: 0
         arrival: 0
@@ -5321,7 +5382,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:44:59.672896560169Z
+        ss: 2019-05-26T11:45:10.730447685397Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5333,15 +5394,14 @@ scoreDf:
         extra: 50.377 km
         flown: 50.377 km
       demeritReset: 0
-      penaltiesJump:
-      - penalty-reset: 78972
+      penaltiesJump: []
       penaltyReason: ''
       subtotal: 680.489
       landedMade: 50.378 km
       stoppedAlt: 282.000 m
   - - - '770'
       - Johannes BAUMGARTEN
-    - place: 33=
+    - place: 35=
       total: 680.489
       jump: null
       penalties: []
@@ -5374,7 +5434,7 @@ scoreDf:
       stoppedAlt: 291.000 m
   - - - '1116'
       - Rolf DALE
-    - place: 33=
+    - place: 35=
       total: 680.03
       jump: null
       penalties: []
@@ -5407,7 +5467,7 @@ scoreDf:
       stoppedAlt: 285.000 m
   - - - '7117'
       - Ulrich PRINZ
-    - place: 33=
+    - place: 35=
       total: 679.882
       jump: null
       penalties: []
@@ -5421,7 +5481,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:02.374227246824Z
+        ss: 2019-05-26T11:45:10.143821613142Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5440,7 +5500,7 @@ scoreDf:
       stoppedAlt: 278.000 m
   - - - '377'
       - Yury MISHANIN
-    - place: 33=
+    - place: 35=
       total: 679.517
       jump: null
       penalties: []
@@ -5473,7 +5533,7 @@ scoreDf:
       stoppedAlt: 277.000 m
   - - - '2111'
       - Jurij VIDIC
-    - place: '38'
+    - place: '40'
       total: 678.855
       jump: null
       penalties: []
@@ -5506,7 +5566,7 @@ scoreDf:
       stoppedAlt: 280.000 m
   - - - '73'
       - Tanguy RENAUD-GOUD
-    - place: 39=
+    - place: 41=
       total: 678.112
       jump: null
       penalties: []
@@ -5539,7 +5599,7 @@ scoreDf:
       stoppedAlt: 280.000 m
   - - - '124'
       - Keiko HIRAKI
-    - place: 39=
+    - place: 41=
       total: 678.031
       jump: null
       penalties: []
@@ -5553,7 +5613,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:01.072953722559Z
+        ss: 2019-05-26T11:45:07.639548792128Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5572,7 +5632,7 @@ scoreDf:
       stoppedAlt: 280.000 m
   - - - '618'
       - Petr KOSTRHUN
-    - place: 41=
+    - place: 43=
       total: 677.383
       jump: null
       penalties: []
@@ -5605,7 +5665,7 @@ scoreDf:
       stoppedAlt: 278.000 m
   - - - '17'
       - Rafael SALADINI
-    - place: 41=
+    - place: 43=
       total: 677.058
       jump: null
       penalties: []
@@ -5636,9 +5696,42 @@ scoreDf:
       subtotal: 677.058
       landedMade: 50.124 km
       stoppedAlt: 292.000 m
+  - - - '460'
+      - Adrian SEITZ
+    - place: '45'
+      total: 676.478
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 676.478
+        distance: 676.478
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:43:53.782958666741Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 50.080 km
+        flown: 50.080 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 676.478
+      landedMade: 50.081 km
+      stoppedAlt: 283.000 m
   - - - '33'
       - Tim ROCHAS
-    - place: '43'
+    - place: '46'
       total: 674.586
       jump: null
       penalties: []
@@ -5671,7 +5764,7 @@ scoreDf:
       stoppedAlt: 288.000 m
   - - - '203'
       - Christian HOCHEGGER
-    - place: 44=
+    - place: 47=
       total: 674.424
       jump: null
       penalties: []
@@ -5704,7 +5797,7 @@ scoreDf:
       stoppedAlt: 288.000 m
   - - - '809'
       - Andy TALLIA
-    - place: 44=
+    - place: 47=
       total: 673.681
       jump: null
       penalties: []
@@ -5737,7 +5830,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '92'
       - Jesus COSTA SANCHEZ
-    - place: 44=
+    - place: 47=
       total: 673.641
       jump: null
       penalties: []
@@ -5770,7 +5863,7 @@ scoreDf:
       stoppedAlt: 286.000 m
   - - - '233'
       - Samuel AVENNE
-    - place: 44=
+    - place: 47=
       total: 673.519
       jump: null
       penalties: []
@@ -5784,7 +5877,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:12.50542747686Z
+        ss: 2019-05-26T11:45:15.01731226439Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5803,7 +5896,7 @@ scoreDf:
       stoppedAlt: 290.000 m
   - - - '78'
       - Rémi BOURDELLE
-    - place: 48=
+    - place: 51=
       total: 673.465
       jump: null
       penalties: []
@@ -5836,7 +5929,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '47'
       - Andreas NYFFENEGGER
-    - place: 48=
+    - place: 51=
       total: 673.357
       jump: null
       penalties: []
@@ -5850,7 +5943,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:07.636673024556Z
+        ss: 2019-05-26T11:45:18.295945752594Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -5869,7 +5962,7 @@ scoreDf:
       stoppedAlt: 290.000 m
   - - - '1282'
       - Bojan GABERSEK
-    - place: 48=
+    - place: 51=
       total: 673.263
       jump: null
       penalties: []
@@ -5902,7 +5995,7 @@ scoreDf:
       stoppedAlt: 289.000 m
   - - - '49'
       - Jonathan MARIN
-    - place: 48=
+    - place: 51=
       total: 672.966
       jump: 0.777 s
       penalties:
@@ -5937,7 +6030,7 @@ scoreDf:
       stoppedAlt: 292.000 m
   - - - '29'
       - Yael MARGELISCH
-    - place: '52'
+    - place: '55'
       total: 672.182
       jump: null
       penalties: []
@@ -5968,9 +6061,42 @@ scoreDf:
       subtotal: 672.182
       landedMade: 49.760 km
       stoppedAlt: 284.000 m
+  - - - '311'
+      - Constance METTETAL
+    - place: 56=
+      total: 671.345
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 671.345
+        distance: 671.345
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:39:23.804584374979Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.700 km
+        flown: 49.700 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 671.345
+      landedMade: 49.701 km
+      stoppedAlt: 294.000 m
   - - - '72'
       - Loïs GOUTAGNY
-    - place: 53=
+    - place: 56=
       total: 670.764
       jump: null
       penalties: []
@@ -6003,7 +6129,7 @@ scoreDf:
       stoppedAlt: 292.000 m
   - - - '1405'
       - Mariusz WISNIOWSKI
-    - place: 53=
+    - place: 56=
       total: 670.723
       jump: null
       penalties: []
@@ -6036,7 +6162,7 @@ scoreDf:
       stoppedAlt: 298.000 m
   - - - '21'
       - Damien LACAZE
-    - place: '55'
+    - place: '59'
       total: 669.94
       jump: null
       penalties: []
@@ -6069,7 +6195,7 @@ scoreDf:
       stoppedAlt: 277.000 m
   - - - '315'
       - Malin LOBB
-    - place: '56'
+    - place: '60'
       total: 666.765
       jump: null
       penalties: []
@@ -6102,7 +6228,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '147'
       - Denis CHOURAQUI
-    - place: '57'
+    - place: '61'
       total: 665.82
       jump: null
       penalties: []
@@ -6135,7 +6261,7 @@ scoreDf:
       stoppedAlt: 276.000 m
   - - - '453'
       - Alexander SCHALBER
-    - place: 58=
+    - place: 62=
       total: 665.428
       jump: null
       penalties: []
@@ -6168,7 +6294,7 @@ scoreDf:
       stoppedAlt: 280.000 m
   - - - '216'
       - Grant OSELAND
-    - place: 58=
+    - place: 62=
       total: 665.063
       jump: null
       penalties: []
@@ -6199,9 +6325,42 @@ scoreDf:
       subtotal: 665.063
       landedMade: 49.139 km
       stoppedAlt: 301.000 m
+  - - - '811'
+      - Thomas GURY
+    - place: 62=
+      total: 664.996
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 664.996
+        distance: 664.996
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:47:48.915500188019Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 49.230 km
+        flown: 49.230 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 664.996
+      landedMade: 49.230 km
+      stoppedAlt: 272.000 m
   - - - '911'
       - Joerg NUBER
-    - place: 58=
+    - place: 62=
       total: 664.753
       jump: null
       penalties: []
@@ -6234,7 +6393,7 @@ scoreDf:
       stoppedAlt: 271.000 m
   - - - '105'
       - Stephane BENOIT
-    - place: '61'
+    - place: '66'
       total: 662.186
       jump: null
       penalties: []
@@ -6267,7 +6426,7 @@ scoreDf:
       stoppedAlt: 288.000 m
   - - - '55'
       - Miguel DIAZ RUIZ
-    - place: '62'
+    - place: '67'
       total: 661.457
       jump: null
       penalties: []
@@ -6300,7 +6459,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '35'
       - Stephane DROUIN
-    - place: 63=
+    - place: 68=
       total: 660.349
       jump: null
       penalties: []
@@ -6314,7 +6473,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:07.655250841816Z
+        ss: 2019-05-26T11:45:20.987510997085Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6333,7 +6492,7 @@ scoreDf:
       stoppedAlt: 282.000 m
   - - - '107'
       - Laurie GENOVESE
-    - place: 63=
+    - place: 68=
       total: 660.187
       jump: null
       penalties: []
@@ -6347,7 +6506,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:02.716879548332Z
+        ss: 2019-05-26T11:45:08.127480257774Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6366,7 +6525,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '38'
       - Theo WARDEN
-    - place: 63=
+    - place: 68=
       total: 659.714
       jump: null
       penalties: []
@@ -6399,7 +6558,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '711'
       - Jacques FOURNIER
-    - place: 66=
+    - place: 71=
       total: 659.012
       jump: null
       penalties: []
@@ -6432,7 +6591,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '278'
       - Aleksei KOROBKOV
-    - place: 66=
+    - place: 71=
       total: 658.863
       jump: null
       penalties: []
@@ -6465,7 +6624,7 @@ scoreDf:
       stoppedAlt: 282.000 m
   - - - '27'
       - Stefan BERNHARD
-    - place: '68'
+    - place: '73'
       total: 657.08
       jump: null
       penalties: []
@@ -6479,7 +6638,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:06.103344002024Z
+        ss: 2019-05-26T11:45:19.535168434646Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6498,7 +6657,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '240'
       - Shinichi HOSHIDA
-    - place: 69=
+    - place: 74=
       total: 654.352
       jump: null
       penalties: []
@@ -6531,7 +6690,7 @@ scoreDf:
       stoppedAlt: 270.000 m
   - - - '211'
       - Nancy BERGE
-    - place: 69=
+    - place: 74=
       total: 653.919
       jump: null
       penalties: []
@@ -6564,7 +6723,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '330'
       - Helmut EICHHOLZER
-    - place: 71=
+    - place: 76=
       total: 653.474
       jump: null
       penalties: []
@@ -6597,7 +6756,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '63'
       - Mitch RILEY
-    - place: 71=
+    - place: 76=
       total: 653.46
       jump: null
       penalties: []
@@ -6611,7 +6770,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:57.087202772858Z
+        ss: 2019-05-26T11:46:00.596923106743Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6630,7 +6789,7 @@ scoreDf:
       stoppedAlt: 270.000 m
   - - - '34'
       - Rafael MORAES BARROS
-    - place: 71=
+    - place: 76=
       total: 653.433
       jump: null
       penalties: []
@@ -6661,9 +6820,42 @@ scoreDf:
       subtotal: 653.433
       landedMade: 48.361 km
       stoppedAlt: 267.000 m
+  - - - '312'
+      - Yoshiki KUREMOTO
+    - place: 76=
+      total: 653.42
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 0
+        arrival: 0
+        time: 0
+        reach: 653.42
+        distance: 653.42
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2019-05-26T12:43:31.052407244417Z
+        gs: 2019-05-26T11:45:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 48.373 km
+        flown: 48.373 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 653.42
+      landedMade: 48.374 km
+      stoppedAlt: 269.000 m
   - - - '701'
       - Christian BARTHELMANN
-    - place: 74=
+    - place: 80=
       total: 646.004
       jump: null
       penalties: []
@@ -6696,7 +6888,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '236'
       - Andrey ELISEEV
-    - place: 74=
+    - place: 80=
       total: 645.842
       jump: null
       penalties: []
@@ -6710,7 +6902,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:09.762804345597Z
+        ss: 2019-05-26T11:45:20.383726080882Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6729,7 +6921,7 @@ scoreDf:
       stoppedAlt: 267.000 m
   - - - '619'
       - Michel MACQUET
-    - place: 76=
+    - place: 82=
       total: 643.397
       jump: null
       penalties: []
@@ -6762,7 +6954,7 @@ scoreDf:
       stoppedAlt: 272.000 m
   - - - '202'
       - Emma CASANOVA
-    - place: 76=
+    - place: 82=
       total: 643.275
       jump: null
       penalties: []
@@ -6795,7 +6987,7 @@ scoreDf:
       stoppedAlt: 271.000 m
   - - - '266'
       - Gildas BEN
-    - place: 76=
+    - place: 82=
       total: 642.883
       jump: null
       penalties: []
@@ -6828,7 +7020,7 @@ scoreDf:
       stoppedAlt: 264.000 m
   - - - '1113'
       - Zoran LABOVIC
-    - place: 76=
+    - place: 82=
       total: 642.843
       jump: null
       penalties: []
@@ -6861,7 +7053,7 @@ scoreDf:
       stoppedAlt: 271.000 m
   - - - '280'
       - Joanna DI GRIGOLI
-    - place: 76=
+    - place: 82=
       total: 642.762
       jump: null
       penalties: []
@@ -6894,7 +7086,7 @@ scoreDf:
       stoppedAlt: 270.000 m
   - - - '512'
       - Vitalii UMANSKYI
-    - place: '81'
+    - place: '87'
       total: 641.303
       jump: null
       penalties: []
@@ -6927,7 +7119,7 @@ scoreDf:
       stoppedAlt: 347.000 m
   - - - '1115'
       - Satsuki HOSHIDA
-    - place: '82'
+    - place: '88'
       total: 639.722
       jump: null
       penalties: []
@@ -6960,7 +7152,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '1'
       - Pierre REMY
-    - place: '83'
+    - place: '89'
       total: 619.19
       jump: null
       penalties: []
@@ -6974,7 +7166,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:17.212973775222Z
+        ss: 2019-05-26T11:45:22.810905354918Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -6993,7 +7185,7 @@ scoreDf:
       stoppedAlt: 273.000 m
   - - - '206'
       - Ivan HAAS
-    - place: '84'
+    - place: '90'
       total: 537.616
       jump: null
       penalties: []
@@ -7026,11 +7218,10 @@ scoreDf:
       stoppedAlt: 294.000 m
   - - - '313'
       - Michele BOSCHI
-    - place: '85'
+    - place: '91'
       total: 496.538
-      jump: 0.122 s
-      penalties:
-      - penalty-reset: 78972
+      jump: null
+      penalties: []
       breakdown:
         effort: 0
         arrival: 0
@@ -7041,7 +7232,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:44:59.878231464727Z
+        ss: 2019-05-26T11:45:05.477957838944Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7053,15 +7244,14 @@ scoreDf:
         extra: 36.759 km
         flown: 36.759 km
       demeritReset: 0
-      penaltiesJump:
-      - penalty-reset: 78972
+      penaltiesJump: []
       penaltyReason: ''
       subtotal: 496.538
       landedMade: 36.114 km
       stoppedAlt: 277.000 m
   - - - '32'
       - Torsten SIEGEL
-    - place: '86'
+    - place: '92'
       total: 473.116
       jump: null
       penalties: []
@@ -7075,7 +7265,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:57.913828130933Z
+        ss: 2019-05-26T11:46:11.965350630064Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7094,7 +7284,7 @@ scoreDf:
       stoppedAlt: 1355.000 m
   - - - '7'
       - Méryl DELFERRIERE
-    - place: '87'
+    - place: '93'
       total: 469.549
       jump: null
       penalties: []
@@ -7127,7 +7317,7 @@ scoreDf:
       stoppedAlt: 268.000 m
   - - - '273'
       - Cristiano RICCI
-    - place: '88'
+    - place: '94'
       total: 442.425
       jump: null
       penalties: []
@@ -7141,7 +7331,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:03.528400538201Z
+        ss: 2019-05-26T11:45:15.147116346782Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7160,7 +7350,7 @@ scoreDf:
       stoppedAlt: 270.000 m
   - - - '925'
       - Jack BAILEY
-    - place: 89=
+    - place: 95=
       total: 340.913
       jump: null
       penalties: []
@@ -7193,7 +7383,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '71'
       - Martin LONG
-    - place: 89=
+    - place: 95=
       total: 340.576
       jump: null
       penalties: []
@@ -7226,7 +7416,7 @@ scoreDf:
       stoppedAlt: 250.000 m
   - - - '13'
       - Stefan WYSS
-    - place: '91'
+    - place: '97'
       total: 332.944
       jump: null
       penalties: []
@@ -7240,7 +7430,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:47:18.462385792464Z
+        ss: 2019-05-26T11:47:24.693237405949Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7259,7 +7449,7 @@ scoreDf:
       stoppedAlt: 300.000 m
   - - - '427'
       - Jerome DELBECQUE
-    - place: '92'
+    - place: '98'
       total: 315.545
       jump: null
       penalties: []
@@ -7292,7 +7482,7 @@ scoreDf:
       stoppedAlt: 325.000 m
   - - - '616'
       - Leandro PADUA
-    - place: '93'
+    - place: '99'
       total: 288.475
       jump: null
       penalties: []
@@ -7325,7 +7515,7 @@ scoreDf:
       stoppedAlt: 246.000 m
   - - - '219'
       - Ferdinand VOGEL
-    - place: '94'
+    - place: '100'
       total: 260.514
       jump: 0.491 s
       penalties:
@@ -7360,7 +7550,7 @@ scoreDf:
       stoppedAlt: 252.000 m
   - - - '339'
       - Luc ARMANT
-    - place: '95'
+    - place: '101'
       total: 255.692
       jump: null
       penalties: []
@@ -7393,7 +7583,7 @@ scoreDf:
       stoppedAlt: 252.000 m
   - - - '500'
       - Jošt NAPRET
-    - place: '96'
+    - place: '102'
       total: 210.332
       jump: null
       penalties: []
@@ -7426,7 +7616,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '98'
       - Nicola DONINI
-    - place: '97'
+    - place: '103'
       total: 200.323
       jump: null
       penalties: []
@@ -7459,7 +7649,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '580'
       - Kostiantyn GONCHARENKO
-    - place: '98'
+    - place: '104'
       total: 199.364
       jump: null
       penalties: []
@@ -7473,7 +7663,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:10.767173254002Z
+        ss: 2019-05-26T11:45:16.958411971448Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7492,7 +7682,7 @@ scoreDf:
       stoppedAlt: 252.000 m
   - - - '234'
       - Nicola DI BERNARDO
-    - place: 99=
+    - place: 105=
       total: 196.662
       jump: null
       penalties: []
@@ -7525,7 +7715,7 @@ scoreDf:
       stoppedAlt: 242.000 m
   - - - '45'
       - Felix RODRIGUEZ FERNANDEZ
-    - place: 99=
+    - place: 105=
       total: 196.594
       jump: null
       penalties: []
@@ -7558,7 +7748,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '2'
       - Julien WIRTZ
-    - place: 101=
+    - place: 107=
       total: 196.216
       jump: null
       penalties: []
@@ -7591,7 +7781,7 @@ scoreDf:
       stoppedAlt: 250.000 m
   - - - '8'
       - Clement LATOUR
-    - place: 101=
+    - place: 107=
       total: 196.014
       jump: null
       penalties: []
@@ -7624,7 +7814,7 @@ scoreDf:
       stoppedAlt: 246.000 m
   - - - '69'
       - Martin PETZ
-    - place: 101=
+    - place: 107=
       total: 195.676
       jump: null
       penalties: []
@@ -7657,7 +7847,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '174'
       - Baptiste LAMBERT
-    - place: '104'
+    - place: '110'
       total: 190.908
       jump: null
       penalties: []
@@ -7690,7 +7880,7 @@ scoreDf:
       stoppedAlt: 243.000 m
   - - - '1000'
       - Bogdan BIALKA
-    - place: '105'
+    - place: '111'
       total: 172.834
       jump: null
       penalties: []
@@ -7723,7 +7913,7 @@ scoreDf:
       stoppedAlt: 249.000 m
   - - - '709'
       - Simon METTETAL
-    - place: '106'
+    - place: '112'
       total: 164.54
       jump: null
       penalties: []
@@ -7756,7 +7946,7 @@ scoreDf:
       stoppedAlt: 290.000 m
   - - - '7087'
       - Tomáš PODMANÍK
-    - place: '107'
+    - place: '113'
       total: 160.299
       jump: null
       penalties: []
@@ -7789,7 +7979,7 @@ scoreDf:
       stoppedAlt: 266.000 m
   - - - '410'
       - Mari-anne AANES
-    - place: '108'
+    - place: '114'
       total: 154.977
       jump: null
       penalties: []
@@ -7822,7 +8012,7 @@ scoreDf:
       stoppedAlt: 252.000 m
   - - - '46'
       - Simon PELLISSIER
-    - place: '109'
+    - place: '115'
       total: 152.896
       jump: null
       penalties: []
@@ -7855,7 +8045,7 @@ scoreDf:
       stoppedAlt: 254.000 m
   - - - '992'
       - Mitja JANCIC
-    - place: 110=
+    - place: 116=
       total: 152.342
       jump: null
       penalties: []
@@ -7869,7 +8059,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:11.501790236217Z
+        ss: 2019-05-26T11:45:16.05265396024Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -7888,7 +8078,7 @@ scoreDf:
       stoppedAlt: 249.000 m
   - - - '506'
       - Flavio FUNIATI
-    - place: 110=
+    - place: 116=
       total: 152.194
       jump: null
       penalties: []
@@ -7921,7 +8111,7 @@ scoreDf:
       stoppedAlt: 250.000 m
   - - - '515'
       - Tilen CEGLAR
-    - place: 110=
+    - place: 116=
       total: 151.978
       jump: null
       penalties: []
@@ -7954,7 +8144,7 @@ scoreDf:
       stoppedAlt: 253.000 m
   - - - '12'
       - Stéphane POULAIN
-    - place: 110=
+    - place: 116=
       total: 151.735
       jump: null
       penalties: []
@@ -7987,7 +8177,7 @@ scoreDf:
       stoppedAlt: 250.000 m
   - - - '256'
       - Karel KUTA
-    - place: 110=
+    - place: 116=
       total: 151.721
       jump: null
       penalties: []
@@ -8001,7 +8191,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:14.828575490535Z
+        ss: 2019-05-26T11:45:28.468523013415Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -8020,7 +8210,7 @@ scoreDf:
       stoppedAlt: 254.000 m
   - - - '248'
       - Nanda WALLISER
-    - place: '115'
+    - place: '121'
       total: 149.087
       jump: null
       penalties: []
@@ -8034,7 +8224,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-05-26T11:45:00.436779785823Z
+        ss: 2019-05-26T11:45:14.097513992827Z
         gs: 2019-05-26T11:45:00Z
         es: null
         ssDistance: null
@@ -8053,7 +8243,7 @@ scoreDf:
       stoppedAlt: 248.000 m
   - - - '222'
       - Federico NEVASTRO
-    - place: 116=
+    - place: 122=
       total: 146.467
       jump: null
       penalties: []
@@ -8086,7 +8276,7 @@ scoreDf:
       stoppedAlt: 242.000 m
   - - - '210'
       - J.p. Robert VANDENBEGINE
-    - place: 116=
+    - place: 122=
       total: 146.25
       jump: null
       penalties: []
@@ -8119,7 +8309,7 @@ scoreDf:
       stoppedAlt: 243.000 m
   - - - '114'
       - Elisabeth EGGER
-    - place: 116=
+    - place: 122=
       total: 146.075
       jump: null
       penalties: []
@@ -8152,7 +8342,7 @@ scoreDf:
       stoppedAlt: 240.000 m
   - - - '2018'
       - Cyrille MARCK
-    - place: 119=
+    - place: 125=
       total: 125.516
       jump: null
       penalties: []
@@ -8185,7 +8375,7 @@ scoreDf:
       stoppedAlt: 267.000 m
   - - - '43'
       - Christian BIASI
-    - place: 119=
+    - place: 125=
       total: 125.502
       jump: null
       penalties: []
@@ -8216,204 +8406,6 @@ scoreDf:
       subtotal: 125.502
       landedMade: 3.492 km
       stoppedAlt: 283.000 m
-  - - - '205'
-      - Jose REBELO
-    - place: 121=
-      total: 125.394
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.394
-        distance: 125.394
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:07:32.867936216142Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.283 km
-        flown: 9.283 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.394
-      landedMade: 0.208 km
-      stoppedAlt: 274.000 m
-  - - - '312'
-      - Yoshiki KUREMOTO
-    - place: 121=
-      total: 125.394
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.394
-        distance: 125.394
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:06:32.982784281919Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.283 km
-        flown: 9.283 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.394
-      landedMade: 1.787 km
-      stoppedAlt: 269.000 m
-  - - - '460'
-      - Adrian SEITZ
-    - place: 121=
-      total: 125.3
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.3
-        distance: 125.3
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:08:52.617192894673Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.276 km
-        flown: 9.276 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.3
-      landedMade: 3.403 km
-      stoppedAlt: 283.000 m
-  - - - '811'
-      - Thomas GURY
-    - place: 121=
-      total: 125.3
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.3
-        distance: 125.3
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:08:58.358307297339Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.276 km
-        flown: 9.276 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.3
-      landedMade: 2.573 km
-      stoppedAlt: 272.000 m
-  - - - '1268'
-      - Marko NOVAK
-    - place: 121=
-      total: 125.259
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.259
-        distance: 125.259
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:06:53.331763114917Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.273 km
-        flown: 9.273 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.259
-      landedMade: 4.071 km
-      stoppedAlt: 271.000 m
-  - - - '311'
-      - Constance METTETAL
-    - place: 121=
-      total: 125.07
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 0
-        arrival: 0
-        time: 0
-        reach: 125.07
-        distance: 125.07
-        leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2019-05-26T12:15:07.163133968082Z
-        gs: 2019-05-26T11:45:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 9.259 km
-        flown: 9.259 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 125.07
-      landedMade: 3.022 km
-      stoppedAlt: 294.000 m
   - - - '259'
       - Owen SHOEMAKER
     - place: '127'
